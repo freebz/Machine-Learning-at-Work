@@ -1,14 +1,16 @@
-from statsmodels.stats.proportion import proportion_confint
+max_sample = 3000000
+# 표본 A의 평균 : 45.1%
+a = scipy.stats.bernoulli.rvs(0.451, size=max_sample)
+# 표본 B의 평균 : 45.2%
+b = scipy.stats.bernoulli.rvs(0.452, size=max_sample)
+p_values = []
+# 표본 크기를 5,000씩 늘려가며 검정을 수행한다.
+sample_sizes = np.arange(1000, max_sample, 5000)
+for sample_size in sample_sizes:
+    _, p_value = scipy.stats.ttest_ind(a[:sample_size], b[:sample_size], equal_var=False)
+    p_values.append(p_value)
 
-# Wilson score interval을 이용하여 95% 신뢰구간을 구한다.
-a_lower, a_upper = proportion_confint(sum(a), len(a), alpha=0.05, method='wilson')
-b_lower, b_upper = proportion_confint(sum(b), len(b), alpha=0.05, method='wilson')
-
-plt.plot(1, np.mean(a), 'ro')
-plt.plot(2, np.mean(b), 'bo')
-plt.plot([1, 1], [a_lower, a_upper], 'r-')
-plt.ylib(0.448, 0.454)
-plt.xlim(0, 3)
-plt.xticks([1, 2], ['A', 'B'], fontsize=20)
-plt.xlabel('표본')
-plt.ylabel('모평균')
+plt.figure(figsize=(10, 3))
+plt.plot(sample_sizes, p_values)
+plt.xlabel('표본 크기')
+plt.ylabel('p-값')

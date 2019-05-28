@@ -1,0 +1,24 @@
+{
+  "backers_count":0,
+  "country":"GB",
+  "created_at":1452453394,
+  "currency":"GBP",
+  "deadline":1457820238,
+  "disable_communication":true,
+  "goal":30000.0,
+  "id":1629226785,
+  "launched_at":1452636238,
+  "name":"Ordering web page for small fast food businesses.",
+  "pledged":0.0,
+  "slug":"ordering-web-page-for-small-fast-food-businesses",
+  "state":"suspended",
+  "state_changed_at":1455831674,
+  "static_usd_rate":1.45221346,
+  "urls":{
+    "web":{
+      "project":"https://www.kickstarter.com/projects/189332819/ordering-web-page-for-small-fast-food-businesses?ref=category_newest",
+      "rewards":"https://www.kickstarter.com/projects/189332819/ordering-web-page-for-small-fast-food-businesses/rewards"
+    }
+  },
+  "usd_pledged":"0.0"
+}

@@ -1,0 +1,122 @@
+{
+  "backers_count": 26,
+  "blurb": "Using Neuro-Science to finally make people conversational in a second language with a REVOLUTIONARY APP.",
+  "category": {
+    "color": 6526716,
+    "id": 51,
+    "name": "Software",
+    "parent_id": 16,
+    "position": 11,
+    "slug": "technology/software",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/software"
+      }
+    }
+  },
+  "converted_pledged_amount": 725,
+  "country": "US",
+  "created_at": 1375998401,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/007/644/389/e84f9626739806a1f3c8f1e6450402b8_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461469585&auto=format&frame=1&q=92&s=cda60d202f748ad263ae87d5b8f0a50c",
+      "small": "https://ksr-ugc.imgix.net/assets/007/644/389/e84f9626739806a1f3c8f1e6450402b8_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461469585&auto=format&frame=1&q=92&s=cda60d202f748ad263ae87d5b8f0a50c",
+      "thumb": "https://ksr-ugc.imgix.net/assets/007/644/389/e84f9626739806a1f3c8f1e6450402b8_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461469585&auto=format&frame=1&q=92&s=0fa5950440182b9d2165967c0abd137c"
+    },
+    "chosen_currency": null,
+    "id": 1285136228,
+    "is_registered": null,
+    "name": "Maurice Hazan",
+    "slug": "mauricehazan",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1285136228?signature=1559028138.28e3234c45074b5aad762f16cc4684619275161b"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/mauricehazan"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1402025218,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 10000.0,
+  "id": 270603671,
+  "is_starrable": false,
+  "launched_at": 1399433218,
+  "location": {
+    "country": "US",
+    "displayable_name": "New York, NY",
+    "id": 2459115,
+    "is_root": false,
+    "localized_name": "New York",
+    "name": "New York",
+    "short_name": "New York, NY",
+    "slug": "new-york-ny",
+    "state": "NY",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997054.c31323dd6bea4b733e4167b4608cc2b852044d64&woe_id=2459115"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/new-york-ny",
+        "location": "https://www.kickstarter.com/locations/new-york-ny"
+      }
+    }
+  },
+  "name": "Visually Speaking: the Science of Language Acquisition",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/011/561/329/41282f033a6eb16d21f1576c25bf4ecf_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463684498&auto=format&frame=1&q=92&s=cd243e7444ec4090ebebc730e0d7d26d",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/011/561/329/41282f033a6eb16d21f1576c25bf4ecf_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463684498&auto=format&frame=1&q=92&s=e729a35f037818d908f1a4003994db81",
+    "ed": "https://ksr-ugc.imgix.net/assets/011/561/329/41282f033a6eb16d21f1576c25bf4ecf_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463684498&auto=format&frame=1&q=92&s=a6681cf17481d888ae267fbd0af6705f",
+    "full": "https://ksr-ugc.imgix.net/assets/011/561/329/41282f033a6eb16d21f1576c25bf4ecf_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463684498&auto=format&frame=1&q=92&s=6233f760205e4f18252c554f18563b4d",
+    "key": "assets/011/561/329/41282f033a6eb16d21f1576c25bf4ecf_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/011/561/329/41282f033a6eb16d21f1576c25bf4ecf_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463684498&auto=format&frame=1&q=92&s=a5009081635b12734c59f80581b26027",
+    "med": "https://ksr-ugc.imgix.net/assets/011/561/329/41282f033a6eb16d21f1576c25bf4ecf_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463684498&auto=format&frame=1&q=92&s=287a5593fc5d4288af2fb7b3fa2d7fc3",
+    "small": "https://ksr-ugc.imgix.net/assets/011/561/329/41282f033a6eb16d21f1576c25bf4ecf_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463684498&auto=format&frame=1&q=92&s=4941f72db8de83e7a311370b9d0ba075",
+    "thumb": "https://ksr-ugc.imgix.net/assets/011/561/329/41282f033a6eb16d21f1576c25bf4ecf_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463684498&auto=format&frame=1&q=92&s=c4c41a633db9302052e1f2fd6285785d"
+  },
+  "pledged": 725.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/011/561/329/41282f033a6eb16d21f1576c25bf4ecf_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463684498&auto=format&frame=1&q=92&s=6233f760205e4f18252c554f18563b4d",
+        "default": "https://ksr-ugc.imgix.net/assets/011/561/329/41282f033a6eb16d21f1576c25bf4ecf_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463684498&auto=format&frame=1&q=92&s=e729a35f037818d908f1a4003994db81"
+      }
+    },
+    "id": 658991,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 658991,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1425915836,
+    "text_color": null
+  },
+  "slug": "visually-speaking-the-science-of-language-acquisit",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1402025218,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/mauricehazan/visually-speaking-the-science-of-language-acquisit?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/mauricehazan/visually-speaking-the-science-of-language-acquisit/rewards"
+    }
+  },
+  "usd_pledged": "725.0",
+  "usd_type": "international"
+}

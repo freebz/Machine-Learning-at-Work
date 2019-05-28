@@ -1,0 +1,121 @@
+{
+  "backers_count": 115,
+  "blurb": "The new definition of Hands-Free. Wrist Rack lets you get on with things... at work or at play.",
+  "category": {
+    "color": 6526716,
+    "id": 341,
+    "name": "Wearables",
+    "parent_id": 16,
+    "position": 14,
+    "slug": "technology/wearables",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/wearables"
+      }
+    }
+  },
+  "converted_pledged_amount": 16040,
+  "country": "CA",
+  "created_at": 1493143152,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/007/038/876/8cddb14deed3d46d9780e7f55774e9d7_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1493149147&auto=format&frame=1&q=92&s=db55e2f991c395d56e64bf1bf17be105",
+      "small": "https://ksr-ugc.imgix.net/assets/007/038/876/8cddb14deed3d46d9780e7f55774e9d7_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1493149147&auto=format&frame=1&q=92&s=db55e2f991c395d56e64bf1bf17be105",
+      "thumb": "https://ksr-ugc.imgix.net/assets/007/038/876/8cddb14deed3d46d9780e7f55774e9d7_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1493149147&auto=format&frame=1&q=92&s=3d1afe3d7b54ee1384cba4d3b3277d29"
+    },
+    "chosen_currency": null,
+    "id": 981238659,
+    "is_registered": null,
+    "name": "Neil Enock",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/981238659?signature=1559026166.06a539cbb8255108852d770efe54f48ca9641817"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/981238659"
+      }
+    }
+  },
+  "currency": "CAD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1496364574,
+  "disable_communication": false,
+  "fx_rate": 0.74400001,
+  "goal": 10000.0,
+  "id": 1983777879,
+  "is_starrable": false,
+  "launched_at": 1493772574,
+  "location": {
+    "country": "CA",
+    "displayable_name": "Calgary, Canada",
+    "id": 8775,
+    "is_root": false,
+    "localized_name": "Calgary",
+    "name": "Calgary",
+    "short_name": "Calgary, Canada",
+    "slug": "calgary-ca",
+    "state": "AB",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997064.0607d33df50e989f86234878f8a1d2ab7f6b40fb&woe_id=8775"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/calgary-ca",
+        "location": "https://www.kickstarter.com/locations/calgary-ca"
+      }
+    }
+  },
+  "name": "Wrist Rack - Makes Your Tech Wearable",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/016/396/076/b989d4ac193f1f41d257de6829fe3daa_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1493144648&auto=format&frame=1&q=92&s=46a2e22a6f9ad7928701b1c62fcdebdd",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/016/396/076/b989d4ac193f1f41d257de6829fe3daa_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1493144648&auto=format&frame=1&q=92&s=e2979da5707c3884824b6dd03e2afaad",
+    "ed": "https://ksr-ugc.imgix.net/assets/016/396/076/b989d4ac193f1f41d257de6829fe3daa_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1493144648&auto=format&frame=1&q=92&s=6fc94658917fc1c8ecd5777a6d160d33",
+    "full": "https://ksr-ugc.imgix.net/assets/016/396/076/b989d4ac193f1f41d257de6829fe3daa_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1493144648&auto=format&frame=1&q=92&s=d404672864f865029b372e12ec54df4d",
+    "key": "assets/016/396/076/b989d4ac193f1f41d257de6829fe3daa_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/016/396/076/b989d4ac193f1f41d257de6829fe3daa_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1493144648&auto=format&frame=1&q=92&s=2c51512976bc4c99b37b52465078139a",
+    "med": "https://ksr-ugc.imgix.net/assets/016/396/076/b989d4ac193f1f41d257de6829fe3daa_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1493144648&auto=format&frame=1&q=92&s=7c550e3592a119da1711d4987877396f",
+    "small": "https://ksr-ugc.imgix.net/assets/016/396/076/b989d4ac193f1f41d257de6829fe3daa_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1493144648&auto=format&frame=1&q=92&s=7371ccd82eadd360cebb342e922e14cf",
+    "thumb": "https://ksr-ugc.imgix.net/assets/016/396/076/b989d4ac193f1f41d257de6829fe3daa_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1493144648&auto=format&frame=1&q=92&s=08b1f40dd1d7abb1f1bcf31e5abf5152"
+  },
+  "pledged": 21652.0,
+  "profile": {
+    "background_color": "",
+    "background_image_opacity": 0.8,
+    "blurb": "The new definition of Hands-Free. Wrist Rack lets you get on with things... at work or at play.",
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/016/396/076/b989d4ac193f1f41d257de6829fe3daa_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1493144648&auto=format&frame=1&q=92&s=d404672864f865029b372e12ec54df4d",
+        "default": "https://ksr-ugc.imgix.net/assets/016/396/076/b989d4ac193f1f41d257de6829fe3daa_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1493144648&auto=format&frame=1&q=92&s=e2979da5707c3884824b6dd03e2afaad"
+      }
+    },
+    "id": 2975834,
+    "link_background_color": "",
+    "link_text": "Follow along!",
+    "link_text_color": "",
+    "link_url": "http://www.wrist-rack.com",
+    "name": "Wrist Rack - Makes Your Tech Wearable",
+    "project_id": 2975834,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "active",
+    "state_changed_at": 1497634360,
+    "text_color": ""
+  },
+  "slug": "wrist-rack-makes-your-tech-wearable",
+  "spotlight": true,
+  "staff_pick": false,
+  "state": "successful",
+  "state_changed_at": 1496364574,
+  "static_usd_rate": 0.73156047,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/981238659/wrist-rack-makes-your-tech-wearable?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/981238659/wrist-rack-makes-your-tech-wearable/rewards"
+    }
+  },
+  "usd_pledged": "15839.74729644",
+  "usd_type": "international"
+}

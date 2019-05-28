@@ -1,0 +1,122 @@
+{
+  "backers_count": 330,
+  "blurb": "Bridging the gap between low-cost and high-end virtual reality headset with QHD display and hand held controller.",
+  "category": {
+    "color": 6526716,
+    "id": 52,
+    "name": "Hardware",
+    "parent_id": 16,
+    "position": 8,
+    "slug": "technology/hardware",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/hardware"
+      }
+    }
+  },
+  "converted_pledged_amount": 98012,
+  "country": "AT",
+  "created_at": 1488377989,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/005/898/119/83da10db3b7f90c04f36365e77f082df_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1537863148&auto=format&frame=1&q=92&s=d36480c9a3e10c03972239e0b1e29e1c",
+      "small": "https://ksr-ugc.imgix.net/assets/005/898/119/83da10db3b7f90c04f36365e77f082df_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1537863148&auto=format&frame=1&q=92&s=d36480c9a3e10c03972239e0b1e29e1c",
+      "thumb": "https://ksr-ugc.imgix.net/assets/005/898/119/83da10db3b7f90c04f36365e77f082df_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1537863148&auto=format&frame=1&q=92&s=b910cd837cac81e84b2eabe7660c76ca"
+    },
+    "chosen_currency": null,
+    "id": 1791391789,
+    "is_registered": null,
+    "name": "Stefan Ponsold",
+    "slug": "sunnybag",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1791391789?signature=1559026166.589e713cc079166057893841274303223f39b638"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/sunnybag"
+      }
+    }
+  },
+  "currency": "EUR",
+  "currency_symbol": "\u20ac",
+  "currency_trailing_code": false,
+  "current_currency": "USD",
+  "deadline": 1497780000,
+  "disable_communication": false,
+  "fx_rate": 1.12155025,
+  "goal": 37500.0,
+  "id": 1911683130,
+  "is_starrable": false,
+  "launched_at": 1493740785,
+  "location": {
+    "country": "AT",
+    "displayable_name": "Graz, Austria",
+    "id": 548536,
+    "is_root": false,
+    "localized_name": "Graz",
+    "name": "Graz",
+    "short_name": "Graz, Austria",
+    "slug": "graz-graz-styria",
+    "state": "Styria",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997183.e38a688358c41026099f69c8fc1b80c11dc0531e&woe_id=548536"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/graz-graz-styria",
+        "location": "https://www.kickstarter.com/locations/graz-graz-styria"
+      }
+    }
+  },
+  "name": "EXCHIMP AI1 All-in-One VR Headset",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/015/697/686/a65f1dbdff098143a363526b18fb5b07_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1494489015&auto=format&frame=1&q=92&s=736894a1f77d6c1eae5da5d6b99303ac",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/015/697/686/a65f1dbdff098143a363526b18fb5b07_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1494489015&auto=format&frame=1&q=92&s=025da5d41d2dedf48253cd139b2892d0",
+    "ed": "https://ksr-ugc.imgix.net/assets/015/697/686/a65f1dbdff098143a363526b18fb5b07_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1494489015&auto=format&frame=1&q=92&s=85741698ebceb02dc25dee28e89b05a7",
+    "full": "https://ksr-ugc.imgix.net/assets/015/697/686/a65f1dbdff098143a363526b18fb5b07_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1494489015&auto=format&frame=1&q=92&s=8ceccb659edb3db5eac012a4c9e9aaf8",
+    "key": "assets/015/697/686/a65f1dbdff098143a363526b18fb5b07_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/015/697/686/a65f1dbdff098143a363526b18fb5b07_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1494489015&auto=format&frame=1&q=92&s=450d466727f73f45836ca596192f77eb",
+    "med": "https://ksr-ugc.imgix.net/assets/015/697/686/a65f1dbdff098143a363526b18fb5b07_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1494489015&auto=format&frame=1&q=92&s=23aba1f51dd6b84a238e099810ad1f2c",
+    "small": "https://ksr-ugc.imgix.net/assets/015/697/686/a65f1dbdff098143a363526b18fb5b07_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1494489015&auto=format&frame=1&q=92&s=881dadf14c2b5fd89efc29efd3f31f1c",
+    "thumb": "https://ksr-ugc.imgix.net/assets/015/697/686/a65f1dbdff098143a363526b18fb5b07_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1494489015&auto=format&frame=1&q=92&s=30ef8fb3b26b5b1ae428eff3247bfc35"
+  },
+  "pledged": 87535.0,
+  "profile": {
+    "background_color": "",
+    "background_image_opacity": 0.8,
+    "blurb": "Bridging the gap between low-cost and high-end virtual reality headset with QHD display and hand held controller.",
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/015/697/686/a65f1dbdff098143a363526b18fb5b07_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1494489015&auto=format&frame=1&q=92&s=8ceccb659edb3db5eac012a4c9e9aaf8",
+        "default": "https://ksr-ugc.imgix.net/assets/015/697/686/a65f1dbdff098143a363526b18fb5b07_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1494489015&auto=format&frame=1&q=92&s=025da5d41d2dedf48253cd139b2892d0"
+      }
+    },
+    "id": 2900836,
+    "link_background_color": "",
+    "link_text": "Pre-Order",
+    "link_text_color": "",
+    "link_url": "https://www.indiegogo.com/projects/exchimp-ai1-all-in-one-vr-headset-gadget-technology#/",
+    "name": "EXCHIMP AI1 All-in-One VR Headset",
+    "project_id": 2900836,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "active",
+    "state_changed_at": 1502273154,
+    "text_color": ""
+  },
+  "slug": "exchimp",
+  "spotlight": true,
+  "staff_pick": false,
+  "state": "successful",
+  "state_changed_at": 1497780001,
+  "static_usd_rate": 1.08933411,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/sunnybag/exchimp?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/sunnybag/exchimp/rewards"
+    }
+  },
+  "usd_pledged": "95354.86131885",
+  "usd_type": "international"
+}

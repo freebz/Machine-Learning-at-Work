@@ -1,0 +1,121 @@
+{
+  "backers_count": 0,
+  "blurb": "A Community App that organize all video reviews according to products to share your purchase experience and feedback too.",
+  "category": {
+    "color": 6526716,
+    "id": 332,
+    "name": "Apps",
+    "parent_id": 16,
+    "position": 2,
+    "slug": "technology/apps",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/apps"
+      }
+    }
+  },
+  "converted_pledged_amount": 0,
+  "country": "HK",
+  "created_at": 1489648085,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/015/888/766/6ba76907b95e2d28ad9c098f69c6c367_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1489669113&auto=format&frame=1&q=92&s=9c34f33fed82369d2395b2a4370a30e1",
+      "small": "https://ksr-ugc.imgix.net/assets/015/888/766/6ba76907b95e2d28ad9c098f69c6c367_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1489669113&auto=format&frame=1&q=92&s=9c34f33fed82369d2395b2a4370a30e1",
+      "thumb": "https://ksr-ugc.imgix.net/assets/015/888/766/6ba76907b95e2d28ad9c098f69c6c367_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1489669113&auto=format&frame=1&q=92&s=723a24e5b980afa1f9316938e0cbe0eb"
+    },
+    "chosen_currency": null,
+    "id": 451420134,
+    "is_registered": null,
+    "name": "Angus Sze",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/451420134?signature=1559026552.6e56ffbed8736cdc86cfedd338e8249e4a9cecfc"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/451420134"
+      }
+    }
+  },
+  "currency": "HKD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1493737474,
+  "disable_communication": false,
+  "fx_rate": 0.12740233,
+  "goal": 35000.0,
+  "id": 807088440,
+  "is_starrable": false,
+  "launched_at": 1489849474,
+  "location": {
+    "country": "HK",
+    "displayable_name": "Hong Kong, Hong Kong",
+    "id": 2165352,
+    "is_root": false,
+    "localized_name": "Hong Kong",
+    "name": "Hong Kong",
+    "short_name": "Hong Kong, Hong Kong",
+    "slug": "hong-kong-hk",
+    "state": "Hong Kong Island",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997055.490095381ba42b3c98bc3ac2c9add540c85f3d8b&woe_id=2165352"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/hong-kong-hk",
+        "location": "https://www.kickstarter.com/locations/hong-kong-hk"
+      }
+    }
+  },
+  "name": "Review Pole - Share your purchase experience",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/015/886/146/d0fa3e68dfda8f2e333d2ea139a6ab62_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1489648584&auto=format&frame=1&q=92&s=919b4c0c3e98cb5958ba6a04d0ce310e",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/015/886/146/d0fa3e68dfda8f2e333d2ea139a6ab62_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1489648584&auto=format&frame=1&q=92&s=606fa8915a1881bd668f762b36c846ae",
+    "ed": "https://ksr-ugc.imgix.net/assets/015/886/146/d0fa3e68dfda8f2e333d2ea139a6ab62_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1489648584&auto=format&frame=1&q=92&s=7e498841155bd8cb329d4b6a2142b06e",
+    "full": "https://ksr-ugc.imgix.net/assets/015/886/146/d0fa3e68dfda8f2e333d2ea139a6ab62_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1489648584&auto=format&frame=1&q=92&s=72f0905a08c19456655d358fa3952317",
+    "key": "assets/015/886/146/d0fa3e68dfda8f2e333d2ea139a6ab62_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/015/886/146/d0fa3e68dfda8f2e333d2ea139a6ab62_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1489648584&auto=format&frame=1&q=92&s=e9b45606f3758064560ed18a848a24b0",
+    "med": "https://ksr-ugc.imgix.net/assets/015/886/146/d0fa3e68dfda8f2e333d2ea139a6ab62_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1489648584&auto=format&frame=1&q=92&s=df611b2183c83f277a898673b792d632",
+    "small": "https://ksr-ugc.imgix.net/assets/015/886/146/d0fa3e68dfda8f2e333d2ea139a6ab62_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1489648584&auto=format&frame=1&q=92&s=70ec5b3b253cebf7c672d2d629a9dcb8",
+    "thumb": "https://ksr-ugc.imgix.net/assets/015/886/146/d0fa3e68dfda8f2e333d2ea139a6ab62_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1489648584&auto=format&frame=1&q=92&s=17ada00c7b66d5ff9ab8641bb284f72a"
+  },
+  "pledged": 0.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/015/886/146/d0fa3e68dfda8f2e333d2ea139a6ab62_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1489648584&auto=format&frame=1&q=92&s=72f0905a08c19456655d358fa3952317",
+        "default": "https://ksr-ugc.imgix.net/assets/015/886/146/d0fa3e68dfda8f2e333d2ea139a6ab62_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1489648584&auto=format&frame=1&q=92&s=606fa8915a1881bd668f762b36c846ae"
+      }
+    },
+    "id": 2922123,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2922123,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1489648085,
+    "text_color": null
+  },
+  "slug": "review-pole-share-your-purchase-experience",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1493737475,
+  "static_usd_rate": 0.12880539,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/451420134/review-pole-share-your-purchase-experience?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/451420134/review-pole-share-your-purchase-experience/rewards"
+    }
+  },
+  "usd_pledged": "0.0",
+  "usd_type": "international"
+}

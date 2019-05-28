@@ -1,0 +1,122 @@
+{
+  "backers_count": 2,
+  "blurb": "It occurred to me that I haven't seen a blacksmith shop that is operating in Alberta besides that of fort Edmonton park",
+  "category": {
+    "color": 6526716,
+    "id": 52,
+    "name": "Hardware",
+    "parent_id": 16,
+    "position": 8,
+    "slug": "technology/hardware",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/hardware"
+      }
+    }
+  },
+  "converted_pledged_amount": 96,
+  "country": "CA",
+  "created_at": 1419573960,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/009/409/600/f1860c3f4016437cceb49a4c75c77999_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461592733&auto=format&frame=1&q=92&s=2c1a16e938a2c5c98c2ef686f73fe2b6",
+      "small": "https://ksr-ugc.imgix.net/assets/009/409/600/f1860c3f4016437cceb49a4c75c77999_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461592733&auto=format&frame=1&q=92&s=2c1a16e938a2c5c98c2ef686f73fe2b6",
+      "thumb": "https://ksr-ugc.imgix.net/assets/009/409/600/f1860c3f4016437cceb49a4c75c77999_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461592733&auto=format&frame=1&q=92&s=a95ad365698f5eb747ef12a850ef5a28"
+    },
+    "chosen_currency": null,
+    "id": 812126217,
+    "is_registered": null,
+    "name": "Jd",
+    "slug": "youngsmithneedsmithy",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/812126217?signature=1559027597.46a606f7532e25bedcddc9553f8a6eb8dd31b9a9"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/youngsmithneedsmithy"
+      }
+    }
+  },
+  "currency": "CAD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1433135242,
+  "disable_communication": false,
+  "fx_rate": 0.74400001,
+  "goal": 5000.0,
+  "id": 1453279496,
+  "is_starrable": false,
+  "launched_at": 1429247242,
+  "location": {
+    "country": "CA",
+    "displayable_name": "Edson, Canada",
+    "id": 8438,
+    "is_root": false,
+    "localized_name": "Edson",
+    "name": "Edson",
+    "short_name": "Edson, Canada",
+    "slug": "edson-ca",
+    "state": "AB",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558999581.b552c07aaaff2259af8e8758581d8c3fc0bdda9d&woe_id=8438"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/edson-ca",
+        "location": "https://www.kickstarter.com/locations/edson-ca"
+      }
+    }
+  },
+  "name": "Novice Edson metal casting and blacksmith",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/011/982/563/c810bd74ae4229d269b1536a363195e4_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463721327&auto=format&frame=1&q=92&s=f9f6fad6c5e858875979ed7d3414b130",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/011/982/563/c810bd74ae4229d269b1536a363195e4_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463721327&auto=format&frame=1&q=92&s=c899d95f76d33fdc688887806eda487d",
+    "ed": "https://ksr-ugc.imgix.net/assets/011/982/563/c810bd74ae4229d269b1536a363195e4_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463721327&auto=format&frame=1&q=92&s=8d46722948fdea0ddc582e0fe006ce0f",
+    "full": "https://ksr-ugc.imgix.net/assets/011/982/563/c810bd74ae4229d269b1536a363195e4_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463721327&auto=format&frame=1&q=92&s=ca574598be3b0155edc15f24ffd246b4",
+    "key": "assets/011/982/563/c810bd74ae4229d269b1536a363195e4_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/011/982/563/c810bd74ae4229d269b1536a363195e4_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463721327&auto=format&frame=1&q=92&s=8fc4f0061b07c28c0cbce1f8a14c0b07",
+    "med": "https://ksr-ugc.imgix.net/assets/011/982/563/c810bd74ae4229d269b1536a363195e4_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463721327&auto=format&frame=1&q=92&s=1701306dbd96ee2aea8caa7fa90073a2",
+    "small": "https://ksr-ugc.imgix.net/assets/011/982/563/c810bd74ae4229d269b1536a363195e4_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463721327&auto=format&frame=1&q=92&s=b6fb1ff2307a870c63f2ea372771e95e",
+    "thumb": "https://ksr-ugc.imgix.net/assets/011/982/563/c810bd74ae4229d269b1536a363195e4_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463721327&auto=format&frame=1&q=92&s=69a40a0950955e7f17e20cdbebf7a59a"
+  },
+  "pledged": 120.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/011/982/563/c810bd74ae4229d269b1536a363195e4_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463721327&auto=format&frame=1&q=92&s=ca574598be3b0155edc15f24ffd246b4",
+        "default": "https://ksr-ugc.imgix.net/assets/011/982/563/c810bd74ae4229d269b1536a363195e4_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463721327&auto=format&frame=1&q=92&s=c899d95f76d33fdc688887806eda487d"
+      }
+    },
+    "id": 1594960,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1594960,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1425915888,
+    "text_color": null
+  },
+  "slug": "novice-edson-metal-casting-and-blacksmith",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1433135244,
+  "static_usd_rate": 0.81208381,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/youngsmithneedsmithy/novice-edson-metal-casting-and-blacksmith?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/youngsmithneedsmithy/novice-edson-metal-casting-and-blacksmith/rewards"
+    }
+  },
+  "usd_pledged": "97.4500572",
+  "usd_type": "international"
+}

@@ -1,0 +1,121 @@
+{
+  "backers_count": 3,
+  "blurb": "ConnectU connects you with law firms for legal protection anytime, anywhere and on any device while videotaping the interactions.",
+  "category": {
+    "color": 6526716,
+    "id": 332,
+    "name": "Apps",
+    "parent_id": 16,
+    "position": 2,
+    "slug": "technology/apps",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/apps"
+      }
+    }
+  },
+  "converted_pledged_amount": 3,
+  "country": "US",
+  "created_at": 1490051585,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/015/940/846/6636ec173c25c3ef9c3e7ab979754f4b_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1490054741&auto=format&frame=1&q=92&s=e8c01a804abb275cffc7519f18a479ad",
+      "small": "https://ksr-ugc.imgix.net/assets/015/940/846/6636ec173c25c3ef9c3e7ab979754f4b_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1490054741&auto=format&frame=1&q=92&s=e8c01a804abb275cffc7519f18a479ad",
+      "thumb": "https://ksr-ugc.imgix.net/assets/015/940/846/6636ec173c25c3ef9c3e7ab979754f4b_original.png?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1490054741&auto=format&frame=1&q=92&s=9566772b63ca06cf00a69af4fc3c06e6"
+    },
+    "chosen_currency": null,
+    "id": 1386633924,
+    "is_registered": null,
+    "name": "Jarel, Deondre, Mario",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1386633924?signature=1559026552.3864a8ff0e420604b580cd02997ae558c67df943"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1386633924"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1492713787,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 80000.0,
+  "id": 1877626675,
+  "is_starrable": false,
+  "launched_at": 1490121787,
+  "location": {
+    "country": "US",
+    "displayable_name": "San Diego, CA",
+    "id": 2487889,
+    "is_root": false,
+    "localized_name": "San Diego",
+    "name": "San Diego",
+    "short_name": "San Diego, CA",
+    "slug": "san-diego-ca",
+    "state": "CA",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997056.4564b51e15fc44226137c3f71026480030c8d462&woe_id=2487889"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/san-diego-ca",
+        "location": "https://www.kickstarter.com/locations/san-diego-ca"
+      }
+    }
+  },
+  "name": "Connect U - Real Time DUI Lawyer",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/015/940/281/6636ec173c25c3ef9c3e7ab979754f4b_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1490051721&auto=format&frame=1&q=92&s=bbdbf24957427d80a2ad24a573dcadd3",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/015/940/281/6636ec173c25c3ef9c3e7ab979754f4b_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1490051721&auto=format&frame=1&q=92&s=41de00365a8d8513d0e2d3017589e5dd",
+    "ed": "https://ksr-ugc.imgix.net/assets/015/940/281/6636ec173c25c3ef9c3e7ab979754f4b_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1490051721&auto=format&frame=1&q=92&s=ca0a1f13f9f5db9beedbe151ddb259e2",
+    "full": "https://ksr-ugc.imgix.net/assets/015/940/281/6636ec173c25c3ef9c3e7ab979754f4b_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1490051721&auto=format&frame=1&q=92&s=6167078b6c378d67e0d647d2e8d4700e",
+    "key": "assets/015/940/281/6636ec173c25c3ef9c3e7ab979754f4b_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/015/940/281/6636ec173c25c3ef9c3e7ab979754f4b_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1490051721&auto=format&frame=1&q=92&s=d66270eb876fa3df48c6677e914b920b",
+    "med": "https://ksr-ugc.imgix.net/assets/015/940/281/6636ec173c25c3ef9c3e7ab979754f4b_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1490051721&auto=format&frame=1&q=92&s=46dc26ea0920f9d6bc68419c2a329a26",
+    "small": "https://ksr-ugc.imgix.net/assets/015/940/281/6636ec173c25c3ef9c3e7ab979754f4b_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1490051721&auto=format&frame=1&q=92&s=ae3612e60042bc2d4d3a5bf4cb1db28c",
+    "thumb": "https://ksr-ugc.imgix.net/assets/015/940/281/6636ec173c25c3ef9c3e7ab979754f4b_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1490051721&auto=format&frame=1&q=92&s=9e7aef65a2b415cb354d6692572b58b5"
+  },
+  "pledged": 3.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/015/940/281/6636ec173c25c3ef9c3e7ab979754f4b_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1490051721&auto=format&frame=1&q=92&s=6167078b6c378d67e0d647d2e8d4700e",
+        "default": "https://ksr-ugc.imgix.net/assets/015/940/281/6636ec173c25c3ef9c3e7ab979754f4b_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1490051721&auto=format&frame=1&q=92&s=41de00365a8d8513d0e2d3017589e5dd"
+      }
+    },
+    "id": 2928101,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2928101,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1490051585,
+    "text_color": null
+  },
+  "slug": "connect-u-real-time-dui-lawyer",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1492713792,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1386633924/connect-u-real-time-dui-lawyer?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1386633924/connect-u-real-time-dui-lawyer/rewards"
+    }
+  },
+  "usd_pledged": "3.0",
+  "usd_type": "international"
+}

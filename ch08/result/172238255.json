@@ -1,0 +1,121 @@
+{
+  "backers_count": 0,
+  "blurb": "I want to give the social world a chance to keep decency in human relationships. This site would keep people honest about relationships",
+  "category": {
+    "color": 6526716,
+    "id": 342,
+    "name": "Web",
+    "parent_id": 16,
+    "position": 15,
+    "slug": "technology/web",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/web"
+      }
+    }
+  },
+  "converted_pledged_amount": 0,
+  "country": "US",
+  "created_at": 1431800156,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/009/916/974/d2441dbaca6a7c74ba0658d1004b84dc_original.JPG?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461651928&auto=format&frame=1&q=92&s=49aa4cafede95b76c93a407f2571d3e4",
+      "small": "https://ksr-ugc.imgix.net/assets/009/916/974/d2441dbaca6a7c74ba0658d1004b84dc_original.JPG?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461651928&auto=format&frame=1&q=92&s=49aa4cafede95b76c93a407f2571d3e4",
+      "thumb": "https://ksr-ugc.imgix.net/assets/009/916/974/d2441dbaca6a7c74ba0658d1004b84dc_original.JPG?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461651928&auto=format&frame=1&q=92&s=e910e7b70cf84f1e0be1c7c09398ea35"
+    },
+    "chosen_currency": null,
+    "id": 1515983786,
+    "is_registered": null,
+    "name": "Annette Baca",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1515983786?signature=1559028902.ff6db8c986a32a2acb5b2ea244a2bfaf253f5451"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1515983786"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1434838886,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 750000.0,
+  "id": 172238255,
+  "is_starrable": false,
+  "launched_at": 1432246886,
+  "location": {
+    "country": "US",
+    "displayable_name": "Burbank, CA",
+    "id": 2371863,
+    "is_root": false,
+    "localized_name": "Burbank",
+    "name": "Burbank",
+    "short_name": "Burbank, CA",
+    "slug": "burbank-ca",
+    "state": "CA",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997087.f61d022a701ce060dc326c01adba35314962675a&woe_id=2371863"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/burbank-ca",
+        "location": "https://www.kickstarter.com/locations/burbank-ca"
+      }
+    }
+  },
+  "name": "keepitreal",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/140/038/537770c510c5e10765cb36e530837db3_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463738353&auto=format&frame=1&q=92&s=103814f223372e8af51c0e4020f70700",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/140/038/537770c510c5e10765cb36e530837db3_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463738353&auto=format&frame=1&q=92&s=8c7439373d2cbb27b345769d021fe65c",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/140/038/537770c510c5e10765cb36e530837db3_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463738353&auto=format&frame=1&q=92&s=0f864ab168f2d0b80df9a5e6774caaaa",
+    "full": "https://ksr-ugc.imgix.net/assets/012/140/038/537770c510c5e10765cb36e530837db3_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463738353&auto=format&frame=1&q=92&s=2ff14224c3858f244d276d0a368a9dc0",
+    "key": "assets/012/140/038/537770c510c5e10765cb36e530837db3_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/012/140/038/537770c510c5e10765cb36e530837db3_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463738353&auto=format&frame=1&q=92&s=7f87c236ada6d0f34a0773bd29305210",
+    "med": "https://ksr-ugc.imgix.net/assets/012/140/038/537770c510c5e10765cb36e530837db3_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463738353&auto=format&frame=1&q=92&s=bfebb70a3899aad13e6d3de4cd7f78f9",
+    "small": "https://ksr-ugc.imgix.net/assets/012/140/038/537770c510c5e10765cb36e530837db3_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463738353&auto=format&frame=1&q=92&s=3044bd3c3982a0155fec5acae12259f4",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/140/038/537770c510c5e10765cb36e530837db3_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463738353&auto=format&frame=1&q=92&s=031e3d393254bf00908177dd79f62d4d"
+  },
+  "pledged": 0.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/140/038/537770c510c5e10765cb36e530837db3_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463738353&auto=format&frame=1&q=92&s=2ff14224c3858f244d276d0a368a9dc0",
+        "default": "https://ksr-ugc.imgix.net/assets/012/140/038/537770c510c5e10765cb36e530837db3_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463738353&auto=format&frame=1&q=92&s=8c7439373d2cbb27b345769d021fe65c"
+      }
+    },
+    "id": 1903539,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1903539,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1431800156,
+    "text_color": null
+  },
+  "slug": "keepitreal",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1434838887,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1515983786/keepitreal?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1515983786/keepitreal/rewards"
+    }
+  },
+  "usd_pledged": "0.0",
+  "usd_type": "international"
+}

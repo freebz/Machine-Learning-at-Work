@@ -1,0 +1,121 @@
+{
+  "backers_count": 0,
+  "blurb": "Connecting Churches and Members. Allowing members to stay connected and interact with their Churches and other members.",
+  "category": {
+    "color": 6526716,
+    "id": 342,
+    "name": "Web",
+    "parent_id": 16,
+    "position": 15,
+    "slug": "technology/web",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/web"
+      }
+    }
+  },
+  "converted_pledged_amount": 0,
+  "country": "US",
+  "created_at": 1432154483,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/007/378/876/89e6b12e40392938db2039214cf757b4_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461453740&auto=format&frame=1&q=92&s=9256d5c0558065ef0ca9139aecceb580",
+      "small": "https://ksr-ugc.imgix.net/assets/007/378/876/89e6b12e40392938db2039214cf757b4_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461453740&auto=format&frame=1&q=92&s=9256d5c0558065ef0ca9139aecceb580",
+      "thumb": "https://ksr-ugc.imgix.net/assets/007/378/876/89e6b12e40392938db2039214cf757b4_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461453740&auto=format&frame=1&q=92&s=395afa98f2bf2c4913534a5fea6a73be"
+    },
+    "chosen_currency": null,
+    "id": 1031246173,
+    "is_registered": null,
+    "name": "Dayne Edwards (deleted)",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1031246173?signature=1559028902.13cba2a12e423d48611c1cdf6a2261f73d697c35"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1031246173"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1434748586,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 800.0,
+  "id": 1615865808,
+  "is_starrable": false,
+  "launched_at": 1432156586,
+  "location": {
+    "country": "US",
+    "displayable_name": "New York, NY",
+    "id": 2459115,
+    "is_root": false,
+    "localized_name": "New York",
+    "name": "New York",
+    "short_name": "New York, NY",
+    "slug": "new-york-ny",
+    "state": "NY",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997054.c31323dd6bea4b733e4167b4608cc2b852044d64&woe_id=2459115"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/new-york-ny",
+        "location": "https://www.kickstarter.com/locations/new-york-ny"
+      }
+    }
+  },
+  "name": "Church Social Network",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/144/305/42304fa2d6c2e28abe14c52241089d22_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463738487&auto=format&frame=1&q=92&s=c9f2825aabaf02087e0f9d7f83a49c54",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/144/305/42304fa2d6c2e28abe14c52241089d22_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463738487&auto=format&frame=1&q=92&s=5139154bf3ce060647ca314ff1c0bdcf",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/144/305/42304fa2d6c2e28abe14c52241089d22_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463738487&auto=format&frame=1&q=92&s=5bdf6cc8405b9aa8996b00a8330bd711",
+    "full": "https://ksr-ugc.imgix.net/assets/012/144/305/42304fa2d6c2e28abe14c52241089d22_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463738487&auto=format&frame=1&q=92&s=d67545569faebf81cbd8f8c280a15cdb",
+    "key": "assets/012/144/305/42304fa2d6c2e28abe14c52241089d22_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/012/144/305/42304fa2d6c2e28abe14c52241089d22_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463738487&auto=format&frame=1&q=92&s=9c039e8293dfabd1775eb7a152f94dc5",
+    "med": "https://ksr-ugc.imgix.net/assets/012/144/305/42304fa2d6c2e28abe14c52241089d22_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463738487&auto=format&frame=1&q=92&s=61fcb1c58debf5d3fd662aa2023a8532",
+    "small": "https://ksr-ugc.imgix.net/assets/012/144/305/42304fa2d6c2e28abe14c52241089d22_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463738487&auto=format&frame=1&q=92&s=58db315c7d85aa5cb9d47cb4fc036147",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/144/305/42304fa2d6c2e28abe14c52241089d22_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463738487&auto=format&frame=1&q=92&s=d4e78053f119a0faf45eb5b902ffb727"
+  },
+  "pledged": 0.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/144/305/42304fa2d6c2e28abe14c52241089d22_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463738487&auto=format&frame=1&q=92&s=d67545569faebf81cbd8f8c280a15cdb",
+        "default": "https://ksr-ugc.imgix.net/assets/012/144/305/42304fa2d6c2e28abe14c52241089d22_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463738487&auto=format&frame=1&q=92&s=5139154bf3ce060647ca314ff1c0bdcf"
+      }
+    },
+    "id": 1911991,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1911991,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1432154483,
+    "text_color": null
+  },
+  "slug": "church-social-network",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1434748590,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1031246173/church-social-network?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1031246173/church-social-network/rewards"
+    }
+  },
+  "usd_pledged": "0.0",
+  "usd_type": "international"
+}

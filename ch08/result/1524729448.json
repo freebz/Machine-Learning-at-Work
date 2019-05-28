@@ -1,0 +1,121 @@
+{
+  "backers_count": 3,
+  "blurb": "A site for visitors and residents of different cities to find a local bar close to them,  that supports their team!",
+  "category": {
+    "color": 6526716,
+    "id": 342,
+    "name": "Web",
+    "parent_id": 16,
+    "position": 15,
+    "slug": "technology/web",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/web"
+      }
+    }
+  },
+  "converted_pledged_amount": 26,
+  "country": "US",
+  "created_at": 1432062975,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/008/178/557/7b08090767ee8062339b4915d1ca92b4_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461507897&auto=format&frame=1&q=92&s=7bcfd3bf7ca2c7cf2e78467157148b20",
+      "small": "https://ksr-ugc.imgix.net/assets/008/178/557/7b08090767ee8062339b4915d1ca92b4_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461507897&auto=format&frame=1&q=92&s=7bcfd3bf7ca2c7cf2e78467157148b20",
+      "thumb": "https://ksr-ugc.imgix.net/assets/008/178/557/7b08090767ee8062339b4915d1ca92b4_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461507897&auto=format&frame=1&q=92&s=6f6604bf508915483030deee24de5c7a"
+    },
+    "chosen_currency": null,
+    "id": 408418747,
+    "is_registered": null,
+    "name": "Anthony Baboolal",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/408418747?signature=1559028902.2dfa8934a2460828fab0b50f338d2e6042f4a039"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/408418747"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1434742200,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 5500.0,
+  "id": 1524729448,
+  "is_starrable": false,
+  "launched_at": 1432139213,
+  "location": {
+    "country": "US",
+    "displayable_name": "Seattle, WA",
+    "id": 2490383,
+    "is_root": false,
+    "localized_name": "Seattle",
+    "name": "Seattle",
+    "short_name": "Seattle, WA",
+    "slug": "seattle-wa",
+    "state": "WA",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997056.d55bb71ae2714576d93b0867db4cf08045304997&woe_id=2490383"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/seattle-wa",
+        "location": "https://www.kickstarter.com/locations/seattle-wa"
+      }
+    }
+  },
+  "name": "RivalBars.com - find your team's fans in a different city!",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/143/114/2453098b03dfbf1502067477c3fe63bc_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=17dd6f100fae7042a161f06a3cfae4e9",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/143/114/2453098b03dfbf1502067477c3fe63bc_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=453bab6cda61d7aed830ba11477a1231",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/143/114/2453098b03dfbf1502067477c3fe63bc_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=2c04d56255aac65ce782cc3d5bd5d51d",
+    "full": "https://ksr-ugc.imgix.net/assets/012/143/114/2453098b03dfbf1502067477c3fe63bc_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=4f8e94bc260b3f7b9a934c031ea8883a",
+    "key": "assets/012/143/114/2453098b03dfbf1502067477c3fe63bc_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/012/143/114/2453098b03dfbf1502067477c3fe63bc_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=62ba430e4dce87b750857a60528aaaf0",
+    "med": "https://ksr-ugc.imgix.net/assets/012/143/114/2453098b03dfbf1502067477c3fe63bc_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=7e2c4b3e745f6452c466c2be531658a6",
+    "small": "https://ksr-ugc.imgix.net/assets/012/143/114/2453098b03dfbf1502067477c3fe63bc_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=11ae5345ade5251884391835a9af4ea6",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/143/114/2453098b03dfbf1502067477c3fe63bc_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=492dbb6fbad590efc302e3d8e0ffa90c"
+  },
+  "pledged": 26.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/143/114/2453098b03dfbf1502067477c3fe63bc_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=4f8e94bc260b3f7b9a934c031ea8883a",
+        "default": "https://ksr-ugc.imgix.net/assets/012/143/114/2453098b03dfbf1502067477c3fe63bc_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=453bab6cda61d7aed830ba11477a1231"
+      }
+    },
+    "id": 1909615,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1909615,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1432062976,
+    "text_color": null
+  },
+  "slug": "rivalbarscom-find-your-teams-fans-in-a-different-c",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1434742212,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/408418747/rivalbarscom-find-your-teams-fans-in-a-different-c?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/408418747/rivalbarscom-find-your-teams-fans-in-a-different-c/rewards"
+    }
+  },
+  "usd_pledged": "26.0",
+  "usd_type": "international"
+}

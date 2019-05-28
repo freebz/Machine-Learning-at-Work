@@ -1,0 +1,121 @@
+{
+  "backers_count": 10,
+  "blurb": "Select & play any ayah of the interactive Quran whilst each word is visually highlighted to help you follow the Qari in recitation.",
+  "category": {
+    "color": 6526716,
+    "id": 51,
+    "name": "Software",
+    "parent_id": 16,
+    "position": 11,
+    "slug": "technology/software",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/software"
+      }
+    }
+  },
+  "converted_pledged_amount": 864,
+  "country": "GB",
+  "created_at": 1398921551,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/008/664/104/8beebb578df3b012db7867e361d1b7f6_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461537706&auto=format&frame=1&q=92&s=e88ca3a5dd442d5794a3346432ad02a5",
+      "small": "https://ksr-ugc.imgix.net/assets/008/664/104/8beebb578df3b012db7867e361d1b7f6_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461537706&auto=format&frame=1&q=92&s=e88ca3a5dd442d5794a3346432ad02a5",
+      "thumb": "https://ksr-ugc.imgix.net/assets/008/664/104/8beebb578df3b012db7867e361d1b7f6_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461537706&auto=format&frame=1&q=92&s=e474104f61d3d2bcad40b83568f46846"
+    },
+    "chosen_currency": null,
+    "id": 1417216032,
+    "is_registered": null,
+    "name": "Saleem Latif",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1417216032?signature=1559028138.bc8be9f963689c4e2975ebf12ae67a98dc5e0eeb"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1417216032"
+      }
+    }
+  },
+  "currency": "GBP",
+  "currency_symbol": "\u00a3",
+  "currency_trailing_code": false,
+  "current_currency": "USD",
+  "deadline": 1404534345,
+  "disable_communication": false,
+  "fx_rate": 1.27343275,
+  "goal": 32500.0,
+  "id": 1293469146,
+  "is_starrable": false,
+  "launched_at": 1399350345,
+  "location": {
+    "country": "GB",
+    "displayable_name": "Preston, UK",
+    "id": 32562,
+    "is_root": false,
+    "localized_name": "Preston",
+    "name": "Preston",
+    "short_name": "Preston, UK",
+    "slug": "preston-london-gb",
+    "state": "England",
+    "type": "Suburb",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997228.f84e2bdbc91cda25fe1146f160975d137e204554&woe_id=32562"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/preston-london-gb",
+        "location": "https://www.kickstarter.com/locations/preston-london-gb"
+      }
+    }
+  },
+  "name": "Interactive Word-2-Word Tajweed Quran: Click, Follow & Learn",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/011/696/500/51eacd8d86cba331f2312341b6c4e3ce_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463686922&auto=format&frame=1&q=92&s=c83e7819ebfc80766dfb18e7a9e92dbe",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/011/696/500/51eacd8d86cba331f2312341b6c4e3ce_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463686922&auto=format&frame=1&q=92&s=fdcbf521ebc1487c65f6728c4c8f9007",
+    "ed": "https://ksr-ugc.imgix.net/assets/011/696/500/51eacd8d86cba331f2312341b6c4e3ce_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463686922&auto=format&frame=1&q=92&s=182b82a4fa03f3f3a3b3444920ed53eb",
+    "full": "https://ksr-ugc.imgix.net/assets/011/696/500/51eacd8d86cba331f2312341b6c4e3ce_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463686922&auto=format&frame=1&q=92&s=3e1b03fce7c993397330e3a08282418a",
+    "key": "assets/011/696/500/51eacd8d86cba331f2312341b6c4e3ce_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/011/696/500/51eacd8d86cba331f2312341b6c4e3ce_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463686922&auto=format&frame=1&q=92&s=ffc386a6a5efbbc6d6af200571954931",
+    "med": "https://ksr-ugc.imgix.net/assets/011/696/500/51eacd8d86cba331f2312341b6c4e3ce_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463686922&auto=format&frame=1&q=92&s=b7794c685cf8022def5d94c99954a611",
+    "small": "https://ksr-ugc.imgix.net/assets/011/696/500/51eacd8d86cba331f2312341b6c4e3ce_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463686922&auto=format&frame=1&q=92&s=019ebef9f30de91c4c7978dc103ae716",
+    "thumb": "https://ksr-ugc.imgix.net/assets/011/696/500/51eacd8d86cba331f2312341b6c4e3ce_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463686922&auto=format&frame=1&q=92&s=ce964ca482e0180d324b98d0bbcf643f"
+  },
+  "pledged": 504.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/011/696/500/51eacd8d86cba331f2312341b6c4e3ce_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463686922&auto=format&frame=1&q=92&s=3e1b03fce7c993397330e3a08282418a",
+        "default": "https://ksr-ugc.imgix.net/assets/011/696/500/51eacd8d86cba331f2312341b6c4e3ce_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463686922&auto=format&frame=1&q=92&s=fdcbf521ebc1487c65f6728c4c8f9007"
+      }
+    },
+    "id": 1002328,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1002328,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1425915855,
+    "text_color": null
+  },
+  "slug": "interactive-word-2-word-tajweed-quran-click-follow",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1404534346,
+  "static_usd_rate": 1.68774662,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1417216032/interactive-word-2-word-tajweed-quran-click-follow?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1417216032/interactive-word-2-word-tajweed-quran-click-follow/rewards"
+    }
+  },
+  "usd_pledged": "850.62429648",
+  "usd_type": "international"
+}

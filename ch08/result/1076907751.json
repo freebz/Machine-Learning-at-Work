@@ -1,0 +1,121 @@
+{
+  "backers_count": 4,
+  "blurb": "With UL Approval complete and a new CNC mill we'll get to work building Wallplate Chargers locally and shipping them direct to users.",
+  "category": {
+    "color": 6526716,
+    "id": 52,
+    "name": "Hardware",
+    "parent_id": 16,
+    "position": 8,
+    "slug": "technology/hardware",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/hardware"
+      }
+    }
+  },
+  "converted_pledged_amount": 280,
+  "country": "US",
+  "created_at": 1403187492,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/006/333/065/0f6489927033fcfb5c1b88ca532f383d_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461381483&auto=format&frame=1&q=92&s=6f39c32d43b10ec5fb9a93ee980bd48d",
+      "small": "https://ksr-ugc.imgix.net/assets/006/333/065/0f6489927033fcfb5c1b88ca532f383d_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461381483&auto=format&frame=1&q=92&s=6f39c32d43b10ec5fb9a93ee980bd48d",
+      "thumb": "https://ksr-ugc.imgix.net/assets/006/333/065/0f6489927033fcfb5c1b88ca532f383d_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461381483&auto=format&frame=1&q=92&s=6b2ef48d1eca5bdca84dcbe7b77052bb"
+    },
+    "chosen_currency": null,
+    "id": 727499226,
+    "is_registered": null,
+    "name": "David Carlin",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/727499226?signature=1559027597.163c840d56ef8cd74d9c73efe03e4c8c6d1455d7"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/727499226"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1432117029,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 100000.0,
+  "id": 1076907751,
+  "is_starrable": false,
+  "launched_at": 1429525029,
+  "location": {
+    "country": "US",
+    "displayable_name": "Seattle, WA",
+    "id": 2490383,
+    "is_root": false,
+    "localized_name": "Seattle",
+    "name": "Seattle",
+    "short_name": "Seattle, WA",
+    "slug": "seattle-wa",
+    "state": "WA",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997056.d55bb71ae2714576d93b0867db4cf08045304997&woe_id=2490383"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/seattle-wa",
+        "location": "https://www.kickstarter.com/locations/seattle-wa"
+      }
+    }
+  },
+  "name": "Wallplate Charger - Jobs for Seattle & Great Rewards For You",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/011/728/383/230b37aa1d7d85c1a37f608aa9cf39f9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463687416&auto=format&frame=1&q=92&s=bbe12a3b70e1aca9c26a029f90955997",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/011/728/383/230b37aa1d7d85c1a37f608aa9cf39f9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463687416&auto=format&frame=1&q=92&s=03b1a824caa3a4560d98392af2ae35fc",
+    "ed": "https://ksr-ugc.imgix.net/assets/011/728/383/230b37aa1d7d85c1a37f608aa9cf39f9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463687416&auto=format&frame=1&q=92&s=0fea2b72075b65a5ca8437fae2718147",
+    "full": "https://ksr-ugc.imgix.net/assets/011/728/383/230b37aa1d7d85c1a37f608aa9cf39f9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463687416&auto=format&frame=1&q=92&s=6a4a0efd866267feea9fc30bf64d8a82",
+    "key": "assets/011/728/383/230b37aa1d7d85c1a37f608aa9cf39f9_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/011/728/383/230b37aa1d7d85c1a37f608aa9cf39f9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463687416&auto=format&frame=1&q=92&s=54f273c1ff715fbec3f8e550d0595b04",
+    "med": "https://ksr-ugc.imgix.net/assets/011/728/383/230b37aa1d7d85c1a37f608aa9cf39f9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463687416&auto=format&frame=1&q=92&s=579a8dcfcabb89eefc7098c8bc2b9186",
+    "small": "https://ksr-ugc.imgix.net/assets/011/728/383/230b37aa1d7d85c1a37f608aa9cf39f9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463687416&auto=format&frame=1&q=92&s=72e46344a0d7855964a987e7bf7a874a",
+    "thumb": "https://ksr-ugc.imgix.net/assets/011/728/383/230b37aa1d7d85c1a37f608aa9cf39f9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463687416&auto=format&frame=1&q=92&s=2f4fa092cf81582b02e194482cf37a56"
+  },
+  "pledged": 280.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/011/728/383/230b37aa1d7d85c1a37f608aa9cf39f9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463687416&auto=format&frame=1&q=92&s=6a4a0efd866267feea9fc30bf64d8a82",
+        "default": "https://ksr-ugc.imgix.net/assets/011/728/383/230b37aa1d7d85c1a37f608aa9cf39f9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463687416&auto=format&frame=1&q=92&s=03b1a824caa3a4560d98392af2ae35fc"
+      }
+    },
+    "id": 1074822,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1074822,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1425915859,
+    "text_color": null
+  },
+  "slug": "wallplate-charger-an-elegant-usb-charging-solution",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1432117033,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/727499226/wallplate-charger-an-elegant-usb-charging-solution?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/727499226/wallplate-charger-an-elegant-usb-charging-solution/rewards"
+    }
+  },
+  "usd_pledged": "280.0",
+  "usd_type": "international"
+}

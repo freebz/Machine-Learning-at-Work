@@ -1,0 +1,121 @@
+{
+  "backers_count": 0,
+  "blurb": "Building a better future for students.Used for grades report, paying school fees, attendance, student medical information",
+  "category": {
+    "color": 6526716,
+    "id": 51,
+    "name": "Software",
+    "parent_id": 16,
+    "position": 11,
+    "slug": "technology/software",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/software"
+      }
+    }
+  },
+  "converted_pledged_amount": 0,
+  "country": "GB",
+  "created_at": 1397018733,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/008/587/355/ec293891dde76dd89efdc727c2b33048_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461533235&auto=format&frame=1&q=92&s=bf0545d8a223abbc22caea3c6016434e",
+      "small": "https://ksr-ugc.imgix.net/assets/008/587/355/ec293891dde76dd89efdc727c2b33048_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461533235&auto=format&frame=1&q=92&s=bf0545d8a223abbc22caea3c6016434e",
+      "thumb": "https://ksr-ugc.imgix.net/assets/008/587/355/ec293891dde76dd89efdc727c2b33048_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461533235&auto=format&frame=1&q=92&s=b5c94d70913184cea28ea55e627470cd"
+    },
+    "chosen_currency": null,
+    "id": 1868582875,
+    "is_registered": null,
+    "name": "Cristian Nica",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1868582875?signature=1559028138.06628aa078d342933bc3ab1b42dcb2f6bb3d1703"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1868582875"
+      }
+    }
+  },
+  "currency": "GBP",
+  "currency_symbol": "\u00a3",
+  "currency_trailing_code": false,
+  "current_currency": "USD",
+  "deadline": 1401622661,
+  "disable_communication": false,
+  "fx_rate": 1.27343275,
+  "goal": 30000.0,
+  "id": 384593645,
+  "is_starrable": false,
+  "launched_at": 1399030661,
+  "location": {
+    "country": "GB",
+    "displayable_name": "Cambridge, UK",
+    "id": 14979,
+    "is_root": false,
+    "localized_name": "Cambridge",
+    "name": "Cambridge",
+    "short_name": "Cambridge, UK",
+    "slug": "cambridge-cambridge-city-gb",
+    "state": "England",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997068.b9bc5316f481009b2c3ec2118f079d16f9c743c8&woe_id=14979"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/cambridge-cambridge-city-gb",
+        "location": "https://www.kickstarter.com/locations/cambridge-cambridge-city-gb"
+      }
+    }
+  },
+  "name": "Student/Director/Parents Android and Iphone Apps",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/011/681/600/5e80a71dd2af11d01ab4c0d1a24fe8c9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463686719&auto=format&frame=1&q=92&s=154cc7992199995ac81cbf89e8dc534f",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/011/681/600/5e80a71dd2af11d01ab4c0d1a24fe8c9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463686719&auto=format&frame=1&q=92&s=613c6e6fa57163050243ac506422d8af",
+    "ed": "https://ksr-ugc.imgix.net/assets/011/681/600/5e80a71dd2af11d01ab4c0d1a24fe8c9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463686719&auto=format&frame=1&q=92&s=0ecc744061d03ee8af37d43c78405edf",
+    "full": "https://ksr-ugc.imgix.net/assets/011/681/600/5e80a71dd2af11d01ab4c0d1a24fe8c9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463686719&auto=format&frame=1&q=92&s=88624218fa5a855aee6580f7f42919a6",
+    "key": "assets/011/681/600/5e80a71dd2af11d01ab4c0d1a24fe8c9_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/011/681/600/5e80a71dd2af11d01ab4c0d1a24fe8c9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463686719&auto=format&frame=1&q=92&s=2a288da78353bdfc8e9cc907e667ed95",
+    "med": "https://ksr-ugc.imgix.net/assets/011/681/600/5e80a71dd2af11d01ab4c0d1a24fe8c9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463686719&auto=format&frame=1&q=92&s=efaee4c697a743a9b7ff9c42d826b8eb",
+    "small": "https://ksr-ugc.imgix.net/assets/011/681/600/5e80a71dd2af11d01ab4c0d1a24fe8c9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463686719&auto=format&frame=1&q=92&s=e257b7e59c934bde694bae7c6e79a1cd",
+    "thumb": "https://ksr-ugc.imgix.net/assets/011/681/600/5e80a71dd2af11d01ab4c0d1a24fe8c9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463686719&auto=format&frame=1&q=92&s=ca8b5a864253e961bc95bb3b7b27f8e0"
+  },
+  "pledged": 0.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/011/681/600/5e80a71dd2af11d01ab4c0d1a24fe8c9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463686719&auto=format&frame=1&q=92&s=88624218fa5a855aee6580f7f42919a6",
+        "default": "https://ksr-ugc.imgix.net/assets/011/681/600/5e80a71dd2af11d01ab4c0d1a24fe8c9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463686719&auto=format&frame=1&q=92&s=613c6e6fa57163050243ac506422d8af"
+      }
+    },
+    "id": 966969,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 966969,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1425915853,
+    "text_color": null
+  },
+  "slug": "student-director-parents-android-and-iphone-apps",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1401622661,
+  "static_usd_rate": 1.68807426,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1868582875/student-director-parents-android-and-iphone-apps?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1868582875/student-director-parents-android-and-iphone-apps/rewards"
+    }
+  },
+  "usd_pledged": "0.0",
+  "usd_type": "international"
+}

@@ -1,0 +1,121 @@
+{
+  "backers_count": 1,
+  "blurb": "TBR is a new start-up company that recycles used technology to provide REFURBISHED COMPUTERS and job skills training to those in need.",
+  "category": {
+    "color": 6526716,
+    "id": 52,
+    "name": "Hardware",
+    "parent_id": 16,
+    "position": 8,
+    "slug": "technology/hardware",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/hardware"
+      }
+    }
+  },
+  "converted_pledged_amount": 20,
+  "country": "US",
+  "created_at": 1428863159,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/009/788/295/4754813f6de5620fb1c67c78b5e65b0c_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461634775&auto=format&frame=1&q=92&s=e82b2d801bdbb2393869e643ae59549d",
+      "small": "https://ksr-ugc.imgix.net/assets/009/788/295/4754813f6de5620fb1c67c78b5e65b0c_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461634775&auto=format&frame=1&q=92&s=e82b2d801bdbb2393869e643ae59549d",
+      "thumb": "https://ksr-ugc.imgix.net/assets/009/788/295/4754813f6de5620fb1c67c78b5e65b0c_original.png?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461634775&auto=format&frame=1&q=92&s=b3045578de2cc1a5ea19bf1483333273"
+    },
+    "chosen_currency": null,
+    "id": 479176674,
+    "is_registered": null,
+    "name": "Dorian Strachan",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/479176674?signature=1559027597.36e3a52ded2f2c4fb978514dafb3d086f5ded984"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/479176674"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1434725815,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 400000.0,
+  "id": 1156319150,
+  "is_starrable": false,
+  "launched_at": 1429541815,
+  "location": {
+    "country": "US",
+    "displayable_name": "Washington, DC",
+    "id": 2514815,
+    "is_root": false,
+    "localized_name": "Washington",
+    "name": "Washington",
+    "short_name": "Washington, DC",
+    "slug": "washington-dc",
+    "state": "DC",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997059.1947f89e3ce700c19e5f1fee6a5fcbf23a5dc273&woe_id=2514815"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/washington-dc",
+        "location": "https://www.kickstarter.com/locations/washington-dc"
+      }
+    }
+  },
+  "name": "Techbench Recycling Solutions",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/105/137/196f2e01a6995745383371d08267e446_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463737384&auto=format&frame=1&q=92&s=42e9c5b10377e43f1a37c8b8f3deba4d",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/105/137/196f2e01a6995745383371d08267e446_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463737384&auto=format&frame=1&q=92&s=301eeab214501ff7da2b48a5806beb78",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/105/137/196f2e01a6995745383371d08267e446_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463737384&auto=format&frame=1&q=92&s=3cb4f9f0520cfcd0371a11e9ea5d032b",
+    "full": "https://ksr-ugc.imgix.net/assets/012/105/137/196f2e01a6995745383371d08267e446_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463737384&auto=format&frame=1&q=92&s=4e8b25817c4aed891fa78b93f980c775",
+    "key": "assets/012/105/137/196f2e01a6995745383371d08267e446_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/012/105/137/196f2e01a6995745383371d08267e446_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463737384&auto=format&frame=1&q=92&s=85e7a6f772829df00561cb920bad55f1",
+    "med": "https://ksr-ugc.imgix.net/assets/012/105/137/196f2e01a6995745383371d08267e446_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463737384&auto=format&frame=1&q=92&s=612c1f5f73eeb6b55f65aa8c4931e785",
+    "small": "https://ksr-ugc.imgix.net/assets/012/105/137/196f2e01a6995745383371d08267e446_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463737384&auto=format&frame=1&q=92&s=75e41b444c9a017a3ff9e6081073f6af",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/105/137/196f2e01a6995745383371d08267e446_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463737384&auto=format&frame=1&q=92&s=484ac3a55c5ca794ec2b72d8878048a8"
+  },
+  "pledged": 20.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/105/137/196f2e01a6995745383371d08267e446_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463737384&auto=format&frame=1&q=92&s=4e8b25817c4aed891fa78b93f980c775",
+        "default": "https://ksr-ugc.imgix.net/assets/012/105/137/196f2e01a6995745383371d08267e446_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463737384&auto=format&frame=1&q=92&s=301eeab214501ff7da2b48a5806beb78"
+      }
+    },
+    "id": 1836647,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1836647,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1428863159,
+    "text_color": null
+  },
+  "slug": "techbench-recycling-solutions",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1434725817,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/479176674/techbench-recycling-solutions?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/479176674/techbench-recycling-solutions/rewards"
+    }
+  },
+  "usd_pledged": "20.0",
+  "usd_type": "international"
+}

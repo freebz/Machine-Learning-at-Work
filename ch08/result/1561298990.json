@@ -1,0 +1,121 @@
+{
+  "backers_count": 8,
+  "blurb": "Nix keyboard is a patented(US 6,297,752) keyboard with two angel wing pads which can be folded to all angles from backside to flat out.",
+  "category": {
+    "color": 6526716,
+    "id": 337,
+    "name": "Gadgets",
+    "parent_id": 16,
+    "position": 7,
+    "slug": "technology/gadgets",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/gadgets"
+      }
+    }
+  },
+  "converted_pledged_amount": 332,
+  "country": "US",
+  "created_at": 1445509879,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/010/465/411/611ea174c8cb25e37168858a6846bf40_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461691773&auto=format&frame=1&q=92&s=988e0de9b69cd2938a6af1534954e04f",
+      "small": "https://ksr-ugc.imgix.net/assets/010/465/411/611ea174c8cb25e37168858a6846bf40_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461691773&auto=format&frame=1&q=92&s=988e0de9b69cd2938a6af1534954e04f",
+      "thumb": "https://ksr-ugc.imgix.net/assets/010/465/411/611ea174c8cb25e37168858a6846bf40_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461691773&auto=format&frame=1&q=92&s=d00f221120c0d3e824f30d695fda91a3"
+    },
+    "chosen_currency": null,
+    "id": 1700624069,
+    "is_registered": null,
+    "name": "xuanzhong ni",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1700624069?signature=1559027341.4fe4d36a1947c60f7229ec759738ee15a60513f2"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1700624069"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1449190869,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 120000.0,
+  "id": 1561298990,
+  "is_starrable": false,
+  "launched_at": 1446598869,
+  "location": {
+    "country": "US",
+    "displayable_name": "San Francisco, CA",
+    "id": 2487956,
+    "is_root": false,
+    "localized_name": "San Francisco",
+    "name": "San Francisco",
+    "short_name": "San Francisco, CA",
+    "slug": "san-francisco-ca",
+    "state": "CA",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997056.3ee4dd5b793763b508af6b330b4188a24f3b0a2d&woe_id=2487956"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/san-francisco-ca",
+        "location": "https://www.kickstarter.com/locations/san-francisco-ca"
+      }
+    }
+  },
+  "name": "Nix Keyboard",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/286/411/fada7b18af937be023c0e3cad624b000_original.jpeg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463750792&auto=format&frame=1&q=92&s=d302368c42158e4ae7c73f9404f1da4d",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/286/411/fada7b18af937be023c0e3cad624b000_original.jpeg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463750792&auto=format&frame=1&q=92&s=eb693a8bb7b67fc51d1056f552eac421",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/286/411/fada7b18af937be023c0e3cad624b000_original.jpeg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463750792&auto=format&frame=1&q=92&s=48fbb7ee62826d187e48925d4b6c0d31",
+    "full": "https://ksr-ugc.imgix.net/assets/012/286/411/fada7b18af937be023c0e3cad624b000_original.jpeg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463750792&auto=format&frame=1&q=92&s=735774f7a3dada99680f6953d7014891",
+    "key": "assets/012/286/411/fada7b18af937be023c0e3cad624b000_original.jpeg",
+    "little": "https://ksr-ugc.imgix.net/assets/012/286/411/fada7b18af937be023c0e3cad624b000_original.jpeg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463750792&auto=format&frame=1&q=92&s=3be2e3f08f14a4ac8866058281fe733d",
+    "med": "https://ksr-ugc.imgix.net/assets/012/286/411/fada7b18af937be023c0e3cad624b000_original.jpeg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463750792&auto=format&frame=1&q=92&s=b1dcf425111ea4c4d751a3808a6f8222",
+    "small": "https://ksr-ugc.imgix.net/assets/012/286/411/fada7b18af937be023c0e3cad624b000_original.jpeg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463750792&auto=format&frame=1&q=92&s=cc8d1706babc472f0007176034e5db5f",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/286/411/fada7b18af937be023c0e3cad624b000_original.jpeg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463750792&auto=format&frame=1&q=92&s=c9145ebb1b7c89e01fe4b8fd82e4ca93"
+  },
+  "pledged": 332.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/286/411/fada7b18af937be023c0e3cad624b000_original.jpeg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463750792&auto=format&frame=1&q=92&s=735774f7a3dada99680f6953d7014891",
+        "default": "https://ksr-ugc.imgix.net/assets/012/286/411/fada7b18af937be023c0e3cad624b000_original.jpeg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463750792&auto=format&frame=1&q=92&s=eb693a8bb7b67fc51d1056f552eac421"
+      }
+    },
+    "id": 2187716,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2187716,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1445509879,
+    "text_color": null
+  },
+  "slug": "nix-keyboard",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1449190869,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1700624069/nix-keyboard?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1700624069/nix-keyboard/rewards"
+    }
+  },
+  "usd_pledged": "332.0",
+  "usd_type": "international"
+}

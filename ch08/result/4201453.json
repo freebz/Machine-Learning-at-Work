@@ -1,0 +1,121 @@
+{
+  "backers_count": 185,
+  "blurb": "Complete Gimbal-Kit for iPhone, Android and Go-Pro. Use SmoothVU Mic, Wide Angle Lenses and LED to shoot like a pro in any condition.",
+  "category": {
+    "color": 6526716,
+    "id": 333,
+    "name": "Camera Equipment",
+    "parent_id": 16,
+    "position": 3,
+    "slug": "technology/camera equipment",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/camera%20equipment"
+      }
+    }
+  },
+  "converted_pledged_amount": 49078,
+  "country": "US",
+  "created_at": 1490037830,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/016/481/526/023f2fbf314e1c895699e51705ce9edb_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1493684731&auto=format&frame=1&q=92&s=6c13f6ac875b36a973b5331086b644a9",
+      "small": "https://ksr-ugc.imgix.net/assets/016/481/526/023f2fbf314e1c895699e51705ce9edb_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1493684731&auto=format&frame=1&q=92&s=6c13f6ac875b36a973b5331086b644a9",
+      "thumb": "https://ksr-ugc.imgix.net/assets/016/481/526/023f2fbf314e1c895699e51705ce9edb_original.png?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1493684731&auto=format&frame=1&q=92&s=d3f53b357af197e43c9eaf9d3485ae85"
+    },
+    "chosen_currency": null,
+    "id": 84347130,
+    "is_registered": null,
+    "name": "Bob Gruder",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/84347130?signature=1559026166.ff03a676f613073b658440a3c56a4d6796d589b6"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/84347130"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1496333872,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 20000.0,
+  "id": 4201453,
+  "is_starrable": false,
+  "launched_at": 1493741872,
+  "location": {
+    "country": "US",
+    "displayable_name": "Charlotte, NC",
+    "id": 2378426,
+    "is_root": false,
+    "localized_name": "Charlotte",
+    "name": "Charlotte",
+    "short_name": "Charlotte, NC",
+    "slug": "charlotte-nc",
+    "state": "NC",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997068.1fd5ab585157ac9a2c3589308618a81a7ca12fef&woe_id=2378426"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/charlotte-nc",
+        "location": "https://www.kickstarter.com/locations/charlotte-nc"
+      }
+    }
+  },
+  "name": "SmoothVU All-In-One Phone Stabilizer | Great Videos Anywhere",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/015/937/465/89fe494ffa0afa424accbf6d3505b9a0_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1493058015&auto=format&frame=1&q=92&s=8755811f8c8229d990068ee31bf426a7",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/015/937/465/89fe494ffa0afa424accbf6d3505b9a0_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1493058015&auto=format&frame=1&q=92&s=923957b07cc80891811f1c6074c8fc00",
+    "ed": "https://ksr-ugc.imgix.net/assets/015/937/465/89fe494ffa0afa424accbf6d3505b9a0_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1493058015&auto=format&frame=1&q=92&s=a14a46e18685487639f91fa89351c34b",
+    "full": "https://ksr-ugc.imgix.net/assets/015/937/465/89fe494ffa0afa424accbf6d3505b9a0_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1493058015&auto=format&frame=1&q=92&s=92f264d9f6aa833eae5fcec71e81ff49",
+    "key": "assets/015/937/465/89fe494ffa0afa424accbf6d3505b9a0_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/015/937/465/89fe494ffa0afa424accbf6d3505b9a0_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1493058015&auto=format&frame=1&q=92&s=8a478a49840cf93d6402668ae94d3874",
+    "med": "https://ksr-ugc.imgix.net/assets/015/937/465/89fe494ffa0afa424accbf6d3505b9a0_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1493058015&auto=format&frame=1&q=92&s=923bf19f6576d3428b2a5b00f13cd878",
+    "small": "https://ksr-ugc.imgix.net/assets/015/937/465/89fe494ffa0afa424accbf6d3505b9a0_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1493058015&auto=format&frame=1&q=92&s=8b6243a57ac5645f806d9ecc196e9ced",
+    "thumb": "https://ksr-ugc.imgix.net/assets/015/937/465/89fe494ffa0afa424accbf6d3505b9a0_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1493058015&auto=format&frame=1&q=92&s=b9d6c0bc2f759d1b306ed94b9636a6a2"
+  },
+  "pledged": 49078.0,
+  "profile": {
+    "background_color": "",
+    "background_image_opacity": 0.8,
+    "blurb": "Complete Gimbal-Kit for iPhone, Android and Go-Pro. Use SmoothVU Mic, Wide Angle Lenses and LED to shoot like a pro in any condition.",
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/015/937/465/89fe494ffa0afa424accbf6d3505b9a0_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1493058015&auto=format&frame=1&q=92&s=92f264d9f6aa833eae5fcec71e81ff49",
+        "default": "https://ksr-ugc.imgix.net/assets/015/937/465/89fe494ffa0afa424accbf6d3505b9a0_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1493058015&auto=format&frame=1&q=92&s=923957b07cc80891811f1c6074c8fc00"
+      }
+    },
+    "id": 2927810,
+    "link_background_color": "",
+    "link_text": "Follow along!",
+    "link_text_color": "",
+    "link_url": "https://www.indiegogo.com/projects/smoothvu-all-in-one-smartphone-stabilizer",
+    "name": "SmoothVU All-In-One Phone Stabilizer | Great Videos Anywhere",
+    "project_id": 2927810,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "active",
+    "state_changed_at": 1496347533,
+    "text_color": ""
+  },
+  "slug": "worlds-first-portable-production-studio-for-your-p",
+  "spotlight": true,
+  "staff_pick": false,
+  "state": "successful",
+  "state_changed_at": 1496333872,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/84347130/worlds-first-portable-production-studio-for-your-p?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/84347130/worlds-first-portable-production-studio-for-your-p/rewards"
+    }
+  },
+  "usd_pledged": "49078.0",
+  "usd_type": "international"
+}

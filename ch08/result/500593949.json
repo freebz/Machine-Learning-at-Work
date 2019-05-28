@@ -1,0 +1,121 @@
+{
+  "backers_count": 9,
+  "blurb": "Empowering people to act on their business & social ideas through an app that helps network, collaborate, plan, and launch ventures.",
+  "category": {
+    "color": 6526716,
+    "id": 332,
+    "name": "Apps",
+    "parent_id": 16,
+    "position": 2,
+    "slug": "technology/apps",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/apps"
+      }
+    }
+  },
+  "converted_pledged_amount": 477,
+  "country": "US",
+  "created_at": 1487627289,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/015/709/463/ac6d5a1db88428fc4775f19fe0222dd9_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1488434899&auto=format&frame=1&q=92&s=9915183e46b88bd979f32283f734aae5",
+      "small": "https://ksr-ugc.imgix.net/assets/015/709/463/ac6d5a1db88428fc4775f19fe0222dd9_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1488434899&auto=format&frame=1&q=92&s=9915183e46b88bd979f32283f734aae5",
+      "thumb": "https://ksr-ugc.imgix.net/assets/015/709/463/ac6d5a1db88428fc4775f19fe0222dd9_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1488434899&auto=format&frame=1&q=92&s=7e0a20630559b268ba475d176f040316"
+    },
+    "chosen_currency": null,
+    "id": 590792610,
+    "is_registered": null,
+    "name": "Moeed Khan",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/590792610?signature=1559026552.b18dff226dac28a8843a5f3e23ff814405caecb5"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/590792610"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1492672628,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 30000.0,
+  "id": 500593949,
+  "is_starrable": false,
+  "launched_at": 1490080628,
+  "location": {
+    "country": "US",
+    "displayable_name": "Chicago, IL",
+    "id": 2379574,
+    "is_root": false,
+    "localized_name": "Chicago",
+    "name": "Chicago",
+    "short_name": "Chicago, IL",
+    "slug": "chicago-il",
+    "state": "IL",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997054.cbe65be46557bf2a80a36aa1ab415e76fa9e6b86&woe_id=2379574"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/chicago-il",
+        "location": "https://www.kickstarter.com/locations/chicago-il"
+      }
+    }
+  },
+  "name": "Act on your business & social ideas through your fingertips",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/015/708/742/7eceafcea649ccf102710d0e31421a98_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1489376027&auto=format&frame=1&q=92&s=7a0641aea8c3dc411f136925c9710bae",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/015/708/742/7eceafcea649ccf102710d0e31421a98_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1489376027&auto=format&frame=1&q=92&s=dc3cbc6de35e4806cd6446a157ba4548",
+    "ed": "https://ksr-ugc.imgix.net/assets/015/708/742/7eceafcea649ccf102710d0e31421a98_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1489376027&auto=format&frame=1&q=92&s=074a86ce37082bf64e10ace539191b10",
+    "full": "https://ksr-ugc.imgix.net/assets/015/708/742/7eceafcea649ccf102710d0e31421a98_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1489376027&auto=format&frame=1&q=92&s=e7b5fd0566219c9d00a1cafc7113bb4d",
+    "key": "assets/015/708/742/7eceafcea649ccf102710d0e31421a98_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/015/708/742/7eceafcea649ccf102710d0e31421a98_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1489376027&auto=format&frame=1&q=92&s=118bdc0286d0a14d488adb5b444e059d",
+    "med": "https://ksr-ugc.imgix.net/assets/015/708/742/7eceafcea649ccf102710d0e31421a98_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1489376027&auto=format&frame=1&q=92&s=396b46e1177dec5d6da54cb424c534bc",
+    "small": "https://ksr-ugc.imgix.net/assets/015/708/742/7eceafcea649ccf102710d0e31421a98_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1489376027&auto=format&frame=1&q=92&s=2ecf80962333bdd807756088e8460481",
+    "thumb": "https://ksr-ugc.imgix.net/assets/015/708/742/7eceafcea649ccf102710d0e31421a98_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1489376027&auto=format&frame=1&q=92&s=7c83ce92b537b87a51baba23642ddf42"
+  },
+  "pledged": 477.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/015/708/742/7eceafcea649ccf102710d0e31421a98_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1489376027&auto=format&frame=1&q=92&s=e7b5fd0566219c9d00a1cafc7113bb4d",
+        "default": "https://ksr-ugc.imgix.net/assets/015/708/742/7eceafcea649ccf102710d0e31421a98_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1489376027&auto=format&frame=1&q=92&s=dc3cbc6de35e4806cd6446a157ba4548"
+      }
+    },
+    "id": 2887431,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2887431,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1487627289,
+    "text_color": null
+  },
+  "slug": "act-on-your-business-and-social-ideas-through-your",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1492672628,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/590792610/act-on-your-business-and-social-ideas-through-your?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/590792610/act-on-your-business-and-social-ideas-through-your/rewards"
+    }
+  },
+  "usd_pledged": "477.0",
+  "usd_type": "international"
+}

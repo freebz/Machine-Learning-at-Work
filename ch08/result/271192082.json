@@ -1,0 +1,121 @@
+{
+  "backers_count": 1,
+  "blurb": "We deliver high quality toys, healthy natural treats and cool swag straight to your door every month! Saving you time AND money!",
+  "category": {
+    "color": 6526716,
+    "id": 342,
+    "name": "Web",
+    "parent_id": 16,
+    "position": 15,
+    "slug": "technology/web",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/web"
+      }
+    }
+  },
+  "converted_pledged_amount": 4,
+  "country": "CA",
+  "created_at": 1432062558,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/009/848/539/a8c2af63f05b42a60325bc3037a12118_original.jpeg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461638674&auto=format&frame=1&q=92&s=49b4f8b801d4abeeb4ba80eaac1d823d",
+      "small": "https://ksr-ugc.imgix.net/assets/009/848/539/a8c2af63f05b42a60325bc3037a12118_original.jpeg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461638674&auto=format&frame=1&q=92&s=49b4f8b801d4abeeb4ba80eaac1d823d",
+      "thumb": "https://ksr-ugc.imgix.net/assets/009/848/539/a8c2af63f05b42a60325bc3037a12118_original.jpeg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461638674&auto=format&frame=1&q=92&s=995b476573142a0a8d2d24d1203bb9ec"
+    },
+    "chosen_currency": null,
+    "id": 71235612,
+    "is_registered": null,
+    "name": "Tamara Djakeli and Branko Bersa",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/71235612?signature=1559028902.10487507b56a167b92e5165ce3e528be97b1f2a0"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/71235612"
+      }
+    }
+  },
+  "currency": "CAD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1434656446,
+  "disable_communication": false,
+  "fx_rate": 0.74400001,
+  "goal": 2000.0,
+  "id": 271192082,
+  "is_starrable": false,
+  "launched_at": 1432064446,
+  "location": {
+    "country": "CA",
+    "displayable_name": "Montreal, Canada",
+    "id": 3534,
+    "is_root": false,
+    "localized_name": "Montreal",
+    "name": "Montreal",
+    "short_name": "Montreal, Canada",
+    "slug": "montreal-ca",
+    "state": "QC",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997056.46f79bd2ffafe7814fb2b2605e7c25e7686e2e6d&woe_id=3534"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/montreal-ca",
+        "location": "https://www.kickstarter.com/locations/montreal-ca"
+      }
+    }
+  },
+  "name": "Dog Swag - A Canadian monthly subscription box for your dog!",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/143/107/ee3b3242b45eb5713a99cc74af03399b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=e9ada3a72fcb942c2850065c81a2372f",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/143/107/ee3b3242b45eb5713a99cc74af03399b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=59916922f7dcb39b7da0a1f94726b2d0",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/143/107/ee3b3242b45eb5713a99cc74af03399b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=5f9611bc74c25b7848bb7d6f6b687e9c",
+    "full": "https://ksr-ugc.imgix.net/assets/012/143/107/ee3b3242b45eb5713a99cc74af03399b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=b449c06d25defede368a4489709c310f",
+    "key": "assets/012/143/107/ee3b3242b45eb5713a99cc74af03399b_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/012/143/107/ee3b3242b45eb5713a99cc74af03399b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=297b2e811fac4599acb35b99f59730fa",
+    "med": "https://ksr-ugc.imgix.net/assets/012/143/107/ee3b3242b45eb5713a99cc74af03399b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=5d1ee04d39d321f547feb4431faefc7e",
+    "small": "https://ksr-ugc.imgix.net/assets/012/143/107/ee3b3242b45eb5713a99cc74af03399b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=4b979c37690ebc9ed9d9a5e70adabe5f",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/143/107/ee3b3242b45eb5713a99cc74af03399b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=7e81355192ca26d1120df3d4072a740c"
+  },
+  "pledged": 5.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/143/107/ee3b3242b45eb5713a99cc74af03399b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=b449c06d25defede368a4489709c310f",
+        "default": "https://ksr-ugc.imgix.net/assets/012/143/107/ee3b3242b45eb5713a99cc74af03399b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463738438&auto=format&frame=1&q=92&s=59916922f7dcb39b7da0a1f94726b2d0"
+      }
+    },
+    "id": 1909595,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1909595,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1432062558,
+    "text_color": null
+  },
+  "slug": "dog-swag-a-canadian-monthly-subscription-box-for-y",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1434656446,
+  "static_usd_rate": 0.83064964,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/71235612/dog-swag-a-canadian-monthly-subscription-box-for-y?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/71235612/dog-swag-a-canadian-monthly-subscription-box-for-y/rewards"
+    }
+  },
+  "usd_pledged": "4.1532482",
+  "usd_type": "international"
+}

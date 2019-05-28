@@ -1,0 +1,121 @@
+{
+  "backers_count": 6,
+  "blurb": "Improve the studying conditions for school children and adults and provide an energy charging room for parents and other villagers.",
+  "category": {
+    "color": 6526716,
+    "id": 52,
+    "name": "Hardware",
+    "parent_id": 16,
+    "position": 8,
+    "slug": "technology/hardware",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/hardware"
+      }
+    }
+  },
+  "converted_pledged_amount": 229,
+  "country": "US",
+  "created_at": 1429232969,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/009/803/248/389ae765a55d52ea4b47d695cf5fa405_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461635732&auto=format&frame=1&q=92&s=bdd3a36290c68485f6d4cc65020fdcdb",
+      "small": "https://ksr-ugc.imgix.net/assets/009/803/248/389ae765a55d52ea4b47d695cf5fa405_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461635732&auto=format&frame=1&q=92&s=bdd3a36290c68485f6d4cc65020fdcdb",
+      "thumb": "https://ksr-ugc.imgix.net/assets/009/803/248/389ae765a55d52ea4b47d695cf5fa405_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461635732&auto=format&frame=1&q=92&s=70258177837b09f74f69000f1bc0e8af"
+    },
+    "chosen_currency": null,
+    "id": 1955897105,
+    "is_registered": null,
+    "name": "Sam Fernandes",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1955897105?signature=1559027597.8fd8d2dc96c4871ec1ed1fea17f4ad79b8d8993e"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1955897105"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1434995273,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 5000.0,
+  "id": 2104341986,
+  "is_starrable": false,
+  "launched_at": 1429811273,
+  "location": {
+    "country": "MZ",
+    "displayable_name": "Macia, Mozambique",
+    "id": 1549406,
+    "is_root": false,
+    "localized_name": "Macia",
+    "name": "Macia",
+    "short_name": "Macia, Mozambique",
+    "slug": "macia-mz",
+    "state": "Gaza",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1559014022.310af2102fa02d5f990ee8ffb93c459d3743cf83&woe_id=1549406"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/macia-mz",
+        "location": "https://www.kickstarter.com/locations/macia-mz"
+      }
+    }
+  },
+  "name": "Power to the People in Mozambique",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/110/056/449c98372094e10cfa1862d3e52ac23a_original.JPG?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463737522&auto=format&frame=1&q=92&s=db2cf805276bdcdd313bda7603a318b3",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/110/056/449c98372094e10cfa1862d3e52ac23a_original.JPG?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463737522&auto=format&frame=1&q=92&s=c2d0fc8ce9c2ddce4b83dfca1e48265c",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/110/056/449c98372094e10cfa1862d3e52ac23a_original.JPG?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463737522&auto=format&frame=1&q=92&s=d04ebca7f32b996c7abd84e040d265d6",
+    "full": "https://ksr-ugc.imgix.net/assets/012/110/056/449c98372094e10cfa1862d3e52ac23a_original.JPG?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463737522&auto=format&frame=1&q=92&s=94eed7ea538531ed0a382f1752ee36c6",
+    "key": "assets/012/110/056/449c98372094e10cfa1862d3e52ac23a_original.JPG",
+    "little": "https://ksr-ugc.imgix.net/assets/012/110/056/449c98372094e10cfa1862d3e52ac23a_original.JPG?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463737522&auto=format&frame=1&q=92&s=7c2d8b0b4e896c23d8c7289b5acb1979",
+    "med": "https://ksr-ugc.imgix.net/assets/012/110/056/449c98372094e10cfa1862d3e52ac23a_original.JPG?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463737522&auto=format&frame=1&q=92&s=d83cac270ee50a369ebddbe697523595",
+    "small": "https://ksr-ugc.imgix.net/assets/012/110/056/449c98372094e10cfa1862d3e52ac23a_original.JPG?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463737522&auto=format&frame=1&q=92&s=005c5d2a911cffd70afbf202936d91f4",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/110/056/449c98372094e10cfa1862d3e52ac23a_original.JPG?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463737522&auto=format&frame=1&q=92&s=6d082376c4e49deecbc161b544a53c9f"
+  },
+  "pledged": 229.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/110/056/449c98372094e10cfa1862d3e52ac23a_original.JPG?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463737522&auto=format&frame=1&q=92&s=94eed7ea538531ed0a382f1752ee36c6",
+        "default": "https://ksr-ugc.imgix.net/assets/012/110/056/449c98372094e10cfa1862d3e52ac23a_original.JPG?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463737522&auto=format&frame=1&q=92&s=c2d0fc8ce9c2ddce4b83dfca1e48265c"
+      }
+    },
+    "id": 1845986,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1845986,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1429232969,
+    "text_color": null
+  },
+  "slug": "power-to-the-people-in-mozambique",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1434995278,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1955897105/power-to-the-people-in-mozambique?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1955897105/power-to-the-people-in-mozambique/rewards"
+    }
+  },
+  "usd_pledged": "229.0",
+  "usd_type": "international"
+}

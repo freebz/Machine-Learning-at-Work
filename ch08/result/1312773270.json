@@ -1,0 +1,121 @@
+{
+  "backers_count": 0,
+  "blurb": "Kidgenda solves two issues faced by millions of parents: finding meaningful activities for their kids and scheduling awesome playdates",
+  "category": {
+    "color": 6526716,
+    "id": 332,
+    "name": "Apps",
+    "parent_id": 16,
+    "position": 2,
+    "slug": "technology/apps",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/apps"
+      }
+    }
+  },
+  "converted_pledged_amount": 0,
+  "country": "US",
+  "created_at": 1485365780,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/015/285/187/45c49b64900cae5e2e225b2d6f9cee84_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1486763829&auto=format&frame=1&q=92&s=999aef5e36dbdd4680a227415da145c0",
+      "small": "https://ksr-ugc.imgix.net/assets/015/285/187/45c49b64900cae5e2e225b2d6f9cee84_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1486763829&auto=format&frame=1&q=92&s=999aef5e36dbdd4680a227415da145c0",
+      "thumb": "https://ksr-ugc.imgix.net/assets/015/285/187/45c49b64900cae5e2e225b2d6f9cee84_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1486763829&auto=format&frame=1&q=92&s=3de76e4441a503441484ee31005f955a"
+    },
+    "chosen_currency": null,
+    "id": 1090321070,
+    "is_registered": null,
+    "name": "Mike Barsella",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1090321070?signature=1559026552.94086a97be52c76cd74cb8392e3a31cce5ffc302"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1090321070"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1492612853,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 80000.0,
+  "id": 1312773270,
+  "is_starrable": false,
+  "launched_at": 1490020853,
+  "location": {
+    "country": "US",
+    "displayable_name": "New York, NY",
+    "id": 2459115,
+    "is_root": false,
+    "localized_name": "New York",
+    "name": "New York",
+    "short_name": "New York, NY",
+    "slug": "new-york-ny",
+    "state": "NY",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997054.c31323dd6bea4b733e4167b4608cc2b852044d64&woe_id=2459115"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/new-york-ny",
+        "location": "https://www.kickstarter.com/locations/new-york-ny"
+      }
+    }
+  },
+  "name": "Kidgenda, a parenting app as unique as your child",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/015/285/122/2e17f018f3b532fe2aab80c30f47f189_original.JPG?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1486592696&auto=format&frame=1&q=92&s=047f8e72580432b5f2974dbe0ca62656",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/015/285/122/2e17f018f3b532fe2aab80c30f47f189_original.JPG?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1486592696&auto=format&frame=1&q=92&s=f6b92c37ba9fa78f027476769599bdf9",
+    "ed": "https://ksr-ugc.imgix.net/assets/015/285/122/2e17f018f3b532fe2aab80c30f47f189_original.JPG?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1486592696&auto=format&frame=1&q=92&s=bd3da8617a3567acaa8efa087d8e4000",
+    "full": "https://ksr-ugc.imgix.net/assets/015/285/122/2e17f018f3b532fe2aab80c30f47f189_original.JPG?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1486592696&auto=format&frame=1&q=92&s=a4f20d8ddf6077097d958f3750ee2bfb",
+    "key": "assets/015/285/122/2e17f018f3b532fe2aab80c30f47f189_original.JPG",
+    "little": "https://ksr-ugc.imgix.net/assets/015/285/122/2e17f018f3b532fe2aab80c30f47f189_original.JPG?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1486592696&auto=format&frame=1&q=92&s=9c6691b9cf85041fe1173db689beca02",
+    "med": "https://ksr-ugc.imgix.net/assets/015/285/122/2e17f018f3b532fe2aab80c30f47f189_original.JPG?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1486592696&auto=format&frame=1&q=92&s=544ab8c9e00d60d31695857a46b0c12c",
+    "small": "https://ksr-ugc.imgix.net/assets/015/285/122/2e17f018f3b532fe2aab80c30f47f189_original.JPG?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1486592696&auto=format&frame=1&q=92&s=348df07ddba3725d27982b7719e9e7a1",
+    "thumb": "https://ksr-ugc.imgix.net/assets/015/285/122/2e17f018f3b532fe2aab80c30f47f189_original.JPG?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1486592696&auto=format&frame=1&q=92&s=7c0d63190cae46f4a15467faa868fb9a"
+  },
+  "pledged": 0.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/015/285/122/2e17f018f3b532fe2aab80c30f47f189_original.JPG?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1486592696&auto=format&frame=1&q=92&s=a4f20d8ddf6077097d958f3750ee2bfb",
+        "default": "https://ksr-ugc.imgix.net/assets/015/285/122/2e17f018f3b532fe2aab80c30f47f189_original.JPG?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1486592696&auto=format&frame=1&q=92&s=f6b92c37ba9fa78f027476769599bdf9"
+      }
+    },
+    "id": 2851199,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2851199,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1485365780,
+    "text_color": null
+  },
+  "slug": "kidgenda-a-parenting-app-as-unique-as-your-child",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1492612874,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1090321070/kidgenda-a-parenting-app-as-unique-as-your-child?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1090321070/kidgenda-a-parenting-app-as-unique-as-your-child/rewards"
+    }
+  },
+  "usd_pledged": "0.0",
+  "usd_type": "international"
+}

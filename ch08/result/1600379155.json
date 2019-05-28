@@ -1,0 +1,121 @@
+{
+  "backers_count": 4,
+  "blurb": "An intelligent LED wash light that listens to your instrument or microphone and creates a masterfully designed light show.",
+  "category": {
+    "color": 6526716,
+    "id": 52,
+    "name": "Hardware",
+    "parent_id": 16,
+    "position": 8,
+    "slug": "technology/hardware",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/hardware"
+      }
+    }
+  },
+  "converted_pledged_amount": 627,
+  "country": "US",
+  "created_at": 1388507962,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/008/292/910/5841ab907c07131ad7592e41aeafc0cf_original.JPG?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461515373&auto=format&frame=1&q=92&s=1379efb25270cac1abe7249c83f4dd6e",
+      "small": "https://ksr-ugc.imgix.net/assets/008/292/910/5841ab907c07131ad7592e41aeafc0cf_original.JPG?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461515373&auto=format&frame=1&q=92&s=1379efb25270cac1abe7249c83f4dd6e",
+      "thumb": "https://ksr-ugc.imgix.net/assets/008/292/910/5841ab907c07131ad7592e41aeafc0cf_original.JPG?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461515373&auto=format&frame=1&q=92&s=f5d9ae18208072ffd67cdd2d1e7f5a55"
+    },
+    "chosen_currency": null,
+    "id": 598521449,
+    "is_registered": null,
+    "name": "Aaron O'Dell",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/598521449?signature=1559027597.6fd03adae48099a0184b6c250a31b0cba01e38cb"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/598521449"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1432427576,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 30000.0,
+  "id": 1600379155,
+  "is_starrable": false,
+  "launched_at": 1429835576,
+  "location": {
+    "country": "US",
+    "displayable_name": "Kansas City, MO",
+    "id": 2430683,
+    "is_root": false,
+    "localized_name": "Kansas City",
+    "name": "Kansas City",
+    "short_name": "Kansas City, MO",
+    "slug": "kansas-city-mo",
+    "state": "MO",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997061.1840a4fc761e6a0c0c6128fdab9e3d365a345e27&woe_id=2430683"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/kansas-city-mo",
+        "location": "https://www.kickstarter.com/locations/kansas-city-mo"
+      }
+    }
+  },
+  "name": "Illuminati - LED Effects Pedal",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/011/628/792/236df04a644a5392fb7a035b06ce7c8b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463685795&auto=format&frame=1&q=92&s=df6eacf0f0d875869dbf9b4a6c25421c",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/011/628/792/236df04a644a5392fb7a035b06ce7c8b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463685795&auto=format&frame=1&q=92&s=8fda702f568c5bb3c3a7726d0a04c683",
+    "ed": "https://ksr-ugc.imgix.net/assets/011/628/792/236df04a644a5392fb7a035b06ce7c8b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463685795&auto=format&frame=1&q=92&s=a5e814bfa79485acf6a4a83091ada50c",
+    "full": "https://ksr-ugc.imgix.net/assets/011/628/792/236df04a644a5392fb7a035b06ce7c8b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463685795&auto=format&frame=1&q=92&s=ab127ee8421570920b49fad2b504933d",
+    "key": "assets/011/628/792/236df04a644a5392fb7a035b06ce7c8b_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/011/628/792/236df04a644a5392fb7a035b06ce7c8b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463685795&auto=format&frame=1&q=92&s=8dd85edf46af4c6614a84c8505a88039",
+    "med": "https://ksr-ugc.imgix.net/assets/011/628/792/236df04a644a5392fb7a035b06ce7c8b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463685795&auto=format&frame=1&q=92&s=35fc10eae1351d741ae12b64ae256fc0",
+    "small": "https://ksr-ugc.imgix.net/assets/011/628/792/236df04a644a5392fb7a035b06ce7c8b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463685795&auto=format&frame=1&q=92&s=d324cf567a5e3df53c4645264061dfa0",
+    "thumb": "https://ksr-ugc.imgix.net/assets/011/628/792/236df04a644a5392fb7a035b06ce7c8b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463685795&auto=format&frame=1&q=92&s=ea4642347bd1bb20516ce8b6d949ddcc"
+  },
+  "pledged": 627.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/011/628/792/236df04a644a5392fb7a035b06ce7c8b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463685795&auto=format&frame=1&q=92&s=ab127ee8421570920b49fad2b504933d",
+        "default": "https://ksr-ugc.imgix.net/assets/011/628/792/236df04a644a5392fb7a035b06ce7c8b_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463685795&auto=format&frame=1&q=92&s=8fda702f568c5bb3c3a7726d0a04c683"
+      }
+    },
+    "id": 831233,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 831233,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1425915845,
+    "text_color": null
+  },
+  "slug": "illuminati-led-effects-pedal",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1432427577,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/598521449/illuminati-led-effects-pedal?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/598521449/illuminati-led-effects-pedal/rewards"
+    }
+  },
+  "usd_pledged": "627.0",
+  "usd_type": "international"
+}

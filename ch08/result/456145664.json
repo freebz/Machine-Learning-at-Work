@@ -1,0 +1,121 @@
+{
+  "backers_count": 46,
+  "blurb": "Getting together with friends last minute can get annoying. That's why we developed an intelligent system that does it for us.",
+  "category": {
+    "color": 6526716,
+    "id": 51,
+    "name": "Software",
+    "parent_id": 16,
+    "position": 11,
+    "slug": "technology/software",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/software"
+      }
+    }
+  },
+  "converted_pledged_amount": 911,
+  "country": "US",
+  "created_at": 1390007176,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/008/214/585/173e2f8a79546067259aec8a23c3e390_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461510265&auto=format&frame=1&q=92&s=b1fc96d52c7ccd967cc6eafc662fee9a",
+      "small": "https://ksr-ugc.imgix.net/assets/008/214/585/173e2f8a79546067259aec8a23c3e390_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461510265&auto=format&frame=1&q=92&s=b1fc96d52c7ccd967cc6eafc662fee9a",
+      "thumb": "https://ksr-ugc.imgix.net/assets/008/214/585/173e2f8a79546067259aec8a23c3e390_original.png?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461510265&auto=format&frame=1&q=92&s=39d7b94b5ac315ff0f906daad59bb616"
+    },
+    "chosen_currency": null,
+    "id": 734008586,
+    "is_registered": null,
+    "name": "Aldo Avanzini",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/734008586?signature=1559028138.da07a2bfe7c288573d81acf199d7cebf9c62d7ab"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/734008586"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1401559303,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 25000.0,
+  "id": 456145664,
+  "is_starrable": false,
+  "launched_at": 1398967303,
+  "location": {
+    "country": "US",
+    "displayable_name": "New York, NY",
+    "id": 2459115,
+    "is_root": false,
+    "localized_name": "New York",
+    "name": "New York",
+    "short_name": "New York, NY",
+    "slug": "new-york-ny",
+    "state": "NY",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997054.c31323dd6bea4b733e4167b4608cc2b852044d64&woe_id=2459115"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/new-york-ny",
+        "location": "https://www.kickstarter.com/locations/new-york-ny"
+      }
+    }
+  },
+  "name": "Swarm | A new way to gather your friends",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/011/637/649/e2838adda7e9c5afc18934b1ac727056_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463686054&auto=format&frame=1&q=92&s=0c59d0c8706978866ddd645d749a72dc",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/011/637/649/e2838adda7e9c5afc18934b1ac727056_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463686054&auto=format&frame=1&q=92&s=2c2ffd5faa7738cc5db536aba6c7e79b",
+    "ed": "https://ksr-ugc.imgix.net/assets/011/637/649/e2838adda7e9c5afc18934b1ac727056_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463686054&auto=format&frame=1&q=92&s=c7c7c36a9c65c47197e91b2ec62292db",
+    "full": "https://ksr-ugc.imgix.net/assets/011/637/649/e2838adda7e9c5afc18934b1ac727056_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463686054&auto=format&frame=1&q=92&s=53b7d1677d5d62b3f394d85cf02d7cef",
+    "key": "assets/011/637/649/e2838adda7e9c5afc18934b1ac727056_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/011/637/649/e2838adda7e9c5afc18934b1ac727056_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463686054&auto=format&frame=1&q=92&s=25e885a79723117202d759bc5f8f88a2",
+    "med": "https://ksr-ugc.imgix.net/assets/011/637/649/e2838adda7e9c5afc18934b1ac727056_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463686054&auto=format&frame=1&q=92&s=1df1969d8efa4e94e982ea48a8d6d2f7",
+    "small": "https://ksr-ugc.imgix.net/assets/011/637/649/e2838adda7e9c5afc18934b1ac727056_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463686054&auto=format&frame=1&q=92&s=528f1b685e6ebd2ba68ce577eb0baeb9",
+    "thumb": "https://ksr-ugc.imgix.net/assets/011/637/649/e2838adda7e9c5afc18934b1ac727056_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463686054&auto=format&frame=1&q=92&s=659f37779107e524a110b84b35009072"
+  },
+  "pledged": 911.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/011/637/649/e2838adda7e9c5afc18934b1ac727056_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463686054&auto=format&frame=1&q=92&s=53b7d1677d5d62b3f394d85cf02d7cef",
+        "default": "https://ksr-ugc.imgix.net/assets/011/637/649/e2838adda7e9c5afc18934b1ac727056_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463686054&auto=format&frame=1&q=92&s=2c2ffd5faa7738cc5db536aba6c7e79b"
+      }
+    },
+    "id": 854021,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 854021,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1425915846,
+    "text_color": null
+  },
+  "slug": "swarm-a-new-way-to-gather-your-friends",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1401559303,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/734008586/swarm-a-new-way-to-gather-your-friends?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/734008586/swarm-a-new-way-to-gather-your-friends/rewards"
+    }
+  },
+  "usd_pledged": "911.0",
+  "usd_type": "international"
+}

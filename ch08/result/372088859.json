@@ -1,0 +1,121 @@
+{
+  "backers_count": 5,
+  "blurb": "An App, that provides you with recipes to make meals from ingredients you have on-hand.",
+  "category": {
+    "color": 6526716,
+    "id": 332,
+    "name": "Apps",
+    "parent_id": 16,
+    "position": 2,
+    "slug": "technology/apps",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/apps"
+      }
+    }
+  },
+  "converted_pledged_amount": 23,
+  "country": "DE",
+  "created_at": 1479932927,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/014/679/570/f544684a6c3aff846190818ff5da1c3c_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1480263913&auto=format&frame=1&q=92&s=95e71d19f34168be787a584085668479",
+      "small": "https://ksr-ugc.imgix.net/assets/014/679/570/f544684a6c3aff846190818ff5da1c3c_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1480263913&auto=format&frame=1&q=92&s=95e71d19f34168be787a584085668479",
+      "thumb": "https://ksr-ugc.imgix.net/assets/014/679/570/f544684a6c3aff846190818ff5da1c3c_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1480263913&auto=format&frame=1&q=92&s=1f11f7fef7768089b7a291a3c5e80448"
+    },
+    "chosen_currency": null,
+    "id": 1628155745,
+    "is_registered": null,
+    "name": "Justus Stahlhut",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1628155745?signature=1559026552.579f0d5ce7d77966ecd7dc1d25bbe6518ac66d30"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1628155745"
+      }
+    }
+  },
+  "currency": "EUR",
+  "currency_symbol": "\u20ac",
+  "currency_trailing_code": false,
+  "current_currency": "USD",
+  "deadline": 1492520891,
+  "disable_communication": false,
+  "fx_rate": 1.12155025,
+  "goal": 4500.0,
+  "id": 372088859,
+  "is_starrable": false,
+  "launched_at": 1489928891,
+  "location": {
+    "country": "DE",
+    "displayable_name": "Leipzig, Germany",
+    "id": 671072,
+    "is_root": false,
+    "localized_name": "Leipzig",
+    "name": "Leipzig",
+    "short_name": "Leipzig, Germany",
+    "slug": "leipzig-de",
+    "state": "Saxony",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997286.be98547a1d27e02a2db60fa1d4d62aa47f032467&woe_id=671072"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/leipzig-de",
+        "location": "https://www.kickstarter.com/locations/leipzig-de"
+      }
+    }
+  },
+  "name": "easy food.",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/014/679/208/b46fb35db106001bd676b058e6582775_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1480967416&auto=format&frame=1&q=92&s=07c8e911af7d99b3ca0dc170f1b32615",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/014/679/208/b46fb35db106001bd676b058e6582775_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1480967416&auto=format&frame=1&q=92&s=b548ec8af81bac0a7236b0333958c47b",
+    "ed": "https://ksr-ugc.imgix.net/assets/014/679/208/b46fb35db106001bd676b058e6582775_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1480967416&auto=format&frame=1&q=92&s=d6460a6e98f3111fa2f5267834e1648c",
+    "full": "https://ksr-ugc.imgix.net/assets/014/679/208/b46fb35db106001bd676b058e6582775_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1480967416&auto=format&frame=1&q=92&s=6bf9d86f311d8c9620c6a8afab45240a",
+    "key": "assets/014/679/208/b46fb35db106001bd676b058e6582775_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/014/679/208/b46fb35db106001bd676b058e6582775_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1480967416&auto=format&frame=1&q=92&s=073739c311cb185f60ac3cf4571b23ef",
+    "med": "https://ksr-ugc.imgix.net/assets/014/679/208/b46fb35db106001bd676b058e6582775_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1480967416&auto=format&frame=1&q=92&s=334ed001382592d8590adfafa5a64e92",
+    "small": "https://ksr-ugc.imgix.net/assets/014/679/208/b46fb35db106001bd676b058e6582775_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1480967416&auto=format&frame=1&q=92&s=78934d4c11809090207e4d6b272c3636",
+    "thumb": "https://ksr-ugc.imgix.net/assets/014/679/208/b46fb35db106001bd676b058e6582775_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1480967416&auto=format&frame=1&q=92&s=2659537fe5c3574e3a0741d94b8db0f2"
+  },
+  "pledged": 22.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/014/679/208/b46fb35db106001bd676b058e6582775_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1480967416&auto=format&frame=1&q=92&s=6bf9d86f311d8c9620c6a8afab45240a",
+        "default": "https://ksr-ugc.imgix.net/assets/014/679/208/b46fb35db106001bd676b058e6582775_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1480967416&auto=format&frame=1&q=92&s=b548ec8af81bac0a7236b0333958c47b"
+      }
+    },
+    "id": 2772151,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2772151,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1479932927,
+    "text_color": null
+  },
+  "slug": "easy-food",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1492520891,
+  "static_usd_rate": 1.07474993,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1628155745/easy-food?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1628155745/easy-food/rewards"
+    }
+  },
+  "usd_pledged": "23.64449846",
+  "usd_type": "international"
+}

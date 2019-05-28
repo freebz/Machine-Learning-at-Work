@@ -1,0 +1,121 @@
+{
+  "backers_count": 50,
+  "blurb": "The world's only platform designed to help empower and create wealth through entrepreneurship and ownership within the black community!",
+  "category": {
+    "color": 6526716,
+    "id": 332,
+    "name": "Apps",
+    "parent_id": 16,
+    "position": 2,
+    "slug": "technology/apps",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/apps"
+      }
+    }
+  },
+  "converted_pledged_amount": 1228,
+  "country": "US",
+  "created_at": 1484958547,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/015/756/361/db41696766007646263731a87736a441_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1489355994&auto=format&frame=1&q=92&s=9f5fd5ae13856be530dc92470d410e5a",
+      "small": "https://ksr-ugc.imgix.net/assets/015/756/361/db41696766007646263731a87736a441_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1489355994&auto=format&frame=1&q=92&s=9f5fd5ae13856be530dc92470d410e5a",
+      "thumb": "https://ksr-ugc.imgix.net/assets/015/756/361/db41696766007646263731a87736a441_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1489355994&auto=format&frame=1&q=92&s=f6fae5b0207660802e2700892a740df5"
+    },
+    "chosen_currency": null,
+    "id": 984699425,
+    "is_registered": null,
+    "name": "4THOSETHATDREAM ent.",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/984699425?signature=1559026552.ff69b3a547556598190ac5336820e94eed68e494"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/984699425"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1493475243,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 200000.0,
+  "id": 743478027,
+  "is_starrable": false,
+  "launched_at": 1490019243,
+  "location": {
+    "country": "US",
+    "displayable_name": "Los Angeles, CA",
+    "id": 2442047,
+    "is_root": false,
+    "localized_name": "Los Angeles",
+    "name": "Los Angeles",
+    "short_name": "Los Angeles, CA",
+    "slug": "los-angeles-ca",
+    "state": "CA",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997054.22505652cdc271c437a20c42d896114f5568879a&woe_id=2442047"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/los-angeles-ca",
+        "location": "https://www.kickstarter.com/locations/los-angeles-ca"
+      }
+    }
+  },
+  "name": "Project Springboard",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/015/237/525/dd6a249e8b2875bdfd2b3dab87ee8351_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1484958695&auto=format&frame=1&q=92&s=f0e79346dc908a5be67a27cbe06de101",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/015/237/525/dd6a249e8b2875bdfd2b3dab87ee8351_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1484958695&auto=format&frame=1&q=92&s=5f17f12bb0e2dd955647cb5e3490273d",
+    "ed": "https://ksr-ugc.imgix.net/assets/015/237/525/dd6a249e8b2875bdfd2b3dab87ee8351_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1484958695&auto=format&frame=1&q=92&s=67b0c84bc4a94bb8c528c1946ef7f4e3",
+    "full": "https://ksr-ugc.imgix.net/assets/015/237/525/dd6a249e8b2875bdfd2b3dab87ee8351_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1484958695&auto=format&frame=1&q=92&s=cc33a8227f62d22b93e160e4acb3e1c0",
+    "key": "assets/015/237/525/dd6a249e8b2875bdfd2b3dab87ee8351_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/015/237/525/dd6a249e8b2875bdfd2b3dab87ee8351_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1484958695&auto=format&frame=1&q=92&s=cf6357948b8c75f10736b0fce409b990",
+    "med": "https://ksr-ugc.imgix.net/assets/015/237/525/dd6a249e8b2875bdfd2b3dab87ee8351_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1484958695&auto=format&frame=1&q=92&s=6ff9591028a0864c0a710ee79bb375a5",
+    "small": "https://ksr-ugc.imgix.net/assets/015/237/525/dd6a249e8b2875bdfd2b3dab87ee8351_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1484958695&auto=format&frame=1&q=92&s=80620982327e1b6dc89259d3fac5d9f0",
+    "thumb": "https://ksr-ugc.imgix.net/assets/015/237/525/dd6a249e8b2875bdfd2b3dab87ee8351_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1484958695&auto=format&frame=1&q=92&s=52dbc12b444889b5e604f866af2bb219"
+  },
+  "pledged": 1228.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/015/237/525/dd6a249e8b2875bdfd2b3dab87ee8351_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1484958695&auto=format&frame=1&q=92&s=cc33a8227f62d22b93e160e4acb3e1c0",
+        "default": "https://ksr-ugc.imgix.net/assets/015/237/525/dd6a249e8b2875bdfd2b3dab87ee8351_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1484958695&auto=format&frame=1&q=92&s=5f17f12bb0e2dd955647cb5e3490273d"
+      }
+    },
+    "id": 2845031,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2845031,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1484958547,
+    "text_color": null
+  },
+  "slug": "project-springboard",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1493475244,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/984699425/project-springboard?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/984699425/project-springboard/rewards"
+    }
+  },
+  "usd_pledged": "1228.0",
+  "usd_type": "international"
+}

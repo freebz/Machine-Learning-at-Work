@@ -1,0 +1,121 @@
+{
+  "backers_count": 27,
+  "blurb": "SensoriOne is a robust, versatile sensor that developers can use to quickly and easily create motion capture applications",
+  "category": {
+    "color": 6526716,
+    "id": 52,
+    "name": "Hardware",
+    "parent_id": 16,
+    "position": 8,
+    "slug": "technology/hardware",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/hardware"
+      }
+    }
+  },
+  "converted_pledged_amount": 1483,
+  "country": "US",
+  "created_at": 1424050999,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/009/573/955/b2b69bd8f760fc14db84f14763a9f7c6_original.PNG?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461604078&auto=format&frame=1&q=92&s=4cfdaf3c293a9fc71160c1971e25278b",
+      "small": "https://ksr-ugc.imgix.net/assets/009/573/955/b2b69bd8f760fc14db84f14763a9f7c6_original.PNG?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461604078&auto=format&frame=1&q=92&s=4cfdaf3c293a9fc71160c1971e25278b",
+      "thumb": "https://ksr-ugc.imgix.net/assets/009/573/955/b2b69bd8f760fc14db84f14763a9f7c6_original.PNG?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461604078&auto=format&frame=1&q=92&s=5748553055f6c8f87b4eabd6a44f87c8"
+    },
+    "chosen_currency": null,
+    "id": 1794112152,
+    "is_registered": null,
+    "name": "Sensori",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1794112152?signature=1559027597.9bb1e83c6b43a13245bcf24a0a9c9627a46ae362"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1794112152"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1432357200,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 100000.0,
+  "id": 251149543,
+  "is_starrable": false,
+  "launched_at": 1429801677,
+  "location": {
+    "country": "US",
+    "displayable_name": "Madison, WI",
+    "id": 2443945,
+    "is_root": false,
+    "localized_name": "Madison",
+    "name": "Madison",
+    "short_name": "Madison, WI",
+    "slug": "madison-wi",
+    "state": "WI",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997060.503ba11b041fe36547629c64d9eb845b38ff6d97&woe_id=2443945"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/madison-wi",
+        "location": "https://www.kickstarter.com/locations/madison-wi"
+      }
+    }
+  },
+  "name": "SensoriOne - Measuring the World Set in Motion",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/038/380/81a08b781c7128e8c04d81d97823e1bc_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463726285&auto=format&frame=1&q=92&s=07d5c9523f4e7f59e13ab5ace34a0aab",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/038/380/81a08b781c7128e8c04d81d97823e1bc_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463726285&auto=format&frame=1&q=92&s=13137c93d5eb26cc1ac16ad3ac796841",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/038/380/81a08b781c7128e8c04d81d97823e1bc_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463726285&auto=format&frame=1&q=92&s=dd12cceb4af209187fe24fe859440b02",
+    "full": "https://ksr-ugc.imgix.net/assets/012/038/380/81a08b781c7128e8c04d81d97823e1bc_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463726285&auto=format&frame=1&q=92&s=3d4a00e693a674088bd02798d86a83ef",
+    "key": "assets/012/038/380/81a08b781c7128e8c04d81d97823e1bc_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/012/038/380/81a08b781c7128e8c04d81d97823e1bc_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463726285&auto=format&frame=1&q=92&s=b77fe091c69caa452234ef889414526c",
+    "med": "https://ksr-ugc.imgix.net/assets/012/038/380/81a08b781c7128e8c04d81d97823e1bc_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463726285&auto=format&frame=1&q=92&s=8bf3fa230732d6d53da45dfa1bcd6dd4",
+    "small": "https://ksr-ugc.imgix.net/assets/012/038/380/81a08b781c7128e8c04d81d97823e1bc_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463726285&auto=format&frame=1&q=92&s=8cd4b1818f30f301e2f3d944f187a4d2",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/038/380/81a08b781c7128e8c04d81d97823e1bc_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463726285&auto=format&frame=1&q=92&s=e6632860cf06016c5071740e5deeb66f"
+  },
+  "pledged": 1483.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/038/380/81a08b781c7128e8c04d81d97823e1bc_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463726285&auto=format&frame=1&q=92&s=3d4a00e693a674088bd02798d86a83ef",
+        "default": "https://ksr-ugc.imgix.net/assets/012/038/380/81a08b781c7128e8c04d81d97823e1bc_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463726285&auto=format&frame=1&q=92&s=13137c93d5eb26cc1ac16ad3ac796841"
+      }
+    },
+    "id": 1708242,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1708242,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1425915894,
+    "text_color": null
+  },
+  "slug": "sensorione-measuring-the-world-set-in-motion",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1432357212,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1794112152/sensorione-measuring-the-world-set-in-motion?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1794112152/sensorione-measuring-the-world-set-in-motion/rewards"
+    }
+  },
+  "usd_pledged": "1483.0",
+  "usd_type": "international"
+}

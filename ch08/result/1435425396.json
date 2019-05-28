@@ -1,0 +1,121 @@
+{
+  "backers_count": 1,
+  "blurb": "eShelf is a platform and app where you can sell all kind of selfmade or home grown goods like pastries, vegetables and fruits or jam.",
+  "category": {
+    "color": 6526716,
+    "id": 332,
+    "name": "Apps",
+    "parent_id": 16,
+    "position": 2,
+    "slug": "technology/apps",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/apps"
+      }
+    }
+  },
+  "converted_pledged_amount": 1,
+  "country": "DE",
+  "created_at": 1488495617,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/015/674/936/01c86b24eb52a90efa58a876cbdee4cd_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1488295232&auto=format&frame=1&q=92&s=2e883fdaafec265e16ed6eda9df91a7b",
+      "small": "https://ksr-ugc.imgix.net/assets/015/674/936/01c86b24eb52a90efa58a876cbdee4cd_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1488295232&auto=format&frame=1&q=92&s=2e883fdaafec265e16ed6eda9df91a7b",
+      "thumb": "https://ksr-ugc.imgix.net/assets/015/674/936/01c86b24eb52a90efa58a876cbdee4cd_original.png?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1488295232&auto=format&frame=1&q=92&s=4bb8293806aa98de868ee200acc655ba"
+    },
+    "chosen_currency": null,
+    "id": 1504870993,
+    "is_registered": null,
+    "name": "Philipp",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1504870993?signature=1559026552.ac20aa1f368c94affda803ab9fba39e194257b34"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1504870993"
+      }
+    }
+  },
+  "currency": "EUR",
+  "currency_symbol": "\u20ac",
+  "currency_trailing_code": false,
+  "current_currency": "USD",
+  "deadline": 1491249107,
+  "disable_communication": false,
+  "fx_rate": 1.12155025,
+  "goal": 25000.0,
+  "id": 1435425396,
+  "is_starrable": false,
+  "launched_at": 1490039507,
+  "location": {
+    "country": "DE",
+    "displayable_name": "Chemnitz, Germany",
+    "id": 643134,
+    "is_root": false,
+    "localized_name": "Chemnitz",
+    "name": "Chemnitz",
+    "short_name": "Chemnitz, Germany",
+    "slug": "chemnitz-saxony-de",
+    "state": "Saxony",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997342.29429995cfd639cf60dc25d0f879e8a55abd06aa&woe_id=643134"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/chemnitz-saxony-de",
+        "location": "https://www.kickstarter.com/locations/chemnitz-saxony-de"
+      }
+    }
+  },
+  "name": "\"eShelf\" Website & App to sell selfmade and home-grown",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/015/759/577/e7b9db75fa5e9ffc42ce6d87b53e0761_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1489510156&auto=format&frame=1&q=92&s=d6ea0c95fe7e412bbed9328cf34ba171",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/015/759/577/e7b9db75fa5e9ffc42ce6d87b53e0761_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1489510156&auto=format&frame=1&q=92&s=e0ccfab4f3c7a495c245deca7dbc9af5",
+    "ed": "https://ksr-ugc.imgix.net/assets/015/759/577/e7b9db75fa5e9ffc42ce6d87b53e0761_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1489510156&auto=format&frame=1&q=92&s=65992f5238308e90f3d86709fdd8cbb7",
+    "full": "https://ksr-ugc.imgix.net/assets/015/759/577/e7b9db75fa5e9ffc42ce6d87b53e0761_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1489510156&auto=format&frame=1&q=92&s=01711eda304de9350b3693f3ce7fe94a",
+    "key": "assets/015/759/577/e7b9db75fa5e9ffc42ce6d87b53e0761_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/015/759/577/e7b9db75fa5e9ffc42ce6d87b53e0761_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1489510156&auto=format&frame=1&q=92&s=3150130084fd89053aeae62ce45295ee",
+    "med": "https://ksr-ugc.imgix.net/assets/015/759/577/e7b9db75fa5e9ffc42ce6d87b53e0761_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1489510156&auto=format&frame=1&q=92&s=6785687d1ba40275238817f83fd368e6",
+    "small": "https://ksr-ugc.imgix.net/assets/015/759/577/e7b9db75fa5e9ffc42ce6d87b53e0761_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1489510156&auto=format&frame=1&q=92&s=c7338f57e96d14c19c5d4d9184f5fb03",
+    "thumb": "https://ksr-ugc.imgix.net/assets/015/759/577/e7b9db75fa5e9ffc42ce6d87b53e0761_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1489510156&auto=format&frame=1&q=92&s=7b85d0199ac9f96556fc4657156977b4"
+  },
+  "pledged": 1.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/015/759/577/e7b9db75fa5e9ffc42ce6d87b53e0761_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1489510156&auto=format&frame=1&q=92&s=01711eda304de9350b3693f3ce7fe94a",
+        "default": "https://ksr-ugc.imgix.net/assets/015/759/577/e7b9db75fa5e9ffc42ce6d87b53e0761_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1489510156&auto=format&frame=1&q=92&s=e0ccfab4f3c7a495c245deca7dbc9af5"
+      }
+    },
+    "id": 2903242,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2903242,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1488495617,
+    "text_color": null
+  },
+  "slug": "eshelf-website-and-app-to-sell-selfmade-and-home-g",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1491249108,
+  "static_usd_rate": 1.07444969,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1504870993/eshelf-website-and-app-to-sell-selfmade-and-home-g?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1504870993/eshelf-website-and-app-to-sell-selfmade-and-home-g/rewards"
+    }
+  },
+  "usd_pledged": "1.07444969",
+  "usd_type": "international"
+}

@@ -1,0 +1,121 @@
+{
+  "backers_count": 2,
+  "blurb": "A simple location based app that helps you find local make up artists, hair stylists or beauticians who bring their services to you.",
+  "category": {
+    "color": 6526716,
+    "id": 332,
+    "name": "Apps",
+    "parent_id": 16,
+    "position": 2,
+    "slug": "technology/apps",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/apps"
+      }
+    }
+  },
+  "converted_pledged_amount": 2,
+  "country": "GB",
+  "created_at": 1488642405,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/015/890/456/e7d65a922b67541967fd63fee8e1e104_original.PNG?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1489679371&auto=format&frame=1&q=92&s=5dd62c3e9e01e067e4a4167aedce0886",
+      "small": "https://ksr-ugc.imgix.net/assets/015/890/456/e7d65a922b67541967fd63fee8e1e104_original.PNG?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1489679371&auto=format&frame=1&q=92&s=5dd62c3e9e01e067e4a4167aedce0886",
+      "thumb": "https://ksr-ugc.imgix.net/assets/015/890/456/e7d65a922b67541967fd63fee8e1e104_original.PNG?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1489679371&auto=format&frame=1&q=92&s=ad107bee520330a7b531b60055f016cf"
+    },
+    "chosen_currency": null,
+    "id": 972597182,
+    "is_registered": null,
+    "name": "Navjot Dhariwal",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/972597182?signature=1559026552.83e4446e098400ae63fce058fdd3e82e725f2b7b"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/972597182"
+      }
+    }
+  },
+  "currency": "GBP",
+  "currency_symbol": "\u00a3",
+  "currency_trailing_code": false,
+  "current_currency": "USD",
+  "deadline": 1492523935,
+  "disable_communication": false,
+  "fx_rate": 1.27343275,
+  "goal": 4000.0,
+  "id": 2034658094,
+  "is_starrable": false,
+  "launched_at": 1489931935,
+  "location": {
+    "country": "GB",
+    "displayable_name": "London, UK",
+    "id": 44418,
+    "is_root": false,
+    "localized_name": "London",
+    "name": "London",
+    "short_name": "London, UK",
+    "slug": "london-gb",
+    "state": "England",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997053.595de15e94fee845ead9d6404d5d7e25f3b66265&woe_id=44418"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/london-gb",
+        "location": "https://www.kickstarter.com/locations/london-gb"
+      }
+    }
+  },
+  "name": "The future of finding beauty professionals!",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/015/738/395/066904f152002059d287deb443717405_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1489577709&auto=format&frame=1&q=92&s=6fd056a171f40032b969907e97e7e981",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/015/738/395/066904f152002059d287deb443717405_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1489577709&auto=format&frame=1&q=92&s=d179947c571ef90133d96b2b314f219d",
+    "ed": "https://ksr-ugc.imgix.net/assets/015/738/395/066904f152002059d287deb443717405_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1489577709&auto=format&frame=1&q=92&s=9a5c4ce61565c159b8ae439373138863",
+    "full": "https://ksr-ugc.imgix.net/assets/015/738/395/066904f152002059d287deb443717405_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1489577709&auto=format&frame=1&q=92&s=830b5e6419fd9b86b071ac1a832b69d9",
+    "key": "assets/015/738/395/066904f152002059d287deb443717405_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/015/738/395/066904f152002059d287deb443717405_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1489577709&auto=format&frame=1&q=92&s=0dd5136026f3d7282e84092fb4f3677f",
+    "med": "https://ksr-ugc.imgix.net/assets/015/738/395/066904f152002059d287deb443717405_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1489577709&auto=format&frame=1&q=92&s=09ad624d8c5791966ccf9de62b621b9a",
+    "small": "https://ksr-ugc.imgix.net/assets/015/738/395/066904f152002059d287deb443717405_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1489577709&auto=format&frame=1&q=92&s=348432046523cebed7caf0879b4c96a2",
+    "thumb": "https://ksr-ugc.imgix.net/assets/015/738/395/066904f152002059d287deb443717405_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1489577709&auto=format&frame=1&q=92&s=c6c0e5a53feeca013d092ee335e54cee"
+  },
+  "pledged": 2.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/015/738/395/066904f152002059d287deb443717405_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1489577709&auto=format&frame=1&q=92&s=830b5e6419fd9b86b071ac1a832b69d9",
+        "default": "https://ksr-ugc.imgix.net/assets/015/738/395/066904f152002059d287deb443717405_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1489577709&auto=format&frame=1&q=92&s=d179947c571ef90133d96b2b314f219d"
+      }
+    },
+    "id": 2905576,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2905576,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1488642405,
+    "text_color": null
+  },
+  "slug": "the-future-of-finding-beauty-professionals",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1492523936,
+  "static_usd_rate": 1.23975036,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/972597182/the-future-of-finding-beauty-professionals?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/972597182/the-future-of-finding-beauty-professionals/rewards"
+    }
+  },
+  "usd_pledged": "2.47950072",
+  "usd_type": "international"
+}

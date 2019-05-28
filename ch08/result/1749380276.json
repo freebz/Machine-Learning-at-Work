@@ -1,0 +1,121 @@
+{
+  "backers_count": 8,
+  "blurb": "We are building a low-cost small-footprint outdoor MPPT solar controller for getting the most out of solar panels for sailboats.",
+  "category": {
+    "color": 6526716,
+    "id": 52,
+    "name": "Hardware",
+    "parent_id": 16,
+    "position": 8,
+    "slug": "technology/hardware",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/hardware"
+      }
+    }
+  },
+  "converted_pledged_amount": 410,
+  "country": "US",
+  "created_at": 1428352000,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/008/230/944/cc20d8d0c5a78021d4b5d350a3286d51_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461511382&auto=format&frame=1&q=92&s=f673f5d55dfdf449d06b333809159891",
+      "small": "https://ksr-ugc.imgix.net/assets/008/230/944/cc20d8d0c5a78021d4b5d350a3286d51_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461511382&auto=format&frame=1&q=92&s=f673f5d55dfdf449d06b333809159891",
+      "thumb": "https://ksr-ugc.imgix.net/assets/008/230/944/cc20d8d0c5a78021d4b5d350a3286d51_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461511382&auto=format&frame=1&q=92&s=8e1e285f16458286bd3985f212005865"
+    },
+    "chosen_currency": null,
+    "id": 1875800321,
+    "is_registered": null,
+    "name": "Jack Murray",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1875800321?signature=1559027597.f0fc7c69b90c74cba3dd1cb164ea0394d7e8dc3e"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1875800321"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1431358665,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 2500.0,
+  "id": 1749380276,
+  "is_starrable": false,
+  "launched_at": 1429630665,
+  "location": {
+    "country": "US",
+    "displayable_name": "Sacramento, CA",
+    "id": 2486340,
+    "is_root": false,
+    "localized_name": "Sacramento",
+    "name": "Sacramento",
+    "short_name": "Sacramento, CA",
+    "slug": "sacramento-ca",
+    "state": "CA",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997060.9bf91931e589e823421e1a67aaddf28de3b0541b&woe_id=2486340"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/sacramento-ca",
+        "location": "https://www.kickstarter.com/locations/sacramento-ca"
+      }
+    }
+  },
+  "name": "microMPPT solar controller",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/099/028/5bbc07dbd2b1ccdc9e6c4e0d12593422_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463737219&auto=format&frame=1&q=92&s=f2df97b1433b6f15586ee517087f8aa1",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/099/028/5bbc07dbd2b1ccdc9e6c4e0d12593422_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463737219&auto=format&frame=1&q=92&s=712029c80ef812827ce1c1d9f368985f",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/099/028/5bbc07dbd2b1ccdc9e6c4e0d12593422_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463737219&auto=format&frame=1&q=92&s=78f0a0842225d5dfe86a8395809a20ce",
+    "full": "https://ksr-ugc.imgix.net/assets/012/099/028/5bbc07dbd2b1ccdc9e6c4e0d12593422_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463737219&auto=format&frame=1&q=92&s=4e804466e1a382cbf06fdad5f6c2929e",
+    "key": "assets/012/099/028/5bbc07dbd2b1ccdc9e6c4e0d12593422_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/012/099/028/5bbc07dbd2b1ccdc9e6c4e0d12593422_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463737219&auto=format&frame=1&q=92&s=0c862b3a40788c30fd76aaacf7d31da9",
+    "med": "https://ksr-ugc.imgix.net/assets/012/099/028/5bbc07dbd2b1ccdc9e6c4e0d12593422_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463737219&auto=format&frame=1&q=92&s=5f2fb0d16ef18dab489ed20d3340f22f",
+    "small": "https://ksr-ugc.imgix.net/assets/012/099/028/5bbc07dbd2b1ccdc9e6c4e0d12593422_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463737219&auto=format&frame=1&q=92&s=99e7f3cc136bf6f5bce0230965b34128",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/099/028/5bbc07dbd2b1ccdc9e6c4e0d12593422_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463737219&auto=format&frame=1&q=92&s=f425e33817dc9957cf57cbc0af4c1ee0"
+  },
+  "pledged": 410.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/099/028/5bbc07dbd2b1ccdc9e6c4e0d12593422_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463737219&auto=format&frame=1&q=92&s=4e804466e1a382cbf06fdad5f6c2929e",
+        "default": "https://ksr-ugc.imgix.net/assets/012/099/028/5bbc07dbd2b1ccdc9e6c4e0d12593422_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463737219&auto=format&frame=1&q=92&s=712029c80ef812827ce1c1d9f368985f"
+      }
+    },
+    "id": 1825017,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1825017,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1428352000,
+    "text_color": null
+  },
+  "slug": "micromppt-solar-controller",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1431358668,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1875800321/micromppt-solar-controller?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1875800321/micromppt-solar-controller/rewards"
+    }
+  },
+  "usd_pledged": "410.0",
+  "usd_type": "international"
+}

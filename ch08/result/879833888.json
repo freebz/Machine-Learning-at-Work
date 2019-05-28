@@ -1,0 +1,121 @@
+{
+  "backers_count": 0,
+  "blurb": "A Bigcommerce app that allows store owners visitors to make real time offers on products that you set the minimum price for. Sell more!",
+  "category": {
+    "color": 6526716,
+    "id": 342,
+    "name": "Web",
+    "parent_id": 16,
+    "position": 15,
+    "slug": "technology/web",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/web"
+      }
+    }
+  },
+  "converted_pledged_amount": 0,
+  "country": "US",
+  "created_at": 1427231081,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/009/719/496/b72d8ce36a3ed9a58f5771aca6dcaad1_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461623555&auto=format&frame=1&q=92&s=0f240647b39be6e15002070e496839fa",
+      "small": "https://ksr-ugc.imgix.net/assets/009/719/496/b72d8ce36a3ed9a58f5771aca6dcaad1_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461623555&auto=format&frame=1&q=92&s=0f240647b39be6e15002070e496839fa",
+      "thumb": "https://ksr-ugc.imgix.net/assets/009/719/496/b72d8ce36a3ed9a58f5771aca6dcaad1_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461623555&auto=format&frame=1&q=92&s=7d768cf2a9e8f9c9a5ce6130372dccc2"
+    },
+    "chosen_currency": null,
+    "id": 942479505,
+    "is_registered": null,
+    "name": "Brent Harrison",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/942479505?signature=1559028902.b00191b1a72616925586ab37eac03771985b55e6"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/942479505"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1434825652,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 42000.0,
+  "id": 879833888,
+  "is_starrable": false,
+  "launched_at": 1432233652,
+  "location": {
+    "country": "US",
+    "displayable_name": "Nashville, TN",
+    "id": 2457170,
+    "is_root": false,
+    "localized_name": "Nashville",
+    "name": "Nashville",
+    "short_name": "Nashville, TN",
+    "slug": "nashville-tn",
+    "state": "TN",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997058.426eb9c9522374e384d7f6ef706bc58fdd8ba429&woe_id=2457170"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/nashville-tn",
+        "location": "https://www.kickstarter.com/locations/nashville-tn"
+      }
+    }
+  },
+  "name": "Make An Offer Application",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/082/126/8c67801047eb200bcb6ef2379f91abf3_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463730360&auto=format&frame=1&q=92&s=e70139dac9351cee168fc5eeb1924d91",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/082/126/8c67801047eb200bcb6ef2379f91abf3_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463730360&auto=format&frame=1&q=92&s=ce93aa1f8889b35f24e13cc779037bb3",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/082/126/8c67801047eb200bcb6ef2379f91abf3_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463730360&auto=format&frame=1&q=92&s=815435077c6d0ad1f2736a3959f06c2c",
+    "full": "https://ksr-ugc.imgix.net/assets/012/082/126/8c67801047eb200bcb6ef2379f91abf3_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463730360&auto=format&frame=1&q=92&s=696b164919474102b900b2667842a037",
+    "key": "assets/012/082/126/8c67801047eb200bcb6ef2379f91abf3_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/012/082/126/8c67801047eb200bcb6ef2379f91abf3_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463730360&auto=format&frame=1&q=92&s=8575c3768968b55b49117b9bfb4a2f16",
+    "med": "https://ksr-ugc.imgix.net/assets/012/082/126/8c67801047eb200bcb6ef2379f91abf3_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463730360&auto=format&frame=1&q=92&s=f8db22baa73bb52bbb0ab5558d9cd457",
+    "small": "https://ksr-ugc.imgix.net/assets/012/082/126/8c67801047eb200bcb6ef2379f91abf3_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463730360&auto=format&frame=1&q=92&s=065287d6b6a2fac6b47c0015760371ea",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/082/126/8c67801047eb200bcb6ef2379f91abf3_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463730360&auto=format&frame=1&q=92&s=1dba23644d64f925ddb10be08ef8b9e7"
+  },
+  "pledged": 0.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/082/126/8c67801047eb200bcb6ef2379f91abf3_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463730360&auto=format&frame=1&q=92&s=696b164919474102b900b2667842a037",
+        "default": "https://ksr-ugc.imgix.net/assets/012/082/126/8c67801047eb200bcb6ef2379f91abf3_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463730360&auto=format&frame=1&q=92&s=ce93aa1f8889b35f24e13cc779037bb3"
+      }
+    },
+    "id": 1794155,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1794155,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1427231081,
+    "text_color": null
+  },
+  "slug": "make-an-offer-application",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1434825652,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/942479505/make-an-offer-application?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/942479505/make-an-offer-application/rewards"
+    }
+  },
+  "usd_pledged": "0.0",
+  "usd_type": "international"
+}

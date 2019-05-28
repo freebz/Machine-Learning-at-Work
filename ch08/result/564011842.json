@@ -1,0 +1,121 @@
+{
+  "backers_count": 10,
+  "blurb": "Gain a fresh vision of your place in time and space as you interact with this dynamic integration of clock, calendar and historic time",
+  "category": {
+    "color": 6526716,
+    "id": 51,
+    "name": "Software",
+    "parent_id": 16,
+    "position": 11,
+    "slug": "technology/software",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/software"
+      }
+    }
+  },
+  "converted_pledged_amount": 2702,
+  "country": "US",
+  "created_at": 1390703570,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/008/356/541/f2df9e4217232c1bb22cb6fa72ff125a_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461519217&auto=format&frame=1&q=92&s=97e52b7b710b1259b2e0664bff7cf1a2",
+      "small": "https://ksr-ugc.imgix.net/assets/008/356/541/f2df9e4217232c1bb22cb6fa72ff125a_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461519217&auto=format&frame=1&q=92&s=97e52b7b710b1259b2e0664bff7cf1a2",
+      "thumb": "https://ksr-ugc.imgix.net/assets/008/356/541/f2df9e4217232c1bb22cb6fa72ff125a_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461519217&auto=format&frame=1&q=92&s=4f46af3b91547b53fec8dea447a81c8c"
+    },
+    "chosen_currency": null,
+    "id": 792978099,
+    "is_registered": null,
+    "name": "John T Merritt",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/792978099?signature=1559028138.d4d5d1ec967805bb8347cdfb9547497e4c668730"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/792978099"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1403809597,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 45000.0,
+  "id": 564011842,
+  "is_starrable": false,
+  "launched_at": 1399921597,
+  "location": {
+    "country": "US",
+    "displayable_name": "Eureka Springs, AR",
+    "id": 2400634,
+    "is_root": false,
+    "localized_name": "Eureka Springs",
+    "name": "Eureka Springs",
+    "short_name": "Eureka Springs, AR",
+    "slug": "eureka-springs-ar",
+    "state": "AR",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997482.13c4c09706ddf9dff561f61493ad714a337dc77e&woe_id=2400634"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/eureka-springs-ar",
+        "location": "https://www.kickstarter.com/locations/eureka-springs-ar"
+      }
+    }
+  },
+  "name": "contimeuum: illuminating the passages of life",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/011/641/677/c80a0be17b3a43e639b3f35538d381ba_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463686109&auto=format&frame=1&q=92&s=fcb9630355fbb42a9dcbc82ffa880968",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/011/641/677/c80a0be17b3a43e639b3f35538d381ba_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463686109&auto=format&frame=1&q=92&s=80e7d646341348acf176ea26cdb2b791",
+    "ed": "https://ksr-ugc.imgix.net/assets/011/641/677/c80a0be17b3a43e639b3f35538d381ba_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463686109&auto=format&frame=1&q=92&s=1ca64fa6dc7fe24e33571848cf034b48",
+    "full": "https://ksr-ugc.imgix.net/assets/011/641/677/c80a0be17b3a43e639b3f35538d381ba_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463686109&auto=format&frame=1&q=92&s=76a98c0e48a23d23a62c4be261fd396b",
+    "key": "assets/011/641/677/c80a0be17b3a43e639b3f35538d381ba_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/011/641/677/c80a0be17b3a43e639b3f35538d381ba_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463686109&auto=format&frame=1&q=92&s=e718ca7f1a85d0664bc59900558a1d90",
+    "med": "https://ksr-ugc.imgix.net/assets/011/641/677/c80a0be17b3a43e639b3f35538d381ba_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463686109&auto=format&frame=1&q=92&s=1836feefbdbcaab1f5dbf22ac626e6e7",
+    "small": "https://ksr-ugc.imgix.net/assets/011/641/677/c80a0be17b3a43e639b3f35538d381ba_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463686109&auto=format&frame=1&q=92&s=5d65d09e209a0054e00e6c06da0ea462",
+    "thumb": "https://ksr-ugc.imgix.net/assets/011/641/677/c80a0be17b3a43e639b3f35538d381ba_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463686109&auto=format&frame=1&q=92&s=1ebe93a02fc26ddaa0ccd259018a53d6"
+  },
+  "pledged": 2702.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/011/641/677/c80a0be17b3a43e639b3f35538d381ba_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463686109&auto=format&frame=1&q=92&s=76a98c0e48a23d23a62c4be261fd396b",
+        "default": "https://ksr-ugc.imgix.net/assets/011/641/677/c80a0be17b3a43e639b3f35538d381ba_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463686109&auto=format&frame=1&q=92&s=80e7d646341348acf176ea26cdb2b791"
+      }
+    },
+    "id": 864291,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 864291,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1425915847,
+    "text_color": null
+  },
+  "slug": "contimeuum-illuminating-the-passages-of-life",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1403809597,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/792978099/contimeuum-illuminating-the-passages-of-life?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/792978099/contimeuum-illuminating-the-passages-of-life/rewards"
+    }
+  },
+  "usd_pledged": "2702.0",
+  "usd_type": "international"
+}

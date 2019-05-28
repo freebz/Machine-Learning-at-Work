@@ -1,0 +1,121 @@
+{
+  "backers_count": 57,
+  "blurb": "Your new HD smart glow headphones that glow to the rhythm of your music. Designed to make you look stylish & keep you safe in the dark.",
+  "category": {
+    "color": 6526716,
+    "id": 341,
+    "name": "Wearables",
+    "parent_id": 16,
+    "position": 14,
+    "slug": "technology/wearables",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/wearables"
+      }
+    }
+  },
+  "converted_pledged_amount": 10144,
+  "country": "US",
+  "created_at": 1490811928,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/016/054/819/1bb0e777d8ea0f420b6e9db816763b27_original.BMP?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1490813920&auto=format&frame=1&q=92&s=8b92082b7148bbeb9a7b15306dd16380",
+      "small": "https://ksr-ugc.imgix.net/assets/016/054/819/1bb0e777d8ea0f420b6e9db816763b27_original.BMP?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1490813920&auto=format&frame=1&q=92&s=8b92082b7148bbeb9a7b15306dd16380",
+      "thumb": "https://ksr-ugc.imgix.net/assets/016/054/819/1bb0e777d8ea0f420b6e9db816763b27_original.BMP?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1490813920&auto=format&frame=1&q=92&s=6c18df963b93df16ac350f52c9ab581f"
+    },
+    "chosen_currency": null,
+    "id": 1279925158,
+    "is_registered": null,
+    "name": "Spark Headphones",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1279925158?signature=1559026166.5e6f3caadd460199bec54224c28b75d748cad07f"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1279925158"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1497204092,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 10000.0,
+  "id": 1058859817,
+  "is_starrable": false,
+  "launched_at": 1493748092,
+  "location": {
+    "country": "US",
+    "displayable_name": "Detroit, MI",
+    "id": 2391585,
+    "is_root": false,
+    "localized_name": "Detroit",
+    "name": "Detroit",
+    "short_name": "Detroit, MI",
+    "slug": "detroit-mi",
+    "state": "MI",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997060.a345a637f17a44a628f52996aaff97253df0d57c&woe_id=2391585"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/detroit-mi",
+        "location": "https://www.kickstarter.com/locations/detroit-mi"
+      }
+    }
+  },
+  "name": "Spark Headphones : Smart Glow Headphones",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/016/054/514/bef6d8ece080a3283e4f1e9b8b7023b9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1493386996&auto=format&frame=1&q=92&s=0c156ea5c9f5f1a12c6b96e59081f61a",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/016/054/514/bef6d8ece080a3283e4f1e9b8b7023b9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1493386996&auto=format&frame=1&q=92&s=ca846715c6e9cef9bbb7cd249e294290",
+    "ed": "https://ksr-ugc.imgix.net/assets/016/054/514/bef6d8ece080a3283e4f1e9b8b7023b9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1493386996&auto=format&frame=1&q=92&s=b9d04c388fb11cb3c9636e524276416e",
+    "full": "https://ksr-ugc.imgix.net/assets/016/054/514/bef6d8ece080a3283e4f1e9b8b7023b9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1493386996&auto=format&frame=1&q=92&s=aca2634cb1bcb1439c01c6f4cd66737a",
+    "key": "assets/016/054/514/bef6d8ece080a3283e4f1e9b8b7023b9_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/016/054/514/bef6d8ece080a3283e4f1e9b8b7023b9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1493386996&auto=format&frame=1&q=92&s=5937b7b238f4855b7f14e51ee65a1429",
+    "med": "https://ksr-ugc.imgix.net/assets/016/054/514/bef6d8ece080a3283e4f1e9b8b7023b9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1493386996&auto=format&frame=1&q=92&s=32f2612bfd26e400f5701bb5952fa335",
+    "small": "https://ksr-ugc.imgix.net/assets/016/054/514/bef6d8ece080a3283e4f1e9b8b7023b9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1493386996&auto=format&frame=1&q=92&s=a150c4e921f3aa0d8ce6b50f7e47df00",
+    "thumb": "https://ksr-ugc.imgix.net/assets/016/054/514/bef6d8ece080a3283e4f1e9b8b7023b9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1493386996&auto=format&frame=1&q=92&s=f37d5f1e871689228f1b7335a44a0157"
+  },
+  "pledged": 10144.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/016/054/514/bef6d8ece080a3283e4f1e9b8b7023b9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1493386996&auto=format&frame=1&q=92&s=aca2634cb1bcb1439c01c6f4cd66737a",
+        "default": "https://ksr-ugc.imgix.net/assets/016/054/514/bef6d8ece080a3283e4f1e9b8b7023b9_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1493386996&auto=format&frame=1&q=92&s=ca846715c6e9cef9bbb7cd249e294290"
+      }
+    },
+    "id": 2941144,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2941144,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1490811928,
+    "text_color": null
+  },
+  "slug": "spark-headphones",
+  "spotlight": true,
+  "staff_pick": false,
+  "state": "successful",
+  "state_changed_at": 1497204092,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1279925158/spark-headphones?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1279925158/spark-headphones/rewards"
+    }
+  },
+  "usd_pledged": "10144.0",
+  "usd_type": "international"
+}

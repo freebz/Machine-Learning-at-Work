@@ -1,0 +1,121 @@
+{
+  "backers_count": 74,
+  "blurb": "Every dog owner worries about losing their dog. No worries! No monthly fees, no forgetting battery recharge, no buttons, it just works.",
+  "category": {
+    "color": 6526716,
+    "id": 52,
+    "name": "Hardware",
+    "parent_id": 16,
+    "position": 8,
+    "slug": "technology/hardware",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/hardware"
+      }
+    }
+  },
+  "converted_pledged_amount": 8695,
+  "country": "US",
+  "created_at": 1413694389,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/009/320/212/d88cc1703643f796222ffde297356182_original.JPG?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461579504&auto=format&frame=1&q=92&s=9e48897df5bb316b5bc50136698811a1",
+      "small": "https://ksr-ugc.imgix.net/assets/009/320/212/d88cc1703643f796222ffde297356182_original.JPG?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461579504&auto=format&frame=1&q=92&s=9e48897df5bb316b5bc50136698811a1",
+      "thumb": "https://ksr-ugc.imgix.net/assets/009/320/212/d88cc1703643f796222ffde297356182_original.JPG?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461579504&auto=format&frame=1&q=92&s=9f39a9422af620e06f9af6f8a39b0fe7"
+    },
+    "chosen_currency": null,
+    "id": 1844683329,
+    "is_registered": null,
+    "name": "Stephen Bell",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1844683329?signature=1559027597.6c89a7c94df0382e2225a0abda016125c3b1efac"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1844683329"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1431802852,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 100000.0,
+  "id": 98280106,
+  "is_starrable": false,
+  "launched_at": 1429210852,
+  "location": {
+    "country": "US",
+    "displayable_name": "Austin, TX",
+    "id": 2357536,
+    "is_root": false,
+    "localized_name": "Austin",
+    "name": "Austin",
+    "short_name": "Austin, TX",
+    "slug": "austin-tx",
+    "state": "TX",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997058.62304ec3617cc5d3292426b56cf3a682875831b5&woe_id=2357536"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/austin-tx",
+        "location": "https://www.kickstarter.com/locations/austin-tx"
+      }
+    }
+  },
+  "name": "Where's Nellie\u2122 - Never lose your dog!  GPS Dog Locator",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/011/914/145/16fcca188a1acf98816a898fa934633a_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463714378&auto=format&frame=1&q=92&s=e0e86e62bae00732f3851e2be01e4812",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/011/914/145/16fcca188a1acf98816a898fa934633a_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463714378&auto=format&frame=1&q=92&s=0c7bca41548067b83a87722b825d8582",
+    "ed": "https://ksr-ugc.imgix.net/assets/011/914/145/16fcca188a1acf98816a898fa934633a_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463714378&auto=format&frame=1&q=92&s=e74beed1139578a50857c1afa3340d70",
+    "full": "https://ksr-ugc.imgix.net/assets/011/914/145/16fcca188a1acf98816a898fa934633a_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463714378&auto=format&frame=1&q=92&s=5da8f973a0f156c768a99487e7c9c1e6",
+    "key": "assets/011/914/145/16fcca188a1acf98816a898fa934633a_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/011/914/145/16fcca188a1acf98816a898fa934633a_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463714378&auto=format&frame=1&q=92&s=ba6d4776e81660ef6d59f47263b57b1c",
+    "med": "https://ksr-ugc.imgix.net/assets/011/914/145/16fcca188a1acf98816a898fa934633a_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463714378&auto=format&frame=1&q=92&s=c87ddadbbf3dfe2aacb263d9666c93bd",
+    "small": "https://ksr-ugc.imgix.net/assets/011/914/145/16fcca188a1acf98816a898fa934633a_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463714378&auto=format&frame=1&q=92&s=9896b53691550c9a42e54c6b420f75c8",
+    "thumb": "https://ksr-ugc.imgix.net/assets/011/914/145/16fcca188a1acf98816a898fa934633a_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463714378&auto=format&frame=1&q=92&s=0fefe8b6b30fd76d1258f6060b09c2f7"
+  },
+  "pledged": 8695.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/011/914/145/16fcca188a1acf98816a898fa934633a_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463714378&auto=format&frame=1&q=92&s=5da8f973a0f156c768a99487e7c9c1e6",
+        "default": "https://ksr-ugc.imgix.net/assets/011/914/145/16fcca188a1acf98816a898fa934633a_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463714378&auto=format&frame=1&q=92&s=0c7bca41548067b83a87722b825d8582"
+      }
+    },
+    "id": 1451475,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1451475,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1425915880,
+    "text_color": null
+  },
+  "slug": "wheres-nellietm-never-lose-your-dog",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1431802856,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1844683329/wheres-nellietm-never-lose-your-dog?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1844683329/wheres-nellietm-never-lose-your-dog/rewards"
+    }
+  },
+  "usd_pledged": "8695.0",
+  "usd_type": "international"
+}

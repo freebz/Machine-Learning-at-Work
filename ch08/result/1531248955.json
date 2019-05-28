@@ -1,0 +1,121 @@
+{
+  "backers_count": 0,
+  "blurb": "This product combines cell phone and key in one - so that you never loose or forget it!",
+  "category": {
+    "color": 6526716,
+    "id": 337,
+    "name": "Gadgets",
+    "parent_id": 16,
+    "position": 7,
+    "slug": "technology/gadgets",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/gadgets"
+      }
+    }
+  },
+  "converted_pledged_amount": 0,
+  "country": "DE",
+  "created_at": 1445532549,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/010/454/369/5cdbd33f460c357cfab59d553db9309a_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461691040&auto=format&frame=1&q=92&s=207d579d1c1941c7c068e11467b2faa1",
+      "small": "https://ksr-ugc.imgix.net/assets/010/454/369/5cdbd33f460c357cfab59d553db9309a_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461691040&auto=format&frame=1&q=92&s=207d579d1c1941c7c068e11467b2faa1",
+      "thumb": "https://ksr-ugc.imgix.net/assets/010/454/369/5cdbd33f460c357cfab59d553db9309a_original.png?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461691040&auto=format&frame=1&q=92&s=0c9b3f6592ec3b461b7aafe88ce015d6"
+    },
+    "chosen_currency": null,
+    "id": 889232150,
+    "is_registered": null,
+    "name": "aaron Prinz",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/889232150?signature=1559027341.27f9e2bd4ef5c89c9b721ffd36f9aefd53ba6572"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/889232150"
+      }
+    }
+  },
+  "currency": "EUR",
+  "currency_symbol": "\u20ac",
+  "currency_trailing_code": false,
+  "current_currency": "USD",
+  "deadline": 1449333452,
+  "disable_communication": false,
+  "fx_rate": 1.12155025,
+  "goal": 33333.0,
+  "id": 1531248955,
+  "is_starrable": false,
+  "launched_at": 1446741452,
+  "location": {
+    "country": "DE",
+    "displayable_name": "Konstanz, Germany",
+    "id": 668213,
+    "is_root": false,
+    "localized_name": "Konstanz",
+    "name": "Konstanz",
+    "short_name": "Konstanz, Germany",
+    "slug": "konstanz-de",
+    "state": "Baden-Wurttemberg",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558998030.60d6efc93b67093fe7ef419b61590331672c44f0&woe_id=668213"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/konstanz-de",
+        "location": "https://www.kickstarter.com/locations/konstanz-de"
+      }
+    }
+  },
+  "name": "keyCase",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/286/655/bd5bb6e6c6bd2d6f80a40c5c8e779f19_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463750820&auto=format&frame=1&q=92&s=1d30b9307ba239059d10934e22b98a98",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/286/655/bd5bb6e6c6bd2d6f80a40c5c8e779f19_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463750820&auto=format&frame=1&q=92&s=af5a860da6b6a4f23c9d13be0d8e697b",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/286/655/bd5bb6e6c6bd2d6f80a40c5c8e779f19_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463750820&auto=format&frame=1&q=92&s=542e2a8f398e76a4609c40d2bb187fda",
+    "full": "https://ksr-ugc.imgix.net/assets/012/286/655/bd5bb6e6c6bd2d6f80a40c5c8e779f19_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463750820&auto=format&frame=1&q=92&s=b3dcd3344e29d7d9e9b522f9df93191d",
+    "key": "assets/012/286/655/bd5bb6e6c6bd2d6f80a40c5c8e779f19_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/012/286/655/bd5bb6e6c6bd2d6f80a40c5c8e779f19_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463750820&auto=format&frame=1&q=92&s=00736005cd6fbeac966a778c8c99ebfe",
+    "med": "https://ksr-ugc.imgix.net/assets/012/286/655/bd5bb6e6c6bd2d6f80a40c5c8e779f19_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463750820&auto=format&frame=1&q=92&s=3dd6cd14511cf9b143e15bdcb1bc32d1",
+    "small": "https://ksr-ugc.imgix.net/assets/012/286/655/bd5bb6e6c6bd2d6f80a40c5c8e779f19_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463750820&auto=format&frame=1&q=92&s=bc6263b5afe6979614344caadf015d9c",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/286/655/bd5bb6e6c6bd2d6f80a40c5c8e779f19_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463750820&auto=format&frame=1&q=92&s=f355f1fc0919d973c58acf89d579198a"
+  },
+  "pledged": 0.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/286/655/bd5bb6e6c6bd2d6f80a40c5c8e779f19_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463750820&auto=format&frame=1&q=92&s=b3dcd3344e29d7d9e9b522f9df93191d",
+        "default": "https://ksr-ugc.imgix.net/assets/012/286/655/bd5bb6e6c6bd2d6f80a40c5c8e779f19_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463750820&auto=format&frame=1&q=92&s=af5a860da6b6a4f23c9d13be0d8e697b"
+      }
+    },
+    "id": 2188174,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2188174,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1445532549,
+    "text_color": null
+  },
+  "slug": "keycase",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1449333453,
+  "static_usd_rate": 1.09496404,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/889232150/keycase?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/889232150/keycase/rewards"
+    }
+  },
+  "usd_pledged": "0.0",
+  "usd_type": "international"
+}

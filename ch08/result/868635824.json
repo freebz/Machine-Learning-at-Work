@@ -1,0 +1,121 @@
+{
+  "backers_count": 0,
+  "blurb": "Prototype a filtration system that will hold water, filter and return water instead of going in drainage while taking a shower or bath.",
+  "category": {
+    "color": 6526716,
+    "id": 52,
+    "name": "Hardware",
+    "parent_id": 16,
+    "position": 8,
+    "slug": "technology/hardware",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/hardware"
+      }
+    }
+  },
+  "converted_pledged_amount": 0,
+  "country": "US",
+  "created_at": 1429684867,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/008/794/596/2ce70a9edfd8d04987001d9ca0e9df72_original.jpeg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461544077&auto=format&frame=1&q=92&s=30249b84235b98fcd649917b30b86887",
+      "small": "https://ksr-ugc.imgix.net/assets/008/794/596/2ce70a9edfd8d04987001d9ca0e9df72_original.jpeg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461544077&auto=format&frame=1&q=92&s=30249b84235b98fcd649917b30b86887",
+      "thumb": "https://ksr-ugc.imgix.net/assets/008/794/596/2ce70a9edfd8d04987001d9ca0e9df72_original.jpeg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461544077&auto=format&frame=1&q=92&s=c8210060a3f5a8c71223391eb59d8454"
+    },
+    "chosen_currency": null,
+    "id": 1766011226,
+    "is_registered": null,
+    "name": "Pierre Besson",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1766011226?signature=1559027597.1b8c9cd528c78f41a5533c5c63f2188d542708b8"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1766011226"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1432400622,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 150000.0,
+  "id": 868635824,
+  "is_starrable": false,
+  "launched_at": 1429808622,
+  "location": {
+    "country": "US",
+    "displayable_name": "Portland, OR",
+    "id": 2475687,
+    "is_root": false,
+    "localized_name": "Portland",
+    "name": "Portland",
+    "short_name": "Portland, OR",
+    "slug": "portland-or",
+    "state": "OR",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997053.0708ee60cb4b693fd9e6c40770a51ba0df353912&woe_id=2475687"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/portland-or",
+        "location": "https://www.kickstarter.com/locations/portland-or"
+      }
+    }
+  },
+  "name": "Shower/Bath filtration system prototype that saves water",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/115/453/0159dc669ba64adf6be8136382088995_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463737676&auto=format&frame=1&q=92&s=d307fd8e7da35d3b9f7e1821f3504a8c",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/115/453/0159dc669ba64adf6be8136382088995_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463737676&auto=format&frame=1&q=92&s=dd11f9c18d582aa56df536dd01463576",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/115/453/0159dc669ba64adf6be8136382088995_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463737676&auto=format&frame=1&q=92&s=3a304adafdd2436b7b61b08939713b31",
+    "full": "https://ksr-ugc.imgix.net/assets/012/115/453/0159dc669ba64adf6be8136382088995_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463737676&auto=format&frame=1&q=92&s=d6199372e28810eb14a176adeb032929",
+    "key": "assets/012/115/453/0159dc669ba64adf6be8136382088995_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/012/115/453/0159dc669ba64adf6be8136382088995_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463737676&auto=format&frame=1&q=92&s=e3098c2f272d83f7964ce34489f0b16d",
+    "med": "https://ksr-ugc.imgix.net/assets/012/115/453/0159dc669ba64adf6be8136382088995_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463737676&auto=format&frame=1&q=92&s=63b9ed8d793fbfc9190d550fb0551f27",
+    "small": "https://ksr-ugc.imgix.net/assets/012/115/453/0159dc669ba64adf6be8136382088995_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463737676&auto=format&frame=1&q=92&s=b79dcde2214e681f21f8a94984e2a0c0",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/115/453/0159dc669ba64adf6be8136382088995_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463737676&auto=format&frame=1&q=92&s=db26e1d1cf81d16824b86cfac83451b9"
+  },
+  "pledged": 0.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/115/453/0159dc669ba64adf6be8136382088995_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463737676&auto=format&frame=1&q=92&s=d6199372e28810eb14a176adeb032929",
+        "default": "https://ksr-ugc.imgix.net/assets/012/115/453/0159dc669ba64adf6be8136382088995_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463737676&auto=format&frame=1&q=92&s=dd11f9c18d582aa56df536dd01463576"
+      }
+    },
+    "id": 1856114,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1856114,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1429684867,
+    "text_color": null
+  },
+  "slug": "shower-bath-filtration-system-prototype-that-saves",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1432400626,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1766011226/shower-bath-filtration-system-prototype-that-saves?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1766011226/shower-bath-filtration-system-prototype-that-saves/rewards"
+    }
+  },
+  "usd_pledged": "0.0",
+  "usd_type": "international"
+}

@@ -1,0 +1,122 @@
+{
+  "backers_count": 13,
+  "blurb": "Solar Harvester utilizes bright indoor lighting or outdoor light to generate 3.3VDC or 5VDC to run your low power electronic devices.",
+  "category": {
+    "color": 6526716,
+    "id": 337,
+    "name": "Gadgets",
+    "parent_id": 16,
+    "position": 7,
+    "slug": "technology/gadgets",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/gadgets"
+      }
+    }
+  },
+  "converted_pledged_amount": 109,
+  "country": "US",
+  "created_at": 1446393593,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/009/808/308/2e0e54c09046168c04749ee28e43b2d5_original.JPG?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461636060&auto=format&frame=1&q=92&s=810df8454260c6f0ed99db3960d693d9",
+      "small": "https://ksr-ugc.imgix.net/assets/009/808/308/2e0e54c09046168c04749ee28e43b2d5_original.JPG?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461636060&auto=format&frame=1&q=92&s=810df8454260c6f0ed99db3960d693d9",
+      "thumb": "https://ksr-ugc.imgix.net/assets/009/808/308/2e0e54c09046168c04749ee28e43b2d5_original.JPG?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461636060&auto=format&frame=1&q=92&s=3efa215e70cc0b223291642343d8ce0c"
+    },
+    "chosen_currency": null,
+    "id": 251284973,
+    "is_registered": null,
+    "name": "Kimberly",
+    "slug": "engineering-student",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/251284973?signature=1559027341.c52c7d79d3a0d4ed3e42de87a1853eb6114d0266"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/engineering-student"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1449086994,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 55000.0,
+  "id": 1649130117,
+  "is_starrable": false,
+  "launched_at": 1446494994,
+  "location": {
+    "country": "US",
+    "displayable_name": "East Haven, CT",
+    "id": 2395686,
+    "is_root": false,
+    "localized_name": "East Haven",
+    "name": "East Haven",
+    "short_name": "East Haven, CT",
+    "slug": "east-haven-ct",
+    "state": "CT",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558999593.d05164b52d904c77aee404f57901468ae35dc926&woe_id=2395686"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/east-haven-ct",
+        "location": "https://www.kickstarter.com/locations/east-haven-ct"
+      }
+    }
+  },
+  "name": "SoLong Battery - Solar Harvesting Solution",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/294/707/e67b54f323a0f12daae697a80e6eb437_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463752323&auto=format&frame=1&q=92&s=051891b0ff8ab9b38f6f8999246bd765",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/294/707/e67b54f323a0f12daae697a80e6eb437_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463752323&auto=format&frame=1&q=92&s=8252c1c7023366e9fa95c071fa039ba9",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/294/707/e67b54f323a0f12daae697a80e6eb437_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463752323&auto=format&frame=1&q=92&s=7310220aaea65c0919e3ceac4e40bb51",
+    "full": "https://ksr-ugc.imgix.net/assets/012/294/707/e67b54f323a0f12daae697a80e6eb437_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463752323&auto=format&frame=1&q=92&s=f212c1dc5ea765646eb8c02148b2404b",
+    "key": "assets/012/294/707/e67b54f323a0f12daae697a80e6eb437_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/012/294/707/e67b54f323a0f12daae697a80e6eb437_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463752323&auto=format&frame=1&q=92&s=3921011770f5551a9fa57b91907789b2",
+    "med": "https://ksr-ugc.imgix.net/assets/012/294/707/e67b54f323a0f12daae697a80e6eb437_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463752323&auto=format&frame=1&q=92&s=c1b34d10b3fe0931353f62d1cb292cb0",
+    "small": "https://ksr-ugc.imgix.net/assets/012/294/707/e67b54f323a0f12daae697a80e6eb437_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463752323&auto=format&frame=1&q=92&s=2a1a33e020330dd48ddfb7368f9ed282",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/294/707/e67b54f323a0f12daae697a80e6eb437_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463752323&auto=format&frame=1&q=92&s=5db838cb712c0914217e02aa6ffeaca6"
+  },
+  "pledged": 109.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/294/707/e67b54f323a0f12daae697a80e6eb437_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463752323&auto=format&frame=1&q=92&s=f212c1dc5ea765646eb8c02148b2404b",
+        "default": "https://ksr-ugc.imgix.net/assets/012/294/707/e67b54f323a0f12daae697a80e6eb437_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463752323&auto=format&frame=1&q=92&s=8252c1c7023366e9fa95c071fa039ba9"
+      }
+    },
+    "id": 2203975,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2203975,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1446393593,
+    "text_color": null
+  },
+  "slug": "solong-battery-solar-harvesting-solution",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1449086995,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/engineering-student/solong-battery-solar-harvesting-solution?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/engineering-student/solong-battery-solar-harvesting-solution/rewards"
+    }
+  },
+  "usd_pledged": "109.0",
+  "usd_type": "international"
+}

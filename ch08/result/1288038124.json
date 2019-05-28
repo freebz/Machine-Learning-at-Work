@@ -1,0 +1,122 @@
+{
+  "backers_count": 0,
+  "blurb": "A tool to set up a private organization event that doubles up people as roommates, campus housing, or create your individual profile.",
+  "category": {
+    "color": 6526716,
+    "id": 51,
+    "name": "Software",
+    "parent_id": 16,
+    "position": 11,
+    "slug": "technology/software",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/software"
+      }
+    }
+  },
+  "converted_pledged_amount": 0,
+  "country": "US",
+  "created_at": 1392848504,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/008/315/242/2c760602dca8e5eb555b92637c3a735e_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461516724&auto=format&frame=1&q=92&s=d3d785033e2dc9100dd1f18b09ec8ace",
+      "small": "https://ksr-ugc.imgix.net/assets/008/315/242/2c760602dca8e5eb555b92637c3a735e_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461516724&auto=format&frame=1&q=92&s=d3d785033e2dc9100dd1f18b09ec8ace",
+      "thumb": "https://ksr-ugc.imgix.net/assets/008/315/242/2c760602dca8e5eb555b92637c3a735e_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461516724&auto=format&frame=1&q=92&s=99285d4d52ef748360a8ef980ac83736"
+    },
+    "chosen_currency": null,
+    "id": 285168707,
+    "is_registered": null,
+    "name": "Pete Markakis",
+    "slug": "usaroomies",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/285168707?signature=1559028138.da1b619aa466144272b173838f8cb2f66e7f8dfd"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/usaroomies"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1401503524,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 1000.0,
+  "id": 1288038124,
+  "is_starrable": false,
+  "launched_at": 1398911524,
+  "location": {
+    "country": "US",
+    "displayable_name": "Austin, TX",
+    "id": 2357536,
+    "is_root": false,
+    "localized_name": "Austin",
+    "name": "Austin",
+    "short_name": "Austin, TX",
+    "slug": "austin-tx",
+    "state": "TX",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997058.62304ec3617cc5d3292426b56cf3a682875831b5&woe_id=2357536"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/austin-tx",
+        "location": "https://www.kickstarter.com/locations/austin-tx"
+      }
+    }
+  },
+  "name": "USA Roomies: A Unique Tool to Obtain Roommates",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/011/654/506/5f6137b3b9ef3370b4fa1cd57cdb169f_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463686317&auto=format&frame=1&q=92&s=e39d07e1c9f53663e8b9733a6950db8a",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/011/654/506/5f6137b3b9ef3370b4fa1cd57cdb169f_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463686317&auto=format&frame=1&q=92&s=a031c7cb9993df667f15751f2b94ab94",
+    "ed": "https://ksr-ugc.imgix.net/assets/011/654/506/5f6137b3b9ef3370b4fa1cd57cdb169f_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463686317&auto=format&frame=1&q=92&s=5dd4eb6af795633483bb892f34ead4e0",
+    "full": "https://ksr-ugc.imgix.net/assets/011/654/506/5f6137b3b9ef3370b4fa1cd57cdb169f_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463686317&auto=format&frame=1&q=92&s=e04296db42d873be02b7eb1918d5fece",
+    "key": "assets/011/654/506/5f6137b3b9ef3370b4fa1cd57cdb169f_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/011/654/506/5f6137b3b9ef3370b4fa1cd57cdb169f_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463686317&auto=format&frame=1&q=92&s=554f28ed8cffb6c005d1d66888a916bd",
+    "med": "https://ksr-ugc.imgix.net/assets/011/654/506/5f6137b3b9ef3370b4fa1cd57cdb169f_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463686317&auto=format&frame=1&q=92&s=1dfc061184781ece32b8c16a73c4e071",
+    "small": "https://ksr-ugc.imgix.net/assets/011/654/506/5f6137b3b9ef3370b4fa1cd57cdb169f_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463686317&auto=format&frame=1&q=92&s=3f2533a3df3d5ad2a5ccbc5507a5deb8",
+    "thumb": "https://ksr-ugc.imgix.net/assets/011/654/506/5f6137b3b9ef3370b4fa1cd57cdb169f_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463686317&auto=format&frame=1&q=92&s=3c59af7a50bb11709ce7aaed77ddcf78"
+  },
+  "pledged": 0.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/011/654/506/5f6137b3b9ef3370b4fa1cd57cdb169f_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463686317&auto=format&frame=1&q=92&s=e04296db42d873be02b7eb1918d5fece",
+        "default": "https://ksr-ugc.imgix.net/assets/011/654/506/5f6137b3b9ef3370b4fa1cd57cdb169f_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463686317&auto=format&frame=1&q=92&s=a031c7cb9993df667f15751f2b94ab94"
+      }
+    },
+    "id": 897656,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 897656,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1425915849,
+    "text_color": null
+  },
+  "slug": "usa-roomies-a-unique-tool-to-obtain-roommates",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1401503524,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/usaroomies/usa-roomies-a-unique-tool-to-obtain-roommates?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/usaroomies/usa-roomies-a-unique-tool-to-obtain-roommates/rewards"
+    }
+  },
+  "usd_pledged": "0.0",
+  "usd_type": "international"
+}

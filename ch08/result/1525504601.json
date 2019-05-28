@@ -1,0 +1,121 @@
+{
+  "backers_count": 2,
+  "blurb": "Patent Pending. Increase flexibility to spine, strengthen back muscles, develop core strength and open chest area for better posture.",
+  "category": {
+    "color": 6526716,
+    "id": 337,
+    "name": "Gadgets",
+    "parent_id": 16,
+    "position": 7,
+    "slug": "technology/gadgets",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/gadgets"
+      }
+    }
+  },
+  "converted_pledged_amount": 2,
+  "country": "US",
+  "created_at": 1446369081,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/010/499/099/060ba555db9e8aa647b5dfc1c0685d29_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461693973&auto=format&frame=1&q=92&s=c58d5b04310464fb1117ce7cf0a153b2",
+      "small": "https://ksr-ugc.imgix.net/assets/010/499/099/060ba555db9e8aa647b5dfc1c0685d29_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461693973&auto=format&frame=1&q=92&s=c58d5b04310464fb1117ce7cf0a153b2",
+      "thumb": "https://ksr-ugc.imgix.net/assets/010/499/099/060ba555db9e8aa647b5dfc1c0685d29_original.png?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461693973&auto=format&frame=1&q=92&s=873d98d23a1776ee594f17aa25e3eb8f"
+    },
+    "chosen_currency": null,
+    "id": 1183348184,
+    "is_registered": null,
+    "name": "Regina Pietersen",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1183348184?signature=1559027341.f620ca24dbb131e9b690be8d325d6d5889fc4148"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1183348184"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1449153370,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 10000.0,
+  "id": 1525504601,
+  "is_starrable": false,
+  "launched_at": 1446561370,
+  "location": {
+    "country": "US",
+    "displayable_name": "Toms River, NJ",
+    "id": 2507064,
+    "is_root": false,
+    "localized_name": "Toms River",
+    "name": "Toms River",
+    "short_name": "Toms River, NJ",
+    "slug": "toms-river-nj",
+    "state": "NJ",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997151.78fda517b0c9fc2037b4f3f42fc9f55ea2b4edfd&woe_id=2507064"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/toms-river-nj",
+        "location": "https://www.kickstarter.com/locations/toms-river-nj"
+      }
+    }
+  },
+  "name": "Yoga Wheel fitness flexibility prop. Patent pending.",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/294/547/c3e417e80a86cdf2c6e4da9657f49776_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463752300&auto=format&frame=1&q=92&s=3c83b4c0abd284906ec3065ee22b04b3",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/294/547/c3e417e80a86cdf2c6e4da9657f49776_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463752300&auto=format&frame=1&q=92&s=0ae83a49d2220ed27ffd1bac9bb5f757",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/294/547/c3e417e80a86cdf2c6e4da9657f49776_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463752300&auto=format&frame=1&q=92&s=cde7aa472647b0f0cfa39fc00fc00fdd",
+    "full": "https://ksr-ugc.imgix.net/assets/012/294/547/c3e417e80a86cdf2c6e4da9657f49776_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463752300&auto=format&frame=1&q=92&s=43006b81091651d1b729e627e1ea79af",
+    "key": "assets/012/294/547/c3e417e80a86cdf2c6e4da9657f49776_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/012/294/547/c3e417e80a86cdf2c6e4da9657f49776_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463752300&auto=format&frame=1&q=92&s=fa0a34d6aac4dc6c6b4e7dd7976c941f",
+    "med": "https://ksr-ugc.imgix.net/assets/012/294/547/c3e417e80a86cdf2c6e4da9657f49776_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463752300&auto=format&frame=1&q=92&s=488b224af4ab1b7a0096878be9f97137",
+    "small": "https://ksr-ugc.imgix.net/assets/012/294/547/c3e417e80a86cdf2c6e4da9657f49776_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463752300&auto=format&frame=1&q=92&s=69a2e62451e4ee44ace56cc51351b3c9",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/294/547/c3e417e80a86cdf2c6e4da9657f49776_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463752300&auto=format&frame=1&q=92&s=fedcca8f0f822a9fb48e9408ce06ca62"
+  },
+  "pledged": 2.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/294/547/c3e417e80a86cdf2c6e4da9657f49776_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463752300&auto=format&frame=1&q=92&s=43006b81091651d1b729e627e1ea79af",
+        "default": "https://ksr-ugc.imgix.net/assets/012/294/547/c3e417e80a86cdf2c6e4da9657f49776_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463752300&auto=format&frame=1&q=92&s=0ae83a49d2220ed27ffd1bac9bb5f757"
+      }
+    },
+    "id": 2203656,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2203656,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1446369081,
+    "text_color": null
+  },
+  "slug": "yoga-wheel-fitness-flexibility-prop-patent-pending",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1449153370,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1183348184/yoga-wheel-fitness-flexibility-prop-patent-pending?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1183348184/yoga-wheel-fitness-flexibility-prop-patent-pending/rewards"
+    }
+  },
+  "usd_pledged": "2.0",
+  "usd_type": "international"
+}

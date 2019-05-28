@@ -1,0 +1,122 @@
+{
+  "backers_count": 3,
+  "blurb": "Prototype of portable temperature controlled plate, designed to keep your hot drinks hot and your cold drinks cold.",
+  "category": {
+    "color": 6526716,
+    "id": 337,
+    "name": "Gadgets",
+    "parent_id": 16,
+    "position": 7,
+    "slug": "technology/gadgets",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/gadgets"
+      }
+    }
+  },
+  "converted_pledged_amount": 3,
+  "country": "US",
+  "created_at": 1446061598,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/010/386/333/cf6ae69d14ee09876d0fe7bf7dbbed30_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461686237&auto=format&frame=1&q=92&s=bd3b42d2dd89588c43c8f121abc149b8",
+      "small": "https://ksr-ugc.imgix.net/assets/010/386/333/cf6ae69d14ee09876d0fe7bf7dbbed30_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461686237&auto=format&frame=1&q=92&s=bd3b42d2dd89588c43c8f121abc149b8",
+      "thumb": "https://ksr-ugc.imgix.net/assets/010/386/333/cf6ae69d14ee09876d0fe7bf7dbbed30_original.png?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461686237&auto=format&frame=1&q=92&s=47e4490ec56edcf352640ef5ae4ad6f1"
+    },
+    "chosen_currency": null,
+    "id": 157397274,
+    "is_registered": null,
+    "name": "EVANESCE LLC",
+    "slug": "evanesce",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/157397274?signature=1559027341.748f6228f5a203c182ea95ee1a0701e582d61469"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/evanesce"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1449177461,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 1000.0,
+  "id": 490641402,
+  "is_starrable": false,
+  "launched_at": 1446585461,
+  "location": {
+    "country": "US",
+    "displayable_name": "San Antonio, TX",
+    "id": 2487796,
+    "is_root": false,
+    "localized_name": "San Antonio",
+    "name": "San Antonio",
+    "short_name": "San Antonio, TX",
+    "slug": "san-antonio-tx",
+    "state": "TX",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997056.6c5dacb3377f7fe881a95ad8c254074b60005f9b&woe_id=2487796"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/san-antonio-tx",
+        "location": "https://www.kickstarter.com/locations/san-antonio-tx"
+      }
+    }
+  },
+  "name": "Temperature Controlled Cooling and Warming Plate Prototype",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/291/857/aa9f80752c4c32c6abe63d0e7753e58f_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463752022&auto=format&frame=1&q=92&s=f8d342722febe0fe639c861f935c8d37",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/291/857/aa9f80752c4c32c6abe63d0e7753e58f_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463752022&auto=format&frame=1&q=92&s=96cf6f30ad3a9c0333ed899ceaf21c63",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/291/857/aa9f80752c4c32c6abe63d0e7753e58f_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463752022&auto=format&frame=1&q=92&s=5f735811d0290ca3c8df9a367c2d05a0",
+    "full": "https://ksr-ugc.imgix.net/assets/012/291/857/aa9f80752c4c32c6abe63d0e7753e58f_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463752022&auto=format&frame=1&q=92&s=ef407b54505bc3b1e4a607ba23f499cd",
+    "key": "assets/012/291/857/aa9f80752c4c32c6abe63d0e7753e58f_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/012/291/857/aa9f80752c4c32c6abe63d0e7753e58f_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463752022&auto=format&frame=1&q=92&s=04080ae3590c7dd1e1ea2ea0a7b634d7",
+    "med": "https://ksr-ugc.imgix.net/assets/012/291/857/aa9f80752c4c32c6abe63d0e7753e58f_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463752022&auto=format&frame=1&q=92&s=dc90e7316a0559891c02c589bcae9c06",
+    "small": "https://ksr-ugc.imgix.net/assets/012/291/857/aa9f80752c4c32c6abe63d0e7753e58f_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463752022&auto=format&frame=1&q=92&s=8fce56ba6139d4de7f6e3de6b7377563",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/291/857/aa9f80752c4c32c6abe63d0e7753e58f_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463752022&auto=format&frame=1&q=92&s=3ab402238f3e6fbbb6769979bec3de59"
+  },
+  "pledged": 3.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/291/857/aa9f80752c4c32c6abe63d0e7753e58f_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463752022&auto=format&frame=1&q=92&s=ef407b54505bc3b1e4a607ba23f499cd",
+        "default": "https://ksr-ugc.imgix.net/assets/012/291/857/aa9f80752c4c32c6abe63d0e7753e58f_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463752022&auto=format&frame=1&q=92&s=96cf6f30ad3a9c0333ed899ceaf21c63"
+      }
+    },
+    "id": 2198342,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2198342,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1446061598,
+    "text_color": null
+  },
+  "slug": "temperature-controlled-cooling-and-warming-plate-p",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1449177501,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/evanesce/temperature-controlled-cooling-and-warming-plate-p?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/evanesce/temperature-controlled-cooling-and-warming-plate-p/rewards"
+    }
+  },
+  "usd_pledged": "3.0",
+  "usd_type": "international"
+}

@@ -1,0 +1,121 @@
+{
+  "backers_count": 3,
+  "blurb": "Are you an Arduino and Raspberry Pi enthusiast? Php Controller is the powerful development platform that you need for your projects!",
+  "category": {
+    "color": 6526716,
+    "id": 338,
+    "name": "Robots",
+    "parent_id": 16,
+    "position": 10,
+    "slug": "technology/robots",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/robots"
+      }
+    }
+  },
+  "converted_pledged_amount": 264,
+  "country": "IT",
+  "created_at": 1493219880,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/015/552/600/84e34186ab1258f5a7e4164abc653acc_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1487418274&auto=format&frame=1&q=92&s=5cc1b0c0dd6203efa314ca79c57ec231",
+      "small": "https://ksr-ugc.imgix.net/assets/015/552/600/84e34186ab1258f5a7e4164abc653acc_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1487418274&auto=format&frame=1&q=92&s=5cc1b0c0dd6203efa314ca79c57ec231",
+      "thumb": "https://ksr-ugc.imgix.net/assets/015/552/600/84e34186ab1258f5a7e4164abc653acc_original.png?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1487418274&auto=format&frame=1&q=92&s=aa5ee57520d96d7251a891082b2b2c0e"
+    },
+    "chosen_currency": null,
+    "id": 2047207582,
+    "is_registered": null,
+    "name": "Orlando Ceci",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/2047207582?signature=1559026166.c0ca1a27022004d1cd21072d896c36850546095b"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/2047207582"
+      }
+    }
+  },
+  "currency": "EUR",
+  "currency_symbol": "\u20ac",
+  "currency_trailing_code": false,
+  "current_currency": "USD",
+  "deadline": 1496253600,
+  "disable_communication": false,
+  "fx_rate": 1.12155025,
+  "goal": 149.0,
+  "id": 1042314573,
+  "is_starrable": false,
+  "launched_at": 1493673264,
+  "location": {
+    "country": "IT",
+    "displayable_name": "Pescara, Italy",
+    "id": 29341780,
+    "is_root": false,
+    "localized_name": "Pescara",
+    "name": "Pescara",
+    "short_name": "Pescara, Italy",
+    "slug": "pescara-emilia-romagna-it",
+    "state": "Emilia Romagna",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997165.1717bc6c9b21c9ffbb00c3536527dac781745956&woe_id=29341780"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/pescara-emilia-romagna-it",
+        "location": "https://www.kickstarter.com/locations/pescara-emilia-romagna-it"
+      }
+    }
+  },
+  "name": "PHP CONTROLLER. Bring out the best from your projects!",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/016/410/286/7089bfb0e2ee513a37854e33287835f8_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1494693273&auto=format&frame=1&q=92&s=28ea0d885b65070fc3f8ee97ba4e555c",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/016/410/286/7089bfb0e2ee513a37854e33287835f8_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1494693273&auto=format&frame=1&q=92&s=0921baaa9293abe77430dd3426793261",
+    "ed": "https://ksr-ugc.imgix.net/assets/016/410/286/7089bfb0e2ee513a37854e33287835f8_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1494693273&auto=format&frame=1&q=92&s=cf8e925125037ba892c4d55b9b18e0e7",
+    "full": "https://ksr-ugc.imgix.net/assets/016/410/286/7089bfb0e2ee513a37854e33287835f8_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1494693273&auto=format&frame=1&q=92&s=fdd7ad34e349668b7c867346a8559885",
+    "key": "assets/016/410/286/7089bfb0e2ee513a37854e33287835f8_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/016/410/286/7089bfb0e2ee513a37854e33287835f8_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1494693273&auto=format&frame=1&q=92&s=39382f11ca68e97c2075ae817bf90da7",
+    "med": "https://ksr-ugc.imgix.net/assets/016/410/286/7089bfb0e2ee513a37854e33287835f8_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1494693273&auto=format&frame=1&q=92&s=f259872f7f4569ac7106decc2990007f",
+    "small": "https://ksr-ugc.imgix.net/assets/016/410/286/7089bfb0e2ee513a37854e33287835f8_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1494693273&auto=format&frame=1&q=92&s=dc7587e3b6fa03cf3a5086f1114229a7",
+    "thumb": "https://ksr-ugc.imgix.net/assets/016/410/286/7089bfb0e2ee513a37854e33287835f8_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1494693273&auto=format&frame=1&q=92&s=c88d5d5423098d00840a81cf47d524ce"
+  },
+  "pledged": 237.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/016/410/286/7089bfb0e2ee513a37854e33287835f8_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1494693273&auto=format&frame=1&q=92&s=fdd7ad34e349668b7c867346a8559885",
+        "default": "https://ksr-ugc.imgix.net/assets/016/410/286/7089bfb0e2ee513a37854e33287835f8_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1494693273&auto=format&frame=1&q=92&s=0921baaa9293abe77430dd3426793261"
+      }
+    },
+    "id": 2977121,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2977121,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1493219880,
+    "text_color": null
+  },
+  "slug": "php-controller-bring-out-the-best-from-your-projec",
+  "spotlight": true,
+  "staff_pick": false,
+  "state": "successful",
+  "state_changed_at": 1496253600,
+  "static_usd_rate": 1.08960355,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/2047207582/php-controller-bring-out-the-best-from-your-projec?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/2047207582/php-controller-bring-out-the-best-from-your-projec/rewards"
+    }
+  },
+  "usd_pledged": "258.23604135",
+  "usd_type": "international"
+}

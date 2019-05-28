@@ -1,0 +1,129 @@
+{
+  "backers_count": 10964,
+  "blurb": "Amazingly small but powered with the latest Android 7.0 Nougat features, Jelly is a mini-sized 4G smartphone for everyone.",
+  "category": {
+    "color": 6526716,
+    "id": 337,
+    "name": "Gadgets",
+    "parent_id": 16,
+    "position": 7,
+    "slug": "technology/gadgets",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/gadgets"
+      }
+    }
+  },
+  "converted_pledged_amount": 1251380,
+  "country": "US",
+  "created_at": 1492856742,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/016/353/606/78ca7c8f1ecff00c8fa12fc1ccdecbaa_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1525919105&auto=format&frame=1&q=92&s=20432ed878327a263a0fad1d2fa6a32d",
+      "small": "https://ksr-ugc.imgix.net/assets/016/353/606/78ca7c8f1ecff00c8fa12fc1ccdecbaa_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1525919105&auto=format&frame=1&q=92&s=20432ed878327a263a0fad1d2fa6a32d",
+      "thumb": "https://ksr-ugc.imgix.net/assets/016/353/606/78ca7c8f1ecff00c8fa12fc1ccdecbaa_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1525919105&auto=format&frame=1&q=92&s=1ccb5488160a8501e850099b7a1b2ad9"
+    },
+    "chosen_currency": null,
+    "id": 535737744,
+    "is_registered": null,
+    "name": "Unihertz",
+    "slug": "jellyphone",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/535737744?signature=1559026166.75a58ed550a54c242c02c762516d68c2cc3999df"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/jellyphone"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1496761149,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 30000.0,
+  "id": 11280589,
+  "is_starrable": false,
+  "launched_at": 1493737149,
+  "location": {
+    "country": "CN",
+    "displayable_name": "Shanghai, China",
+    "id": 2151849,
+    "is_root": false,
+    "localized_name": "Shanghai",
+    "name": "Shanghai",
+    "short_name": "Shanghai, China",
+    "slug": "shanghai-cn",
+    "state": "Shanghai",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997105.bafe4cc43135dd5a1066b0879cf38c4adcc0d565&woe_id=2151849"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/shanghai-cn",
+        "location": "https://www.kickstarter.com/locations/shanghai-cn"
+      }
+    }
+  },
+  "name": "Jelly, The Smallest 4G Smartphone",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/016/353/670/a259466825f9f7dec79d0b526a2393a3_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1493711224&auto=format&frame=1&q=92&s=cc4b17ef732404e8879d03544e127080",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/016/353/670/a259466825f9f7dec79d0b526a2393a3_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1493711224&auto=format&frame=1&q=92&s=41338370a38f4986456a636c41faa1db",
+    "ed": "https://ksr-ugc.imgix.net/assets/016/353/670/a259466825f9f7dec79d0b526a2393a3_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1493711224&auto=format&frame=1&q=92&s=198b97551619f58d4d7127b59373c69e",
+    "full": "https://ksr-ugc.imgix.net/assets/016/353/670/a259466825f9f7dec79d0b526a2393a3_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1493711224&auto=format&frame=1&q=92&s=0157ddcc51b8f67c7e5b54c4e04d4d14",
+    "key": "assets/016/353/670/a259466825f9f7dec79d0b526a2393a3_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/016/353/670/a259466825f9f7dec79d0b526a2393a3_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1493711224&auto=format&frame=1&q=92&s=6387d66da1968feb90a61122c4a9e61a",
+    "med": "https://ksr-ugc.imgix.net/assets/016/353/670/a259466825f9f7dec79d0b526a2393a3_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1493711224&auto=format&frame=1&q=92&s=c936eecafd6f98ab7737fa4dbb72c26f",
+    "small": "https://ksr-ugc.imgix.net/assets/016/353/670/a259466825f9f7dec79d0b526a2393a3_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1493711224&auto=format&frame=1&q=92&s=f0875f21c76025ff6b7b7e04de3bd3d6",
+    "thumb": "https://ksr-ugc.imgix.net/assets/016/353/670/a259466825f9f7dec79d0b526a2393a3_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1493711224&auto=format&frame=1&q=92&s=1fd4a3d27f93fabe35b9da097f51dfbf"
+  },
+  "pledged": 1251380.03,
+  "profile": {
+    "background_color": "282828",
+    "background_image_attributes": {
+      "id": 17488169,
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/017/488/169/d70354c72358011a90f46216d9a7ba5f_original.jpg?ixlib=rb-2.0.0&w=460&fit=max&v=1499923757&auto=format&frame=1&q=92&s=1e89ca404a569345e54bdf0c16b4f111",
+        "default": "https://ksr-ugc.imgix.net/assets/017/488/169/d70354c72358011a90f46216d9a7ba5f_original.jpg?ixlib=rb-2.0.0&w=1600&fit=max&v=1499923757&auto=format&frame=1&q=92&s=ae8004746d894aac84c8d436bcf117fa"
+      }
+    },
+    "background_image_opacity": 0.7,
+    "blurb": "Amazingly small but powered with the latest Android 7.0 Nougat features, Jelly is a mini-sized 4G smartphone for everyone.",
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/016/353/670/a259466825f9f7dec79d0b526a2393a3_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1493711224&auto=format&frame=1&q=92&s=0157ddcc51b8f67c7e5b54c4e04d4d14",
+        "default": "https://ksr-ugc.imgix.net/assets/016/353/670/a259466825f9f7dec79d0b526a2393a3_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1493711224&auto=format&frame=1&q=92&s=41338370a38f4986456a636c41faa1db"
+      }
+    },
+    "id": 2971497,
+    "link_background_color": "00dd12",
+    "link_text": "Buy it Now",
+    "link_text_color": "",
+    "link_url": "https://www.unihertz.com/shop",
+    "name": "Jelly, The Smallest 4G Smartphone",
+    "project_id": 2971497,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "active",
+    "state_changed_at": 1496762698,
+    "text_color": "ffffff"
+  },
+  "slug": "jelly-the-smallest-4g-smartphone",
+  "spotlight": true,
+  "staff_pick": false,
+  "state": "successful",
+  "state_changed_at": 1496761149,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/jellyphone/jelly-the-smallest-4g-smartphone?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/jellyphone/jelly-the-smallest-4g-smartphone/rewards"
+    }
+  },
+  "usd_pledged": "1251380.03",
+  "usd_type": "international"
+}

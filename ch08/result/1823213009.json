@@ -1,0 +1,121 @@
+{
+  "backers_count": 210,
+  "blurb": "Momo is a smart home robot, equipped with artificial intelligence, and designed as a super hub with standalone security features.",
+  "category": {
+    "color": 6526716,
+    "id": 338,
+    "name": "Robots",
+    "parent_id": 16,
+    "position": 10,
+    "slug": "technology/robots",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/robots"
+      }
+    }
+  },
+  "converted_pledged_amount": 54446,
+  "country": "US",
+  "created_at": 1492208105,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/016/401/114/2e90280be67fe5d370f900e3e60cae1b_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1493240568&auto=format&frame=1&q=92&s=a989394f78dec4e681963540ca29a6ba",
+      "small": "https://ksr-ugc.imgix.net/assets/016/401/114/2e90280be67fe5d370f900e3e60cae1b_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1493240568&auto=format&frame=1&q=92&s=a989394f78dec4e681963540ca29a6ba",
+      "thumb": "https://ksr-ugc.imgix.net/assets/016/401/114/2e90280be67fe5d370f900e3e60cae1b_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1493240568&auto=format&frame=1&q=92&s=32e110e898cd02e5a4eadf7fc364d571"
+    },
+    "chosen_currency": null,
+    "id": 98269215,
+    "is_registered": null,
+    "name": "Morpheos Team",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/98269215?signature=1559026166.90a7b5043c8d2bdfa990846f58aeb5e9b1de42ad"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/98269215"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1496849197,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 45000.0,
+  "id": 1823213009,
+  "is_starrable": false,
+  "launched_at": 1493738797,
+  "location": {
+    "country": "US",
+    "displayable_name": "Los Angeles, CA",
+    "id": 2442047,
+    "is_root": false,
+    "localized_name": "Los Angeles",
+    "name": "Los Angeles",
+    "short_name": "Los Angeles, CA",
+    "slug": "los-angeles-ca",
+    "state": "CA",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997054.22505652cdc271c437a20c42d896114f5568879a&woe_id=2442047"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/los-angeles-ca",
+        "location": "https://www.kickstarter.com/locations/los-angeles-ca"
+      }
+    }
+  },
+  "name": "Momo | Your Intelligent Smart Home Assistant",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/016/401/079/c4e648eb676fa6e019f5a5f5418684dc_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1493739608&auto=format&frame=1&q=92&s=b0bdf5f414af982f4e07f956b74b37f1",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/016/401/079/c4e648eb676fa6e019f5a5f5418684dc_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1493739608&auto=format&frame=1&q=92&s=e958f67ecbbe5a088a9d7c1b5fdc23ad",
+    "ed": "https://ksr-ugc.imgix.net/assets/016/401/079/c4e648eb676fa6e019f5a5f5418684dc_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1493739608&auto=format&frame=1&q=92&s=2fa45ec5b88f59a2ee5d8077a2153b03",
+    "full": "https://ksr-ugc.imgix.net/assets/016/401/079/c4e648eb676fa6e019f5a5f5418684dc_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1493739608&auto=format&frame=1&q=92&s=fe0fea446af38c465266f278a1b0cba2",
+    "key": "assets/016/401/079/c4e648eb676fa6e019f5a5f5418684dc_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/016/401/079/c4e648eb676fa6e019f5a5f5418684dc_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1493739608&auto=format&frame=1&q=92&s=d700d132c6e0bf6477d4a1da35c37f66",
+    "med": "https://ksr-ugc.imgix.net/assets/016/401/079/c4e648eb676fa6e019f5a5f5418684dc_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1493739608&auto=format&frame=1&q=92&s=beca3912db8bb3560825184445be6b94",
+    "small": "https://ksr-ugc.imgix.net/assets/016/401/079/c4e648eb676fa6e019f5a5f5418684dc_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1493739608&auto=format&frame=1&q=92&s=3de35006feea5e1c431b9fde468c739a",
+    "thumb": "https://ksr-ugc.imgix.net/assets/016/401/079/c4e648eb676fa6e019f5a5f5418684dc_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1493739608&auto=format&frame=1&q=92&s=67db1c8877f924b89588bedf70401f50"
+  },
+  "pledged": 54446.0,
+  "profile": {
+    "background_color": "",
+    "background_image_opacity": 0.8,
+    "blurb": "Momo is a smart home robot, equipped with artificial intelligence, and designed as a super hub with standalone security features.",
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/016/401/079/c4e648eb676fa6e019f5a5f5418684dc_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1493739608&auto=format&frame=1&q=92&s=fe0fea446af38c465266f278a1b0cba2",
+        "default": "https://ksr-ugc.imgix.net/assets/016/401/079/c4e648eb676fa6e019f5a5f5418684dc_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1493739608&auto=format&frame=1&q=92&s=e958f67ecbbe5a088a9d7c1b5fdc23ad"
+      }
+    },
+    "id": 2962265,
+    "link_background_color": "ea1478",
+    "link_text": "Pre-Order Now",
+    "link_text_color": "",
+    "link_url": "http://bit.ly/2tStUtd",
+    "name": "Momo | Your Intelligent Smart Home Assistant",
+    "project_id": 2962265,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "active",
+    "state_changed_at": 1497026617,
+    "text_color": ""
+  },
+  "slug": "momo-your-intelligent-smart-home-assistant",
+  "spotlight": true,
+  "staff_pick": false,
+  "state": "successful",
+  "state_changed_at": 1496849197,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/98269215/momo-your-intelligent-smart-home-assistant?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/98269215/momo-your-intelligent-smart-home-assistant/rewards"
+    }
+  },
+  "usd_pledged": "54446.0",
+  "usd_type": "international"
+}

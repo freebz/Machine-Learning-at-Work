@@ -1,0 +1,122 @@
+{
+  "backers_count": 5,
+  "blurb": "Allows you to use an HD projector wherever you take your laptop!",
+  "category": {
+    "color": 6526716,
+    "id": 52,
+    "name": "Hardware",
+    "parent_id": 16,
+    "position": 8,
+    "slug": "technology/hardware",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/hardware"
+      }
+    }
+  },
+  "converted_pledged_amount": 1328,
+  "country": "US",
+  "created_at": 1424415031,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/009/596/971/1af3757f59a6eac3d5a02460f0f42ea3_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461605640&auto=format&frame=1&q=92&s=8734ecd80ecc0012ce7472030bf4fcc9",
+      "small": "https://ksr-ugc.imgix.net/assets/009/596/971/1af3757f59a6eac3d5a02460f0f42ea3_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461605640&auto=format&frame=1&q=92&s=8734ecd80ecc0012ce7472030bf4fcc9",
+      "thumb": "https://ksr-ugc.imgix.net/assets/009/596/971/1af3757f59a6eac3d5a02460f0f42ea3_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461605640&auto=format&frame=1&q=92&s=0a6e741aaaf3aa38a13bfdcc11f82ef8"
+    },
+    "chosen_currency": null,
+    "id": 60424262,
+    "is_registered": null,
+    "name": "MVP by Goren Enterprises",
+    "slug": "mvp2015",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/60424262?signature=1559027597.360aa985b1d84bc02cccf310e30ee9970ca2cd53"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/mvp2015"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1432326565,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 185000.0,
+  "id": 1538501613,
+  "is_starrable": false,
+  "launched_at": 1429734565,
+  "location": {
+    "country": "US",
+    "displayable_name": "Indianapolis, IN",
+    "id": 2427032,
+    "is_root": false,
+    "localized_name": "Indianapolis",
+    "name": "Indianapolis",
+    "short_name": "Indianapolis, IN",
+    "slug": "indianapolis-in",
+    "state": "IN",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997055.0ce4a731a5f7cfe8ebd02ec355a8d909ea21be10&woe_id=2427032"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/indianapolis-in",
+        "location": "https://www.kickstarter.com/locations/indianapolis-in"
+      }
+    }
+  },
+  "name": "Mobile Vision Pro - Laptop/Projector Harness On The Go!",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/043/514/92f6a57fd15825513e2369588cae2191_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463726788&auto=format&frame=1&q=92&s=f12323f61f377f5dfe331f863e91a75e",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/043/514/92f6a57fd15825513e2369588cae2191_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463726788&auto=format&frame=1&q=92&s=0a2932c4c5b355c5888fb6c6aacab412",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/043/514/92f6a57fd15825513e2369588cae2191_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463726788&auto=format&frame=1&q=92&s=9b177a66da1cf6da570893380c134796",
+    "full": "https://ksr-ugc.imgix.net/assets/012/043/514/92f6a57fd15825513e2369588cae2191_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463726788&auto=format&frame=1&q=92&s=b927702389b8f52c5135535c58e3a120",
+    "key": "assets/012/043/514/92f6a57fd15825513e2369588cae2191_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/012/043/514/92f6a57fd15825513e2369588cae2191_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463726788&auto=format&frame=1&q=92&s=46a1bb38d897b244c6e0c5eeec4c9e72",
+    "med": "https://ksr-ugc.imgix.net/assets/012/043/514/92f6a57fd15825513e2369588cae2191_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463726788&auto=format&frame=1&q=92&s=fad90ea3227ce0290c24c57846c2b0fd",
+    "small": "https://ksr-ugc.imgix.net/assets/012/043/514/92f6a57fd15825513e2369588cae2191_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463726788&auto=format&frame=1&q=92&s=a577f94a308390caa2a76384c8f74ecc",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/043/514/92f6a57fd15825513e2369588cae2191_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463726788&auto=format&frame=1&q=92&s=416c6c2d61e892f5a76e762059eee469"
+  },
+  "pledged": 1328.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/043/514/92f6a57fd15825513e2369588cae2191_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463726788&auto=format&frame=1&q=92&s=b927702389b8f52c5135535c58e3a120",
+        "default": "https://ksr-ugc.imgix.net/assets/012/043/514/92f6a57fd15825513e2369588cae2191_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463726788&auto=format&frame=1&q=92&s=0a2932c4c5b355c5888fb6c6aacab412"
+      }
+    },
+    "id": 1718358,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1718358,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1425915894,
+    "text_color": null
+  },
+  "slug": "mobile-vision-pro",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1432326614,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/mvp2015/mobile-vision-pro?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/mvp2015/mobile-vision-pro/rewards"
+    }
+  },
+  "usd_pledged": "1328.0",
+  "usd_type": "international"
+}

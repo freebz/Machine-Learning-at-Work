@@ -1,0 +1,121 @@
+{
+  "backers_count": 17,
+  "blurb": "Wikipedia can tell you the \"what?\", but VK tells you the \"why?\" Understand things as deeply as scientists do!",
+  "category": {
+    "color": 6526716,
+    "id": 51,
+    "name": "Software",
+    "parent_id": 16,
+    "position": 11,
+    "slug": "technology/software",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/software"
+      }
+    }
+  },
+  "converted_pledged_amount": 244,
+  "country": "NZ",
+  "created_at": 1398165145,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/008/540/507/38821f58a6ec2a3c88d6de663a80c86a_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1475788483&auto=format&frame=1&q=92&s=d0f6867f4e7708dee4a2715af510072b",
+      "small": "https://ksr-ugc.imgix.net/assets/008/540/507/38821f58a6ec2a3c88d6de663a80c86a_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1475788483&auto=format&frame=1&q=92&s=d0f6867f4e7708dee4a2715af510072b",
+      "thumb": "https://ksr-ugc.imgix.net/assets/008/540/507/38821f58a6ec2a3c88d6de663a80c86a_original.png?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1475788483&auto=format&frame=1&q=92&s=e9fae8f6dd759564993de2ed4f2d7dfc"
+    },
+    "chosen_currency": null,
+    "id": 1959561272,
+    "is_registered": null,
+    "name": "William Sando",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1959561272?signature=1559028138.23f1ec370c03de94bb88cc74ec343fb9e72b42ac"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1959561272"
+      }
+    }
+  },
+  "currency": "NZD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1404343450,
+  "disable_communication": false,
+  "fx_rate": 0.65548969,
+  "goal": 10900.0,
+  "id": 1667836088,
+  "is_starrable": false,
+  "launched_at": 1399159450,
+  "location": {
+    "country": "NZ",
+    "displayable_name": "Auckland, NZ",
+    "id": 2348079,
+    "is_root": false,
+    "localized_name": "Auckland",
+    "name": "Auckland",
+    "short_name": "Auckland, NZ",
+    "slug": "auckland-nz",
+    "state": "Auckland Region",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997071.f4459306a94db0cf88952633a7cff06dec58280c&woe_id=2348079"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/auckland-nz",
+        "location": "https://www.kickstarter.com/locations/auckland-nz"
+      }
+    }
+  },
+  "name": "verticalknowledge.org",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/011/689/900/2ae3cb04c803628b26051328d7cf4443_original.png?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463686839&auto=format&frame=1&q=92&s=416c825510e0bbc83d04d462ef8c23e6",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/011/689/900/2ae3cb04c803628b26051328d7cf4443_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463686839&auto=format&frame=1&q=92&s=9f0a5e0f19834222cead9b79d9a55196",
+    "ed": "https://ksr-ugc.imgix.net/assets/011/689/900/2ae3cb04c803628b26051328d7cf4443_original.png?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463686839&auto=format&frame=1&q=92&s=82da9c43326a8a847501d28df0e90761",
+    "full": "https://ksr-ugc.imgix.net/assets/011/689/900/2ae3cb04c803628b26051328d7cf4443_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463686839&auto=format&frame=1&q=92&s=8f5f3d9473523f2d37e5085f687f5b9e",
+    "key": "assets/011/689/900/2ae3cb04c803628b26051328d7cf4443_original.png",
+    "little": "https://ksr-ugc.imgix.net/assets/011/689/900/2ae3cb04c803628b26051328d7cf4443_original.png?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463686839&auto=format&frame=1&q=92&s=a2c1e71adbb32e2e2e33c7910992601c",
+    "med": "https://ksr-ugc.imgix.net/assets/011/689/900/2ae3cb04c803628b26051328d7cf4443_original.png?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463686839&auto=format&frame=1&q=92&s=64ab318384ea910cd4a3cdf66ce5c6d7",
+    "small": "https://ksr-ugc.imgix.net/assets/011/689/900/2ae3cb04c803628b26051328d7cf4443_original.png?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463686839&auto=format&frame=1&q=92&s=81220f2ff5fbb77f55933c83c5fa7538",
+    "thumb": "https://ksr-ugc.imgix.net/assets/011/689/900/2ae3cb04c803628b26051328d7cf4443_original.png?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463686839&auto=format&frame=1&q=92&s=49405c1066b6ec59128b33e7ca6d87ee"
+  },
+  "pledged": 279.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/011/689/900/2ae3cb04c803628b26051328d7cf4443_original.png?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463686839&auto=format&frame=1&q=92&s=8f5f3d9473523f2d37e5085f687f5b9e",
+        "default": "https://ksr-ugc.imgix.net/assets/011/689/900/2ae3cb04c803628b26051328d7cf4443_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463686839&auto=format&frame=1&q=92&s=9f0a5e0f19834222cead9b79d9a55196"
+      }
+    },
+    "id": 987290,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 987290,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1425915854,
+    "text_color": null
+  },
+  "slug": "verticalknowledgeorg-0",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1404343450,
+  "static_usd_rate": 0.86238493,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1959561272/verticalknowledgeorg-0?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1959561272/verticalknowledgeorg-0/rewards"
+    }
+  },
+  "usd_pledged": "240.60539547",
+  "usd_type": "international"
+}

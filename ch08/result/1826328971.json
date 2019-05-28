@@ -1,0 +1,121 @@
+{
+  "backers_count": 0,
+  "blurb": "Saleapp is the app that lets you discover everything that you love on SALE a few meters from you, Saleapp is free on  IOS.",
+  "category": {
+    "color": 6526716,
+    "id": 332,
+    "name": "Apps",
+    "parent_id": 16,
+    "position": 2,
+    "slug": "technology/apps",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/apps"
+      }
+    }
+  },
+  "converted_pledged_amount": 0,
+  "country": "NL",
+  "created_at": 1488638654,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/015/746/476/f1aee0c0679d26711d187bccb9955d64_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1488713767&auto=format&frame=1&q=92&s=1307435656278cca861cd92b9870bb07",
+      "small": "https://ksr-ugc.imgix.net/assets/015/746/476/f1aee0c0679d26711d187bccb9955d64_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1488713767&auto=format&frame=1&q=92&s=1307435656278cca861cd92b9870bb07",
+      "thumb": "https://ksr-ugc.imgix.net/assets/015/746/476/f1aee0c0679d26711d187bccb9955d64_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1488713767&auto=format&frame=1&q=92&s=ce977ce546ac930fa7472932e57ab0bd"
+    },
+    "chosen_currency": null,
+    "id": 520877691,
+    "is_registered": null,
+    "name": "Michel Diaz",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/520877691?signature=1559026552.04f4498696a324edebd1dc28fa7d72cda44aa319"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/520877691"
+      }
+    }
+  },
+  "currency": "EUR",
+  "currency_symbol": "\u20ac",
+  "currency_trailing_code": false,
+  "current_currency": "USD",
+  "deadline": 1495096610,
+  "disable_communication": false,
+  "fx_rate": 1.12155025,
+  "goal": 50000.0,
+  "id": 1826328971,
+  "is_starrable": false,
+  "launched_at": 1489912610,
+  "location": {
+    "country": "NL",
+    "displayable_name": "Amsterdam, Netherlands",
+    "id": 727232,
+    "is_root": false,
+    "localized_name": "Amsterdam",
+    "name": "Amsterdam",
+    "short_name": "Amsterdam, Netherlands",
+    "slug": "amsterdam-nl",
+    "state": "North Holland",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997058.b6d11f8890f9f19b294818512951d946699d8ca8&woe_id=727232"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/amsterdam-nl",
+        "location": "https://www.kickstarter.com/locations/amsterdam-nl"
+      }
+    }
+  },
+  "name": "Saleapp - For the Things you Love Around",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/015/746/356/3a5b51ea54fb981d5c8799b465f4a5d1_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1488713080&auto=format&frame=1&q=92&s=e69a61fe0a2a6bfe2aa90a10e803dc91",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/015/746/356/3a5b51ea54fb981d5c8799b465f4a5d1_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1488713080&auto=format&frame=1&q=92&s=1be9fe865eab1f2a3a05f9c512476fbb",
+    "ed": "https://ksr-ugc.imgix.net/assets/015/746/356/3a5b51ea54fb981d5c8799b465f4a5d1_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1488713080&auto=format&frame=1&q=92&s=62c6743ac4ebe787458666469d61a6be",
+    "full": "https://ksr-ugc.imgix.net/assets/015/746/356/3a5b51ea54fb981d5c8799b465f4a5d1_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1488713080&auto=format&frame=1&q=92&s=c8bd0e3fe2b5aed4ed6f0ebc4ab662c6",
+    "key": "assets/015/746/356/3a5b51ea54fb981d5c8799b465f4a5d1_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/015/746/356/3a5b51ea54fb981d5c8799b465f4a5d1_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1488713080&auto=format&frame=1&q=92&s=d3abf825e07c85a9c84aa43312ae4c07",
+    "med": "https://ksr-ugc.imgix.net/assets/015/746/356/3a5b51ea54fb981d5c8799b465f4a5d1_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1488713080&auto=format&frame=1&q=92&s=d4cc32fd2cea4402b12f9ed477d4d759",
+    "small": "https://ksr-ugc.imgix.net/assets/015/746/356/3a5b51ea54fb981d5c8799b465f4a5d1_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1488713080&auto=format&frame=1&q=92&s=bf5f743e7b955a6387ebcc9f4a0da08d",
+    "thumb": "https://ksr-ugc.imgix.net/assets/015/746/356/3a5b51ea54fb981d5c8799b465f4a5d1_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1488713080&auto=format&frame=1&q=92&s=13339b7273c8cbb35907e3f3d85b651d"
+  },
+  "pledged": 0.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/015/746/356/3a5b51ea54fb981d5c8799b465f4a5d1_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1488713080&auto=format&frame=1&q=92&s=c8bd0e3fe2b5aed4ed6f0ebc4ab662c6",
+        "default": "https://ksr-ugc.imgix.net/assets/015/746/356/3a5b51ea54fb981d5c8799b465f4a5d1_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1488713080&auto=format&frame=1&q=92&s=1be9fe865eab1f2a3a05f9c512476fbb"
+      }
+    },
+    "id": 2905505,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2905505,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1488638654,
+    "text_color": null
+  },
+  "slug": "saleapp-for-the-things-you-love-around",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1495096610,
+  "static_usd_rate": 1.07474993,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/520877691/saleapp-for-the-things-you-love-around?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/520877691/saleapp-for-the-things-you-love-around/rewards"
+    }
+  },
+  "usd_pledged": "0.0",
+  "usd_type": "international"
+}

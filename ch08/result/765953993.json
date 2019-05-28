@@ -1,0 +1,121 @@
+{
+  "backers_count": 0,
+  "blurb": "Have ever seen something in a store window and wished you had the time to try it on, well with VR assist you virtually will.",
+  "category": {
+    "color": 6526716,
+    "id": 51,
+    "name": "Software",
+    "parent_id": 16,
+    "position": 11,
+    "slug": "technology/software",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/software"
+      }
+    }
+  },
+  "converted_pledged_amount": 0,
+  "country": "US",
+  "created_at": 1397536495,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/008/467/606/3ff7f3b2abff993aa4db6594ac6d0b7a_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461525819&auto=format&frame=1&q=92&s=0bd14ead06a0350a5767042c863eb5ad",
+      "small": "https://ksr-ugc.imgix.net/assets/008/467/606/3ff7f3b2abff993aa4db6594ac6d0b7a_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461525819&auto=format&frame=1&q=92&s=0bd14ead06a0350a5767042c863eb5ad",
+      "thumb": "https://ksr-ugc.imgix.net/assets/008/467/606/3ff7f3b2abff993aa4db6594ac6d0b7a_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461525819&auto=format&frame=1&q=92&s=dff74133c9500af1f185a78c1fff07c9"
+    },
+    "chosen_currency": null,
+    "id": 157619355,
+    "is_registered": null,
+    "name": "Dustin S. Hinkle",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/157619355?signature=1559028138.2cdbfee3b3a58a8c63eb63c1abf59f07aed870d1"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/157619355"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1402550633,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 75000.0,
+  "id": 765953993,
+  "is_starrable": false,
+  "launched_at": 1399958633,
+  "location": {
+    "country": "US",
+    "displayable_name": "Laguna Vista, TX",
+    "id": 2434654,
+    "is_root": false,
+    "localized_name": "Laguna Vista",
+    "name": "Laguna Vista",
+    "short_name": "Laguna Vista, TX",
+    "slug": "laguna-vista-tx",
+    "state": "TX",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1559018695.20ec35f142c03d17c2a3ef42edf388dda53ed4c6&woe_id=2434654"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/laguna-vista-tx",
+        "location": "https://www.kickstarter.com/locations/laguna-vista-tx"
+      }
+    }
+  },
+  "name": "Virtual Assist!!!",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/011/685/006/ea49e651bed25877b9b60d51d8838c0d_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463686773&auto=format&frame=1&q=92&s=b25fc33e1b9fe255f2936e9c59191c09",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/011/685/006/ea49e651bed25877b9b60d51d8838c0d_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463686773&auto=format&frame=1&q=92&s=e4658febc394b8250136aff889fc1b6f",
+    "ed": "https://ksr-ugc.imgix.net/assets/011/685/006/ea49e651bed25877b9b60d51d8838c0d_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463686773&auto=format&frame=1&q=92&s=4d54c9ff1e3c85ded357d5e7eda26aa9",
+    "full": "https://ksr-ugc.imgix.net/assets/011/685/006/ea49e651bed25877b9b60d51d8838c0d_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463686773&auto=format&frame=1&q=92&s=20a562c7d61d664afdff11e10ab576ff",
+    "key": "assets/011/685/006/ea49e651bed25877b9b60d51d8838c0d_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/011/685/006/ea49e651bed25877b9b60d51d8838c0d_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463686773&auto=format&frame=1&q=92&s=3479091ef128490f37f04da3ecc28559",
+    "med": "https://ksr-ugc.imgix.net/assets/011/685/006/ea49e651bed25877b9b60d51d8838c0d_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463686773&auto=format&frame=1&q=92&s=008c114892beae64de4062166ee74af4",
+    "small": "https://ksr-ugc.imgix.net/assets/011/685/006/ea49e651bed25877b9b60d51d8838c0d_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463686773&auto=format&frame=1&q=92&s=43064ae4a646199c01e83c81fdacbcdd",
+    "thumb": "https://ksr-ugc.imgix.net/assets/011/685/006/ea49e651bed25877b9b60d51d8838c0d_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463686773&auto=format&frame=1&q=92&s=80a7a1dc0ab17a003553fda6fa4e6bd7"
+  },
+  "pledged": 0.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/011/685/006/ea49e651bed25877b9b60d51d8838c0d_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463686773&auto=format&frame=1&q=92&s=20a562c7d61d664afdff11e10ab576ff",
+        "default": "https://ksr-ugc.imgix.net/assets/011/685/006/ea49e651bed25877b9b60d51d8838c0d_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463686773&auto=format&frame=1&q=92&s=e4658febc394b8250136aff889fc1b6f"
+      }
+    },
+    "id": 975614,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 975614,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1425915854,
+    "text_color": null
+  },
+  "slug": "virtual-assist",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1402550633,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/157619355/virtual-assist?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/157619355/virtual-assist/rewards"
+    }
+  },
+  "usd_pledged": "0.0",
+  "usd_type": "international"
+}

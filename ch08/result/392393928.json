@@ -1,0 +1,121 @@
+{
+  "backers_count": 0,
+  "blurb": "We are creating a one-stop shop for all of your fantasy gaming needs. 1 location. 1 username. 1 password. What's your fantasy?",
+  "category": {
+    "color": 6526716,
+    "id": 342,
+    "name": "Web",
+    "parent_id": 16,
+    "position": 15,
+    "slug": "technology/web",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/web"
+      }
+    }
+  },
+  "converted_pledged_amount": 0,
+  "country": "US",
+  "created_at": 1431977942,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/009/924/006/caf7d769faf4da35edd5d4c991f22936_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461652947&auto=format&frame=1&q=92&s=8d352fe554568ad5ffbc5b2c57b5c024",
+      "small": "https://ksr-ugc.imgix.net/assets/009/924/006/caf7d769faf4da35edd5d4c991f22936_original.jpg?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461652947&auto=format&frame=1&q=92&s=8d352fe554568ad5ffbc5b2c57b5c024",
+      "thumb": "https://ksr-ugc.imgix.net/assets/009/924/006/caf7d769faf4da35edd5d4c991f22936_original.jpg?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461652947&auto=format&frame=1&q=92&s=72e4151d0d36d0741c64ca3b29a29334"
+    },
+    "chosen_currency": null,
+    "id": 1901512100,
+    "is_registered": null,
+    "name": "Andrew Allaire",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1901512100?signature=1559028902.125a2226a6763672e1e06ca8834bf6e2c2611786"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1901512100"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1435078163,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 5000.0,
+  "id": 392393928,
+  "is_starrable": false,
+  "launched_at": 1432054163,
+  "location": {
+    "country": "US",
+    "displayable_name": "Los Angeles, CA",
+    "id": 2442047,
+    "is_root": false,
+    "localized_name": "Los Angeles",
+    "name": "Los Angeles",
+    "short_name": "Los Angeles, CA",
+    "slug": "los-angeles-ca",
+    "state": "CA",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997054.22505652cdc271c437a20c42d896114f5568879a&woe_id=2442047"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/los-angeles-ca",
+        "location": "https://www.kickstarter.com/locations/los-angeles-ca"
+      }
+    }
+  },
+  "name": "YourFantasyNow.com",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/142/005/caf7d769faf4da35edd5d4c991f22936_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463738403&auto=format&frame=1&q=92&s=5710a0c41905de0ecda04c7da62a004c",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/142/005/caf7d769faf4da35edd5d4c991f22936_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463738403&auto=format&frame=1&q=92&s=e24cbd0934b971f17972bd1c8829b17d",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/142/005/caf7d769faf4da35edd5d4c991f22936_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463738403&auto=format&frame=1&q=92&s=8e8f5894162d743dde618a3c5b544846",
+    "full": "https://ksr-ugc.imgix.net/assets/012/142/005/caf7d769faf4da35edd5d4c991f22936_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463738403&auto=format&frame=1&q=92&s=403d819d9752d380b51793b66428d104",
+    "key": "assets/012/142/005/caf7d769faf4da35edd5d4c991f22936_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/012/142/005/caf7d769faf4da35edd5d4c991f22936_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463738403&auto=format&frame=1&q=92&s=b58b77f5393bfcc24ea65a01b8b304e5",
+    "med": "https://ksr-ugc.imgix.net/assets/012/142/005/caf7d769faf4da35edd5d4c991f22936_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463738403&auto=format&frame=1&q=92&s=cb85a16e8569f127b4857b4be30d0eb0",
+    "small": "https://ksr-ugc.imgix.net/assets/012/142/005/caf7d769faf4da35edd5d4c991f22936_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463738403&auto=format&frame=1&q=92&s=e99bb1658c2397a95faf8062f6895e8d",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/142/005/caf7d769faf4da35edd5d4c991f22936_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463738403&auto=format&frame=1&q=92&s=28d96b86c905ff8d56ffe3cadbd1ca43"
+  },
+  "pledged": 0.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/142/005/caf7d769faf4da35edd5d4c991f22936_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463738403&auto=format&frame=1&q=92&s=403d819d9752d380b51793b66428d104",
+        "default": "https://ksr-ugc.imgix.net/assets/012/142/005/caf7d769faf4da35edd5d4c991f22936_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463738403&auto=format&frame=1&q=92&s=e24cbd0934b971f17972bd1c8829b17d"
+      }
+    },
+    "id": 1907408,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 1907408,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1431977942,
+    "text_color": null
+  },
+  "slug": "yourfantasynowcom",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1435078166,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1901512100/yourfantasynowcom?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1901512100/yourfantasynowcom/rewards"
+    }
+  },
+  "usd_pledged": "0.0",
+  "usd_type": "international"
+}

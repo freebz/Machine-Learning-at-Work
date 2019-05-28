@@ -1,0 +1,121 @@
+{
+  "backers_count": 10,
+  "blurb": "Innovative device for food sterilization. PureMeal purifies foodstaff from harmful bacteria's and keeps it fresh much longer.",
+  "category": {
+    "color": 6526716,
+    "id": 337,
+    "name": "Gadgets",
+    "parent_id": 16,
+    "position": 7,
+    "slug": "technology/gadgets",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/gadgets"
+      }
+    }
+  },
+  "converted_pledged_amount": 2979,
+  "country": "GB",
+  "created_at": 1445858918,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/010/458/172/fb34a431c6793dec14be11f199d2d548_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461691291&auto=format&frame=1&q=92&s=14929b5aea60ebee4521e5b745da9405",
+      "small": "https://ksr-ugc.imgix.net/assets/010/458/172/fb34a431c6793dec14be11f199d2d548_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461691291&auto=format&frame=1&q=92&s=14929b5aea60ebee4521e5b745da9405",
+      "thumb": "https://ksr-ugc.imgix.net/assets/010/458/172/fb34a431c6793dec14be11f199d2d548_original.png?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461691291&auto=format&frame=1&q=92&s=5e61a70ec420c0bc31069eb709cc0e21"
+    },
+    "chosen_currency": null,
+    "id": 1146363051,
+    "is_registered": null,
+    "name": "PureMeal",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1146363051?signature=1559027341.09db168ba94612aceb81e4fda8bef08de4f30ff0"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/1146363051"
+      }
+    }
+  },
+  "currency": "GBP",
+  "currency_symbol": "\u00a3",
+  "currency_trailing_code": false,
+  "current_currency": "USD",
+  "deadline": 1449143094,
+  "disable_communication": false,
+  "fx_rate": 1.27343275,
+  "goal": 25000.0,
+  "id": 1451448950,
+  "is_starrable": false,
+  "launched_at": 1446551094,
+  "location": {
+    "country": "GB",
+    "displayable_name": "Oxford, UK",
+    "id": 31278,
+    "is_root": false,
+    "localized_name": "Oxford",
+    "name": "Oxford",
+    "short_name": "Oxford, UK",
+    "slug": "oxford-gb",
+    "state": "England",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997081.4f0f31736aec15d4c8f0608bffef7d395248b338&woe_id=31278"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/oxford-gb",
+        "location": "https://www.kickstarter.com/locations/oxford-gb"
+      }
+    }
+  },
+  "name": "PureMeal - bacteria killer!",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/289/497/1ccd014514ec9b2a822816964ca53601_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463751694&auto=format&frame=1&q=92&s=af3d0abf82cd02a7126e41caf4edd0cf",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/289/497/1ccd014514ec9b2a822816964ca53601_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463751694&auto=format&frame=1&q=92&s=1c58ae9c0fa6dd4331eca8e5c8e879ae",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/289/497/1ccd014514ec9b2a822816964ca53601_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463751694&auto=format&frame=1&q=92&s=fd4bfa159e36bfad92e4098519a90104",
+    "full": "https://ksr-ugc.imgix.net/assets/012/289/497/1ccd014514ec9b2a822816964ca53601_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463751694&auto=format&frame=1&q=92&s=e060a655379c7c965651f40a7a9a68a8",
+    "key": "assets/012/289/497/1ccd014514ec9b2a822816964ca53601_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/012/289/497/1ccd014514ec9b2a822816964ca53601_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463751694&auto=format&frame=1&q=92&s=e1b3b53ee46614153435aa50e8282ba0",
+    "med": "https://ksr-ugc.imgix.net/assets/012/289/497/1ccd014514ec9b2a822816964ca53601_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463751694&auto=format&frame=1&q=92&s=73a6e680f602fa074ea4cd41a2f37518",
+    "small": "https://ksr-ugc.imgix.net/assets/012/289/497/1ccd014514ec9b2a822816964ca53601_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463751694&auto=format&frame=1&q=92&s=7b20c0febb7521aa0c7f259075dd6cf8",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/289/497/1ccd014514ec9b2a822816964ca53601_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463751694&auto=format&frame=1&q=92&s=87688c601931634c52d1168745e74ff8"
+  },
+  "pledged": 1996.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/289/497/1ccd014514ec9b2a822816964ca53601_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463751694&auto=format&frame=1&q=92&s=e060a655379c7c965651f40a7a9a68a8",
+        "default": "https://ksr-ugc.imgix.net/assets/012/289/497/1ccd014514ec9b2a822816964ca53601_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463751694&auto=format&frame=1&q=92&s=1c58ae9c0fa6dd4331eca8e5c8e879ae"
+      }
+    },
+    "id": 2193750,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2193750,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1445858918,
+    "text_color": null
+  },
+  "slug": "puremeal-bacteria-killer",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1449143094,
+  "static_usd_rate": 1.54321702,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/1146363051/puremeal-bacteria-killer?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/1146363051/puremeal-bacteria-killer/rewards"
+    }
+  },
+  "usd_pledged": "3080.26117192",
+  "usd_type": "international"
+}

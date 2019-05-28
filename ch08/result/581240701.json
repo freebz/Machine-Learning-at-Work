@@ -1,0 +1,121 @@
+{
+  "backers_count": 49,
+  "blurb": "Buzzarm is a smart warning device with an active anti-theft system that prevents pickpocketing. Invented in Ukraine for safer living.",
+  "category": {
+    "color": 6526716,
+    "id": 337,
+    "name": "Gadgets",
+    "parent_id": 16,
+    "position": 7,
+    "slug": "technology/gadgets",
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/technology/gadgets"
+      }
+    }
+  },
+  "converted_pledged_amount": 2116,
+  "country": "US",
+  "created_at": 1446105422,
+  "creator": {
+    "avatar": {
+      "medium": "https://ksr-ugc.imgix.net/assets/010/185/780/98a66072736c09a9afe9b771b7404598_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461672445&auto=format&frame=1&q=92&s=48fb6d20192c446604608f279b601011",
+      "small": "https://ksr-ugc.imgix.net/assets/010/185/780/98a66072736c09a9afe9b771b7404598_original.png?ixlib=rb-2.0.0&w=160&h=160&fit=crop&v=1461672445&auto=format&frame=1&q=92&s=48fb6d20192c446604608f279b601011",
+      "thumb": "https://ksr-ugc.imgix.net/assets/010/185/780/98a66072736c09a9afe9b771b7404598_original.png?ixlib=rb-2.0.0&w=40&h=40&fit=crop&v=1461672445&auto=format&frame=1&q=92&s=8a864cb69f8ce86c38d16cea731db94e"
+    },
+    "chosen_currency": null,
+    "id": 482352743,
+    "is_registered": null,
+    "name": "Antarit",
+    "urls": {
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/482352743?signature=1559027341.20a8d2e227dd1668528452dc6b089572a4537c64"
+      },
+      "web": {
+        "user": "https://www.kickstarter.com/profile/482352743"
+      }
+    }
+  },
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "current_currency": "USD",
+  "deadline": 1450193915,
+  "disable_communication": false,
+  "fx_rate": 1.0,
+  "goal": 50000.0,
+  "id": 581240701,
+  "is_starrable": false,
+  "launched_at": 1446737915,
+  "location": {
+    "country": "US",
+    "displayable_name": "Wilmington, DE",
+    "id": 2521358,
+    "is_root": false,
+    "localized_name": "Wilmington",
+    "name": "Wilmington",
+    "short_name": "Wilmington, DE",
+    "slug": "wilmington-de",
+    "state": "DE",
+    "type": "Town",
+    "urls": {
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1558997061.2dbbe61c266285859186f9139e39dd8a35568c92&woe_id=2521358"
+      },
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/wilmington-de",
+        "location": "https://www.kickstarter.com/locations/wilmington-de"
+      }
+    }
+  },
+  "name": "BUZZARM: World's First Smart Guard For Wallets",
+  "photo": {
+    "1024x576": "https://ksr-ugc.imgix.net/assets/012/292/329/29e784b99b8c2d8d0b24136bb040e339_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1024&h=576&fit=crop&v=1463752088&auto=format&frame=1&q=92&s=1db5a6a863ac0f21c925bc7c6acfe139",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/012/292/329/29e784b99b8c2d8d0b24136bb040e339_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463752088&auto=format&frame=1&q=92&s=1384fea54da271eef871b1a925382572",
+    "ed": "https://ksr-ugc.imgix.net/assets/012/292/329/29e784b99b8c2d8d0b24136bb040e339_original.jpg?ixlib=rb-2.0.0&crop=faces&w=352&h=198&fit=crop&v=1463752088&auto=format&frame=1&q=92&s=38bb99c7886e8cd74581d3b2cc32bb6e",
+    "full": "https://ksr-ugc.imgix.net/assets/012/292/329/29e784b99b8c2d8d0b24136bb040e339_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463752088&auto=format&frame=1&q=92&s=50fb5c51612aa0beba8e6d9a3e95ab70",
+    "key": "assets/012/292/329/29e784b99b8c2d8d0b24136bb040e339_original.jpg",
+    "little": "https://ksr-ugc.imgix.net/assets/012/292/329/29e784b99b8c2d8d0b24136bb040e339_original.jpg?ixlib=rb-2.0.0&crop=faces&w=208&h=117&fit=crop&v=1463752088&auto=format&frame=1&q=92&s=8c9bcaa387f961d4da02a410ac206e07",
+    "med": "https://ksr-ugc.imgix.net/assets/012/292/329/29e784b99b8c2d8d0b24136bb040e339_original.jpg?ixlib=rb-2.0.0&crop=faces&w=272&h=153&fit=crop&v=1463752088&auto=format&frame=1&q=92&s=41f394b4c8f16be60e12c7038ae38959",
+    "small": "https://ksr-ugc.imgix.net/assets/012/292/329/29e784b99b8c2d8d0b24136bb040e339_original.jpg?ixlib=rb-2.0.0&crop=faces&w=160&h=90&fit=crop&v=1463752088&auto=format&frame=1&q=92&s=89ded7e05dd1507923df52c75f124cb0",
+    "thumb": "https://ksr-ugc.imgix.net/assets/012/292/329/29e784b99b8c2d8d0b24136bb040e339_original.jpg?ixlib=rb-2.0.0&crop=faces&w=48&h=27&fit=crop&v=1463752088&auto=format&frame=1&q=92&s=2d81bbc53ce8e94de4632d290da290b0"
+  },
+  "pledged": 2116.0,
+  "profile": {
+    "background_color": null,
+    "background_image_opacity": 0.8,
+    "blurb": null,
+    "feature_image_attributes": {
+      "image_urls": {
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/012/292/329/29e784b99b8c2d8d0b24136bb040e339_original.jpg?ixlib=rb-2.0.0&crop=faces&w=560&h=315&fit=crop&v=1463752088&auto=format&frame=1&q=92&s=50fb5c51612aa0beba8e6d9a3e95ab70",
+        "default": "https://ksr-ugc.imgix.net/assets/012/292/329/29e784b99b8c2d8d0b24136bb040e339_original.jpg?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1463752088&auto=format&frame=1&q=92&s=1384fea54da271eef871b1a925382572"
+      }
+    },
+    "id": 2199225,
+    "link_background_color": null,
+    "link_text": null,
+    "link_text_color": null,
+    "link_url": null,
+    "name": null,
+    "project_id": 2199225,
+    "should_show_feature_image_section": true,
+    "show_feature_image": false,
+    "state": "inactive",
+    "state_changed_at": 1446105422,
+    "text_color": null
+  },
+  "slug": "buzzarm-worlds-first-smart-guard-for-wallets",
+  "spotlight": false,
+  "staff_pick": false,
+  "state": "failed",
+  "state_changed_at": 1450193915,
+  "static_usd_rate": 1.0,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/482352743/buzzarm-worlds-first-smart-guard-for-wallets?ref=discovery_category_newest",
+      "rewards": "https://www.kickstarter.com/projects/482352743/buzzarm-worlds-first-smart-guard-for-wallets/rewards"
+    }
+  },
+  "usd_pledged": "2116.0",
+  "usd_type": "international"
+}
